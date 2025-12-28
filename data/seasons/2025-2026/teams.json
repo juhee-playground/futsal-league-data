@@ -1,8 +1,38 @@
 [
-  { "id": "t_gyeonggi", "name": "경기LBFS", "color": "#1d3765" },
-  { "id": "t_nowon", "name": "노원제너 FS", "color": "#051d2b" },
-  { "id": "t_eunpyeong", "name": "서울은평덴포스", "color": "#0281ba" },
-  { "id": "t_gangwon", "name": "강원FS", "color": "#de562a" },
-  { "id": "t_jeonju", "name": "전주시민풋살구단", "color": "#034c2d" },
-  { "id": "t_goyang", "name": "고양불스풋살클럽", "color": "#e7b573" }
+  {
+    "id": "t_gyeonggi",
+    "name": "경기LBFS",
+    "color": "#1d3765",
+    "logo": "team_gyeonggi.png"
+  },
+  {
+    "id": "t_nowon",
+    "name": "노원제너 FS",
+    "color": "#051d2b",
+    "logo": "team_nowon.png"
+  },
+  {
+    "id": "t_eunpyeong",
+    "name": "서울은평덴포스",
+    "color": "#0281ba",
+    "logo": "team_eunpyeong.png"
+  },
+  {
+    "id": "t_gangwon",
+    "name": "강원FS",
+    "color": "#de562a",
+    "logo": "team_gangwon.png"
+  },
+  {
+    "id": "t_jeonju",
+    "name": "전주시민풋살구단",
+    "color": "#034c2d",
+    "logo": "team_jeonju.png"
+  },
+  {
+    "id": "t_goyang",
+    "name": "고양불스풋살클럽",
+    "color": "#e7b573",
+    "logo": "team_goyang.png"
+  }
 ]
