@@ -1,0 +1,696 @@
+[
+  {
+    "id": "m_01",
+    "round": 1,
+    "date": "2025-11-15",
+    "time": "15:00",
+    "place": "서울은평 다목적체육관",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_gangwon",
+    "status": "FINISHED",
+    "score": { "home": 2, "away": 5 },
+    "goals": []
+  },
+  {
+    "id": "m_02",
+    "round": 1,
+    "date": "2025-11-15",
+    "time": "17:00",
+    "place": "경기LBFS트레이닝센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_jeonju",
+    "status": "FINISHED",
+    "score": { "home": 11, "away": 0 },
+    "goals": [
+      {
+        "playerId": "p_gyeonggi_15",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 2
+      },
+      {
+        "playerId": "p_gyeonggi_9",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 8
+      },
+      {
+        "playerId": "p_gyeonggi_29",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 9
+      },
+      {
+        "playerId": "p_gyeonggi_7",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 16
+      },
+      {
+        "playerId": "p_gyeonggi_15",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 2
+      },
+      {
+        "playerId": "p_gyeonggi_13",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 7
+      },
+      {
+        "playerId": "p_gyeonggi_18",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 10
+      },
+      {
+        "playerId": "p_gyeonggi_18",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 12
+      },
+      {
+        "playerId": "p_gyeonggi_5",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 14
+      },
+      {
+        "playerId": "p_gyeonggi_7",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 18
+      },
+      {
+        "playerId": "p_gyeonggi_29",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 19
+      }
+    ]
+  },
+  {
+    "id": "m_03",
+    "round": 1,
+    "date": "2025-11-22",
+    "time": "17:00",
+    "place": "경기LBFS트레이닝센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_goyang",
+    "status": "FINISHED",
+    "score": { "home": 2, "away": 4 },
+    "goals": [
+      {
+        "playerId": "p_gyeonggi_7",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 3
+      },
+      {
+        "playerId": "p_gyeonggi_18",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 10
+      }
+    ]
+  },
+  {
+    "id": "m_04",
+    "round": 1,
+    "date": "2025-11-23",
+    "time": "13:00",
+    "place": "서울은평 다목적체육관",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_nowon",
+    "status": "FINISHED",
+    "score": { "home": 1, "away": 7 },
+    "goals": []
+  },
+  {
+    "id": "m_05",
+    "round": 1,
+    "date": "2025-11-23",
+    "time": "14:00",
+    "place": "춘천호반체육관",
+    "homeTeamId": "t_gangwon",
+    "awayTeamId": "t_jeonju",
+    "status": "FINISHED",
+    "score": { "home": 3, "away": 3 },
+    "goals": []
+  },
+  {
+    "id": "m_06",
+    "round": 2,
+    "date": "2025-11-29",
+    "time": "16:00",
+    "place": "전주매그풋살구장",
+    "homeTeamId": "t_jeonju",
+    "awayTeamId": "t_nowon",
+    "status": "FINISHED",
+    "score": { "home": 1, "away": 2 },
+    "goals": []
+  },
+  {
+    "id": "m_07",
+    "round": 2,
+    "date": "2025-11-29",
+    "time": "17:00",
+    "place": "경기LBFS트레이닝센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_gangwon",
+    "status": "FINISHED",
+    "score": { "home": 5, "away": 1 },
+    "goals": [
+      {
+        "playerId": "p_gyeonggi_3",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 3
+      },
+      {
+        "playerId": "p_gyeonggi_8",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 7
+      },
+      {
+        "playerId": "p_gyeonggi_29",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 10
+      },
+      {
+        "playerId": "p_gyeonggi_3",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 7
+      },
+      {
+        "playerId": "p_gyeonggi_15",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 18
+      }
+    ]
+  },
+  {
+    "id": "m_08",
+    "round": 2,
+    "date": "2025-12-06",
+    "time": "16:00",
+    "place": "전주매그풋살구장",
+    "homeTeamId": "t_jeonju",
+    "awayTeamId": "t_goyang",
+    "status": "FINISHED",
+    "score": { "home": 5, "away": 7 },
+    "goals": []
+  },
+  {
+    "id": "m_09",
+    "round": 2,
+    "date": "2025-12-07",
+    "time": "13:00",
+    "place": "서울은평 다목적체육관",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_gyeonggi",
+    "status": "FINISHED",
+    "score": { "home": 0, "away": 8 },
+    "goals": [
+      {
+        "playerId": "p_gyeonggi_3",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 1
+      },
+      {
+        "playerId": "p_gyeonggi_13",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 6
+      },
+      {
+        "playerId": "p_gyeonggi_7",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 9
+      },
+      {
+        "playerId": "p_gyeonggi_10",
+        "teamId": "t_gyeonggi",
+        "half": 1,
+        "minute": 16
+      },
+      {
+        "playerId": "p_gyeonggi_13",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 3
+      },
+      {
+        "playerId": "p_gyeonggi_8",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 12
+      },
+      {
+        "playerId": "p_gyeonggi_7",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 15
+      },
+      {
+        "playerId": "p_gyeonggi_11",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 18
+      }
+    ]
+  },
+  {
+    "id": "m_10",
+    "round": 3,
+    "date": "2025-12-14",
+    "time": "13:00",
+    "place": "서울은평 다목적체육관",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_jeonju",
+    "status": "FINISHED",
+    "score": { "home": 1, "away": 2 },
+    "goals": []
+  },
+  {
+    "id": "m_11",
+    "round": 3,
+    "date": "2025-12-14",
+    "time": "14:00",
+    "place": "춘천호반체육관",
+    "homeTeamId": "t_gangwon",
+    "awayTeamId": "t_goyang",
+    "status": "FINISHED",
+    "score": { "home": 0, "away": 2 },
+    "goals": []
+  },
+  {
+    "id": "m_12",
+    "round": 3,
+    "date": "2025-12-14",
+    "time": "15:00",
+    "place": "서울과학기술대학교 체육관",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_gyeonggi",
+    "status": "FINISHED",
+    "score": { "home": 4, "away": 2 },
+    "goals": [
+      {
+        "playerId": "p_gyeonggi_18",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 5
+      },
+      {
+        "playerId": "p_gyeonggi_7",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 19
+      }
+    ]
+  },
+
+  {
+    "id": "m_13",
+    "round": 4,
+    "date": "2025-12-21",
+    "time": "14:00",
+    "place": "춘천호반체육관",
+    "homeTeamId": "t_gangwon",
+    "awayTeamId": "t_eunpyeong",
+    "status": "FINISHED",
+    "score": { "home": 5, "away": 1 },
+    "goals": []
+  },
+  {
+    "id": "m_14",
+    "round": 4,
+    "date": "2025-12-21",
+    "time": "15:00",
+    "place": "고양어울림누리체육관",
+    "homeTeamId": "t_goyang",
+    "awayTeamId": "t_nowon",
+    "status": "FINISHED",
+    "score": { "home": 4, "away": 7 },
+    "goals": []
+  },
+  {
+    "id": "m_15",
+    "round": 4,
+    "date": "2025-12-21",
+    "time": "16:00",
+    "place": "전주실내체육관",
+    "homeTeamId": "t_jeonju",
+    "awayTeamId": "t_gyeonggi",
+    "status": "FINISHED",
+    "score": { "home": 0, "away": 7 },
+    "goals": []
+  },
+
+  {
+    "id": "m_16",
+    "round": 5,
+    "date": "2025-12-25",
+    "time": "14:00",
+    "place": "노원월계구민체육관",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_goyang",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_17",
+    "round": 5,
+    "date": "2025-12-28",
+    "time": "19:00",
+    "place": "서울과학기술대학교 체육관",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_gangwon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_18",
+    "round": 5,
+    "date": "2025-12-28",
+    "time": "15:00",
+    "place": "고양어울림누리체육관",
+    "homeTeamId": "t_goyang",
+    "awayTeamId": "t_eunpyeong",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_19",
+    "round": 6,
+    "date": "2026-01-10",
+    "time": "11:00",
+    "place": "단양국민체육센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_goyang",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_20",
+    "round": 6,
+    "date": "2026-01-10",
+    "time": "14:00",
+    "place": "단양국민체육센터",
+    "homeTeamId": "t_jeonju",
+    "awayTeamId": "t_gangwon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_21",
+    "round": 6,
+    "date": "2026-01-10",
+    "time": "17:00",
+    "place": "단양국민체육센터",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_eunpyeong",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_22",
+    "round": 7,
+    "date": "2026-01-11",
+    "time": "11:00",
+    "place": "단양국민체육센터",
+    "homeTeamId": "t_gangwon",
+    "awayTeamId": "t_gyeonggi",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_23",
+    "round": 7,
+    "date": "2026-01-11",
+    "time": "14:00",
+    "place": "단양국민체육센터",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_goyang",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_24",
+    "round": 7,
+    "date": "2026-01-11",
+    "time": "17:00",
+    "place": "단양국민체육센터",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_jeonju",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_25",
+    "round": 8,
+    "date": "2026-02-07",
+    "time": "17:00",
+    "place": "경기LBFS트레이닝센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_eunpyeong",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_26",
+    "round": 8,
+    "date": "2026-02-08",
+    "time": "14:00",
+    "place": "춘천호반체육관",
+    "homeTeamId": "t_gangwon",
+    "awayTeamId": "t_nowon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_27",
+    "round": 8,
+    "date": "2026-02-08",
+    "time": "15:00",
+    "place": "고양어울림누리체육관",
+    "homeTeamId": "t_goyang",
+    "awayTeamId": "t_jeonju",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_28",
+    "round": 9,
+    "date": "2026-02-21",
+    "time": "16:00",
+    "place": "전주실내체육관",
+    "homeTeamId": "t_jeonju",
+    "awayTeamId": "t_eunpyeong",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_29",
+    "round": 9,
+    "date": "2026-02-21",
+    "time": "17:00",
+    "place": "경기LBFS트레이닝센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_nowon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_30",
+    "round": 9,
+    "date": "2026-02-22",
+    "time": "15:00",
+    "place": "고양어울림누리체육관",
+    "homeTeamId": "t_goyang",
+    "awayTeamId": "t_gangwon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_31",
+    "round": 10,
+    "date": "2026-02-28",
+    "time": "13:00",
+    "place": "서울은평 다목적체육관",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_gangwon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_32",
+    "round": 10,
+    "date": "2026-02-28",
+    "time": "16:00",
+    "place": "전주실내체육관",
+    "homeTeamId": "t_jeonju",
+    "awayTeamId": "t_gyeonggi",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_33",
+    "round": 10,
+    "date": "2026-03-01",
+    "time": "14:00",
+    "place": "노원월계구민체육관",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_goyang",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_34",
+    "round": 11,
+    "date": "2026-03-07",
+    "time": "16:00",
+    "place": "전주실내체육관",
+    "homeTeamId": "t_jeonju",
+    "awayTeamId": "t_gangwon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_35",
+    "round": 11,
+    "date": "2026-03-08",
+    "time": "14:00",
+    "place": "노원월계구민체육관",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_eunpyeong",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_36",
+    "round": 11,
+    "date": "2026-03-08",
+    "time": "15:00",
+    "place": "고양어울림누리체육관",
+    "homeTeamId": "t_goyang",
+    "awayTeamId": "t_gyeonggi",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_37",
+    "round": 12,
+    "date": "2026-03-14",
+    "time": "13:00",
+    "place": "서울은평 다목적체육관",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_goyang",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_38",
+    "round": 12,
+    "date": "2026-03-15",
+    "time": "14:00",
+    "place": "춘천호반체육관",
+    "homeTeamId": "t_gangwon",
+    "awayTeamId": "t_gyeonggi",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_39",
+    "round": 12,
+    "date": "2026-03-15",
+    "time": "14:00",
+    "place": "노원월계구민체육관",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_jeonju",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_40",
+    "round": 13,
+    "date": "2026-03-21",
+    "time": "17:00",
+    "place": "경기LBFS트레이닝센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_eunpyeong",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_41",
+    "round": 13,
+    "date": "2026-03-22",
+    "time": "14:00",
+    "place": "노원월계구민체육관",
+    "homeTeamId": "t_nowon",
+    "awayTeamId": "t_gangwon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_42",
+    "round": 13,
+    "date": "2026-03-22",
+    "time": "15:00",
+    "place": "고양어울림누리체육관",
+    "homeTeamId": "t_goyang",
+    "awayTeamId": "t_jeonju",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+
+  {
+    "id": "m_43",
+    "round": 14,
+    "date": "2026-03-28",
+    "time": "13:00",
+    "place": "서울은평 다목적체육관",
+    "homeTeamId": "t_eunpyeong",
+    "awayTeamId": "t_jeonju",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_44",
+    "round": 14,
+    "date": "2026-03-28",
+    "time": "17:00",
+    "place": "경기LBFS트레이닝센터",
+    "homeTeamId": "t_gyeonggi",
+    "awayTeamId": "t_nowon",
+    "status": "SCHEDULED",
+    "goals": []
+  },
+  {
+    "id": "m_45",
+    "round": 14,
+    "date": "2026-03-29",
+    "time": "14:00",
+    "place": "춘천호반체육관",
+    "homeTeamId": "t_gangwon",
+    "awayTeamId": "t_goyang",
+    "status": "SCHEDULED",
+    "goals": []
+  }
+]

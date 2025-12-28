@@ -1,0 +1,68 @@
+[
+  {
+    "teamId": "t_gyeonggi",
+    "played": 6,
+    "win": 4,
+    "draw": 0,
+    "loss": 2,
+    "gf": 35,
+    "ga": 9,
+    "gd": 26,
+    "points": 12
+  },
+  {
+    "teamId": "t_nowon",
+    "played": 4,
+    "win": 4,
+    "draw": 0,
+    "loss": 0,
+    "gf": 20,
+    "ga": 8,
+    "gd": 12,
+    "points": 12
+  },
+  {
+    "teamId": "t_goyang",
+    "played": 4,
+    "win": 3,
+    "draw": 0,
+    "loss": 1,
+    "gf": 17,
+    "ga": 14,
+    "gd": 3,
+    "points": 9
+  },
+  {
+    "teamId": "t_gangwon",
+    "played": 5,
+    "win": 2,
+    "draw": 1,
+    "loss": 2,
+    "gf": 14,
+    "ga": 13,
+    "gd": 1,
+    "points": 7
+  },
+  {
+    "teamId": "t_jeonju",
+    "played": 6,
+    "win": 1,
+    "draw": 1,
+    "loss": 4,
+    "gf": 11,
+    "ga": 31,
+    "gd": -20,
+    "points": 4
+  },
+  {
+    "teamId": "t_eunpyeong",
+    "played": 5,
+    "win": 0,
+    "draw": 0,
+    "loss": 5,
+    "gf": 5,
+    "ga": 27,
+    "gd": -22,
+    "points": 0
+  }
+]
