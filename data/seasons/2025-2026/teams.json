@@ -3,36 +3,48 @@
     "id": "t_gyeonggi",
     "name": "경기LBFS",
     "color": "#1d3765",
-    "logo": "team_gyeonggi.png"
+    "logo": "team_gyeonggi.png",
+    "address": "경기도 이천시 마장면 표교리 491-30 LBFS 트레이닝센터",
+    "location": "LBFS 트레이닝센터"
   },
   {
     "id": "t_nowon",
     "name": "노원제너 FS",
     "color": "#051d2b",
-    "logo": "team_nowon.png"
+    "logo": "team_nowon.png",
+    "address": "서울시 노원구 월계로 298",
+    "location": "월계구민체육센터"
   },
   {
     "id": "t_eunpyeong",
     "name": "서울은평덴포스",
     "color": "#0281ba",
-    "logo": "team_eunpyeong.png"
+    "logo": "team_eunpyeong.png",
+    "address": "서울시 은평구 진관1로52 은평다목적체육관",
+    "location": "은평다목적체육관"
   },
   {
     "id": "t_gangwon",
     "name": "강원FS",
     "color": "#de562a",
-    "logo": "team_gangwon.png"
+    "logo": "team_gangwon.png",
+    "address": "강원특별자치도 춘천시 우석로 102 호반체육관",
+    "location": "호반체육관"
   },
   {
     "id": "t_jeonju",
     "name": "전주시민풋살구단",
     "color": "#034c2d",
-    "logo": "team_jeonju.png"
+    "logo": "team_jeonju.png",
+    "address": "전북 전주시 덕진구 권삼득로 308",
+    "location": "전주실내체육관"
   },
   {
     "id": "t_goyang",
     "name": "고양불스풋살클럽",
     "color": "#e7b573",
-    "logo": "team_goyang.png"
+    "logo": "team_goyang.png",
+    "address": "경기도 고양시 덕양구 통일로 43-58 누캄프풋살장",
+    "location": "누캄프풋살장"
   }
 ]
