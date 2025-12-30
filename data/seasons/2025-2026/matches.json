@@ -130,10 +130,10 @@
       { "playerId": "p_nowon_12", "teamId": "t_nowon", "half": 1, "minute": 12 },
       { "playerId": "p_nowon_13", "teamId": "t_nowon", "half": 1, "minute": 17 },
       { "playerId": "p_nowon_25", "teamId": "t_nowon", "half": 2, "minute": 2 },
-      { "playerId": "p_eunpyeong_77", "teamId": "t_eunpyeong", "half": 2, "minute": 4 }
+      { "playerId": "p_eunpyeong_77", "teamId": "t_eunpyeong", "half": 2, "minute": 4 },
       { "playerId": "p_nowon_21", "teamId": "t_nowon", "half": 2, "minute": 8 },
       { "playerId": "p_nowon_09", "teamId": "t_nowon", "half": 2, "minute": 15 },
-      { "playerId": "p_nowon_10", "teamId": "t_nowon", "half": 2, "minute": 19 },
+      { "playerId": "p_nowon_10", "teamId": "t_nowon", "half": 2, "minute": 19 }
     ]
   },
   {
