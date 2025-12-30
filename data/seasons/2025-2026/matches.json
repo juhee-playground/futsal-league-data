@@ -231,7 +231,7 @@
     "score": { "home": 0, "away": 8 },
     "goals": [
       {
-        "playerId": "p_gyeonggi_3",
+        "playerId": "p_gyeonggi_29",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 1
@@ -437,10 +437,10 @@
     "place": "고양어울림누리체육관",
     "homeTeamId": "t_goyang",
     "awayTeamId": "t_eunpyeong",
-    "status": "SCHEDULED",
-    "goals": []
+    "status": "FINISHED",
+  "score": { "home": 4, "away": 4 },
+  "goals": []
   },
-
   {
     "id": "m_19",
     "round": 7,
