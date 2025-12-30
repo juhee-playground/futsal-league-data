@@ -389,7 +389,6 @@
     { "playerId": "p_gyeonggi_11", "teamId": "t_gyeonggi", "half": 2, "minute": 19 }
   ]
   },
-
   {
     "id": "m_16",
     "round": 1,
@@ -438,8 +437,8 @@
     "homeTeamId": "t_goyang",
     "awayTeamId": "t_eunpyeong",
     "status": "FINISHED",
-  "score": { "home": 4, "away": 4 },
-  "goals": []
+    "score": { "home": 4, "away": 4 },
+    "goals": []
   },
   {
     "id": "m_19",
