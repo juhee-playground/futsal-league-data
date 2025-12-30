@@ -125,7 +125,16 @@
     "awayTeamId": "t_nowon",
     "status": "FINISHED",
     "score": { "home": 1, "away": 7 },
-    "goals": []
+    "goals": [
+      { "playerId": "p_nowon_12", "teamId": "t_nowon", "half": 1, "minute": 3 },
+      { "playerId": "p_nowon_12", "teamId": "t_nowon", "half": 1, "minute": 12 },
+      { "playerId": "p_nowon_13", "teamId": "t_nowon", "half": 1, "minute": 17 },
+      { "playerId": "p_nowon_25", "teamId": "t_nowon", "half": 2, "minute": 2 },
+      { "playerId": "p_eunpyeong_77", "teamId": "t_eunpyeong", "half": 2, "minute": 4 }
+      { "playerId": "p_nowon_21", "teamId": "t_nowon", "half": 2, "minute": 8 },
+      { "playerId": "p_nowon_09", "teamId": "t_nowon", "half": 2, "minute": 15 },
+      { "playerId": "p_nowon_10", "teamId": "t_nowon", "half": 2, "minute": 19 },
+    ]
   },
   {
     "id": "m_05",
@@ -324,7 +333,6 @@
       }
     ]
   },
-
   {
     "id": "m_13",
     "round": 6,
@@ -371,7 +379,15 @@
     "awayTeamId": "t_gyeonggi",
     "status": "FINISHED",
     "score": { "home": 0, "away": 7 },
-    "goals": []
+    "goals": [
+    { "playerId": "p_gyeonggi_13", "teamId": "t_gyeonggi", "half": 1, "minute": 0 },
+    { "playerId": "p_gyeonggi_18", "teamId": "t_gyeonggi", "half": 1, "minute": 1 },
+    { "playerId": "p_gyeonggi_11", "teamId": "t_gyeonggi", "half": 1, "minute": 2 },
+    { "playerId": "p_gyeonggi_5", "teamId": "t_gyeonggi", "half": 2, "minute": 6 },
+    { "playerId": "p_gyeonggi_88", "teamId": "t_gyeonggi", "half": 2, "minute": 6 },
+    { "playerId": "p_gyeonggi_11", "teamId": "t_gyeonggi", "half": 2, "minute": 14 },
+    { "playerId": "p_gyeonggi_11", "teamId": "t_gyeonggi", "half": 2, "minute": 19 }
+  ]
   },
 
   {
@@ -382,7 +398,8 @@
     "place": "노원월계구민체육관",
     "homeTeamId": "t_nowon",
     "awayTeamId": "t_goyang",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
+    "score": { "home": 2, "away": 4 },
     "goals": [
       { "playerId": "p_nowon_14", "teamId": "t_nowon", "half": 1, "minute": 7 },
       { "playerId": "p_goyang_96", "teamId": "t_goyang", "half": 1, "minute": 12 },
@@ -400,8 +417,17 @@
     "place": "서울과학기술대학교 체육관",
     "homeTeamId": "t_nowon",
     "awayTeamId": "t_gangwon",
-    "status": "SCHEDULED",
-    "goals": []
+    "status": "FINISHED",
+    "score": { "home": 3, "away": 4 },
+    "goals": [
+      { "playerId": "p_gangwon_07", "teamId": "t_gangwon", "half": 1, "minute": 1 },
+      { "playerId": "p_nowon_12", "teamId": "t_nowon", "half": 1, "minute": 8 },
+      { "playerId": "p_gangwon_10", "teamId": "t_gangwon", "half": 1, "minute": 13 },
+      { "playerId": "p_gangwon_09", "teamId": "t_gangwon", "half": 1, "minute": 20 },
+      { "playerId": "p_nowon_25", "teamId": "t_nowon", "half": 2, "minute": 5 },
+      { "playerId": "p_gangwon_07", "teamId": "t_gangwon", "half": 2, "minute": 10 },
+      { "playerId": "p_nowon_17", "teamId": "t_nowon", "half": 2, "minute": 14 }
+    ]
   },
   {
     "id": "m_18",
