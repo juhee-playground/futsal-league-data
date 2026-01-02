@@ -3,7 +3,7 @@
     "id": "t_gyeonggi",
     "name": "경기LBFS",
     "color": "#212644",
-    "darkColor": "#ffffff",
+    "darkColor": "#2e3d94",
     "logo": "team_gyeonggi.png",
     "address": "경기도 이천시 마장면 표교리 491-30 LBFS 트레이닝센터",
     "location": "LBFS 트레이닝센터"
@@ -12,7 +12,7 @@
     "id": "t_nowon",
     "name": "노원제너 FS",
     "color": "#051d2b",
-    "darkColor": "#0ea5e9",
+    "darkColor": "#9e8f0d",
     "logo": "team_nowon.png",
     "address": "서울시 노원구 월계로 298",
     "location": "월계구민체육센터"
