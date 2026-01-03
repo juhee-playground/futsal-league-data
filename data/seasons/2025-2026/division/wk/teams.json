@@ -1,0 +1,47 @@
+[
+  {
+    "id": "t_apro",
+    "name": "APRO ZD 스포츠",
+    "color": "#051d2b",
+    "darkColor": "#051d2b",
+    "logo": "team_apro.png",
+    "address": "",
+    "location": ""
+  },
+  {
+    "id": "t_sports_wfs",
+    "name": "TEAM 스포츠위민",
+    "color": "##009fff",
+    "darkColor": "##009fff",
+    "logo": "team_sprots.png",
+    "address": "",
+    "location": ""
+  },
+  {
+    "id": "t_hwaseong_wfs",
+    "name": "경기화성시화성WFS",
+    "color": "#e9550A",
+    "darkColor": "#e9550A",
+    "logo": "team_hwaseong.png",
+    "address": "경기도 화성시 봉담읍 삼천병마로 1182",
+    "location": "협동조합스포츠제이"
+  },
+  {
+    "id": "t_goyang_wfs",
+    "name": "고양불스위민FS",
+    "color": "#e7b573",
+    "darkColor": "#fbbf24",
+    "logo": "team_goyang.png",
+    "address": "경기도 고양시 덕양구 통일로 43-58 누캄프풋살장",
+    "location": "누캄프풋살장"
+  },
+  {
+    "id": "t_namdong_wfs",
+    "name": "인천남동풋살클럽위민",
+    "color": "##007cfc",
+    "darkColor": "##007cfc",
+    "logo": "team_namdong.png",
+    "address": "서울 마포구 잔다리로 44",
+    "location": "인천 남동풋살클럽"
+  }
+]

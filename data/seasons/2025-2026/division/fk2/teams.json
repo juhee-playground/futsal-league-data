@@ -1,0 +1,82 @@
+[
+  {
+    "id": "t_gumi",
+    "name": "구미FS",
+    "color": "#fe6702",
+    "darkColor": "#fe6702",
+    "logo": "team_gumi.png",
+    "address": "경상북도 구미시 산호대로 218 예스구미스포츠파크",
+    "location": "예스구미스포츠파크",
+    "homepage": "https://www.futsal.or.kr/fk_club/yesgumi"
+  },
+  {
+    "id": "t_daegu",
+    "name": "대구FS",
+    "color": "##009fff",
+    "darkColor": "##009fff",
+    "logo": "team_daegu.png",
+    "address": "대구광역시 북구",
+    "location": "대구",
+    "homepage": "https://www.futsal.or.kr/fk_club/daeguFS"
+  },
+  {
+    "id": "t_gunsan",
+    "name": "드림허브군산FS",
+    "color": "#07257f",
+    "darkColor": "#07257f",
+    "logo": "team_gunsan.png",
+    "address": "전북 군산시 동개정길20 협동조합스포츠제이",
+    "location": "협동조합스포츠제이",
+    "homepage": "https://www.futsal.or.kr/fk_club/gunsanfs"
+  },
+  {
+    "id": "t_yongin",
+    "name": "용인대흥FS",
+    "color": "#deb786",
+    "darkColor": "#deb786",
+    "logo": "team_yongin.png",
+    "address": "경기 용인시",
+    "location": "경기",
+    "homepage": "https://www.futsal.or.kr/fk_club/yongintmt"
+  },
+  {
+    "id": "t_namdong",
+    "name": "인천남동풋살클럽",
+    "color": "##007cfc",
+    "darkColor": "##007cfc",
+    "logo": "team_namdong.png",
+    "address": "서울 마포구 잔다리로 44",
+    "location": "인천 남동풋살클럽",
+    "homepage": "https://www.futsal.or.kr/fk_club/agonFutsal"
+  },
+  {
+    "id": "t_jecheon",
+    "name": "제천풋살클럽",
+    "color": "#d39e44",
+    "darkColor": "#d39e44",
+    "logo": "team_jecheon.png",
+    "address": "충북 제천시 세명로 23",
+    "location": "충북",
+    "homepage": "https://www.futsal.or.kr/fk_club/jecheonFutsal"
+  },
+  {
+    "id": "t_cheongju",
+    "name": "청주팔라시오FS",
+    "color": "#0a568f",
+    "darkColor": "#0a568f",
+    "logo": "team_cheongju.png",
+    "address": "충북 청주시 상당구 교서로 17 [청주공업고등학교 핸드볼 체육관]",
+    "location": "청주공업고등학교 핸드볼 체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/CHFS"
+  },
+  {
+    "id": "t_hwaseong",
+    "name": "화성FS",
+    "color": "#e9550A",
+    "darkColor": "#e9550A",
+    "logo": "team_hwaseong.png",
+    "address": "경기도 화성시 봉담읍 삼천병마로 1182",
+    "location": "협성대학교",
+    "homepage": "https://www.futsal.or.kr/fk_club/hwaseongFS"
+  }
+]

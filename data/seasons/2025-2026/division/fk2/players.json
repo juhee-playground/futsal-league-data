@@ -1,0 +1,1200 @@
+[
+  {
+    "id": "p_namdong_01",
+    "name": "박영준",
+    "teamId": "t_namdong",
+    "number": 1,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_namdong_02",
+    "name": "이준형",
+    "teamId": "t_namdong",
+    "number": 2,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_namdong_03",
+    "name": "이대규",
+    "teamId": "t_namdong",
+    "number": 3,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_04",
+    "name": "최신화",
+    "teamId": "t_namdong",
+    "number": 4,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_05",
+    "name": "서병대",
+    "teamId": "t_namdong",
+    "number": 5,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_06",
+    "name": "전종희",
+    "teamId": "t_namdong",
+    "number": 6,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_namdong_07",
+    "name": "이진석",
+    "teamId": "t_namdong",
+    "number": 7,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_namdong_08",
+    "name": "최재혁",
+    "teamId": "t_namdong",
+    "number": 8,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_09",
+    "name": "정지윤",
+    "teamId": "t_namdong",
+    "number": 9,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_namdong_10",
+    "name": "김기정",
+    "teamId": "t_namdong",
+    "number": 10,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_11",
+    "name": "최문규",
+    "teamId": "t_namdong",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_13",
+    "name": "심기은백",
+    "teamId": "t_namdong",
+    "number": 13,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_namdong_14",
+    "name": "김선빈",
+    "teamId": "t_namdong",
+    "number": 14,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_20",
+    "name": "이호영",
+    "teamId": "t_namdong",
+    "number": 20,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_21",
+    "name": "이준호",
+    "teamId": "t_namdong",
+    "number": 21,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_namdong_24",
+    "name": "이경동",
+    "teamId": "t_namdong",
+    "number": 24,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_namdong_31",
+    "name": "이용호",
+    "teamId": "t_namdong",
+    "number": 31,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_namdong_33",
+    "name": "이민수",
+    "teamId": "t_namdong",
+    "number": 33,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_41",
+    "name": "장지원",
+    "teamId": "t_namdong",
+    "number": 41,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_namdong_43",
+    "name": "박하늘",
+    "teamId": "t_namdong",
+    "number": 43,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_namdong_51",
+    "name": "한정빈",
+    "teamId": "t_namdong",
+    "number": 51,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_namdong_75",
+    "name": "김상건",
+    "teamId": "t_namdong",
+    "number": 75,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_77",
+    "name": "김도훈",
+    "teamId": "t_namdong",
+    "number": 77,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_82",
+    "name": "이재후",
+    "teamId": "t_namdong",
+    "number": 82,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_91",
+    "name": "최욱두",
+    "teamId": "t_namdong",
+    "number": 91,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_namdong_96",
+    "name": "정현규",
+    "teamId": "t_namdong",
+    "number": 96,
+    "position": "ALA"
+  },
+  {
+    "id": "p_namdong_99",
+    "name": "김성근",
+    "teamId": "t_namdong",
+    "number": 99,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_hwaseong_01",
+    "name": "차인혁",
+    "teamId": "t_hwaseong",
+    "number": 1,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_hwaseong_02",
+    "name": "정대연",
+    "teamId": "t_hwaseong",
+    "number": 2,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_hwaseong_04",
+    "name": "김기범",
+    "teamId": "t_hwaseong",
+    "number": 4,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_hwaseong_06",
+    "name": "장인호",
+    "teamId": "t_hwaseong",
+    "number": 6,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_hwaseong_07",
+    "name": "부성인",
+    "teamId": "t_hwaseong",
+    "number": 7,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_hwaseong_08",
+    "name": "윤경원",
+    "teamId": "t_hwaseong",
+    "number": 8,
+    "position": "ALA"
+  },
+  {
+    "id": "p_hwaseong_09",
+    "name": "박상은",
+    "teamId": "t_hwaseong",
+    "number": 9,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_hwaseong_10",
+    "name": "배정호",
+    "teamId": "t_hwaseong",
+    "number": 10,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_hwaseong_11",
+    "name": "이효수",
+    "teamId": "t_hwaseong",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_hwaseong_13",
+    "name": "김종문",
+    "teamId": "t_hwaseong",
+    "number": 13,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_hwaseong_14",
+    "name": "안현국",
+    "teamId": "t_hwaseong",
+    "number": 14,
+    "position": "ALA"
+  },
+  {
+    "id": "p_hwaseong_18",
+    "name": "조현웅",
+    "teamId": "t_hwaseong",
+    "number": 18,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_hwaseong_19",
+    "name": "구경욱",
+    "teamId": "t_hwaseong",
+    "number": 19,
+    "position": "ALA"
+  },
+  {
+    "id": "p_hwaseong_20",
+    "name": "오영택",
+    "teamId": "t_hwaseong",
+    "number": 20,
+    "position": "ALA"
+  },
+  {
+    "id": "p_hwaseong_27",
+    "name": "김충현",
+    "teamId": "t_hwaseong",
+    "number": 27,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_hwaseong_30",
+    "name": "김종호",
+    "teamId": "t_hwaseong",
+    "number": 30,
+    "position": "ALA"
+  },
+  {
+    "id": "p_hwaseong_55",
+    "name": "정원식",
+    "teamId": "t_hwaseong",
+    "number": 55,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_hwaseong_77",
+    "name": "김래건",
+    "teamId": "t_hwaseong",
+    "number": 77,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_hwaseong_80",
+    "name": "김남혁",
+    "teamId": "t_hwaseong",
+    "number": 80,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_01",
+    "name": "지준민",
+    "teamId": "t_gumi",
+    "number": 1,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_gumi_02",
+    "name": "박진섭",
+    "teamId": "t_gumi",
+    "number": 2,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_gumi_03",
+    "name": "장시원",
+    "teamId": "t_gumi",
+    "number": 3,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_gumi_06",
+    "name": "이지호",
+    "teamId": "t_gumi",
+    "number": 6,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_07",
+    "name": "백장현",
+    "teamId": "t_gumi",
+    "number": 7,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gumi_09",
+    "name": "김인수",
+    "teamId": "t_gumi",
+    "number": 9,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gumi_10",
+    "name": "지오바니",
+    "teamId": "t_gumi",
+    "number": 10,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_11",
+    "name": "주영재",
+    "teamId": "t_gumi",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_12",
+    "name": "김창현",
+    "teamId": "t_gumi",
+    "number": 12,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_13",
+    "name": "박정수",
+    "teamId": "t_gumi",
+    "number": 13,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gumi_14",
+    "name": "박준상",
+    "teamId": "t_gumi",
+    "number": 14,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gumi_16",
+    "name": "임오규",
+    "teamId": "t_gumi",
+    "number": 16,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gumi_17",
+    "name": "김도현",
+    "teamId": "t_gumi",
+    "number": 17,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_18",
+    "name": "김상민",
+    "teamId": "t_gumi",
+    "number": 18,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gumi_19",
+    "name": "정다빈",
+    "teamId": "t_gumi",
+    "number": 19,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gumi_21",
+    "name": "이태현",
+    "teamId": "t_gumi",
+    "number": 21,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_gumi_22",
+    "name": "최정원",
+    "teamId": "t_gumi",
+    "number": 22,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gumi_23",
+    "name": "박정환1",
+    "teamId": "t_gumi",
+    "number": 23,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_gumi_28",
+    "name": "전원조",
+    "teamId": "t_gumi",
+    "number": 28,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gumi_29",
+    "name": "남대규",
+    "teamId": "t_gumi",
+    "number": 29,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_30",
+    "name": "최태우",
+    "teamId": "t_gumi",
+    "number": 30,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gumi_32",
+    "name": "박병훈",
+    "teamId": "t_gumi",
+    "number": 32,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_37",
+    "name": "심재빈",
+    "teamId": "t_gumi",
+    "number": 37,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_76",
+    "name": "류형진",
+    "teamId": "t_gumi",
+    "number": 76,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_77",
+    "name": "백승주",
+    "teamId": "t_gumi",
+    "number": 77,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gumi_78",
+    "name": "노순근",
+    "teamId": "t_gumi",
+    "number": 78,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_gumi_88",
+    "name": "신이수",
+    "teamId": "t_gumi",
+    "number": 88,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gumi_99",
+    "name": "조성배",
+    "teamId": "t_gumi",
+    "number": 99,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_daegu_01",
+    "name": "박진혁",
+    "teamId": "t_daegu",
+    "number": 1,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_daegu_03",
+    "name": "김용범",
+    "teamId": "t_daegu",
+    "number": 3,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_daegu_04",
+    "name": "서정명",
+    "teamId": "t_daegu",
+    "number": 4,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_daegu_06",
+    "name": "김동규",
+    "teamId": "t_daegu",
+    "number": 6,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_daegu_08",
+    "name": "박수오",
+    "teamId": "t_daegu",
+    "number": 8,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_09",
+    "name": "김현모",
+    "teamId": "t_daegu",
+    "number": 9,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_10",
+    "name": "이안",
+    "teamId": "t_daegu",
+    "number": 10,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_11",
+    "name": "최원재",
+    "teamId": "t_daegu",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_12",
+    "name": "김동균",
+    "teamId": "t_daegu",
+    "number": 12,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_daegu_16",
+    "name": "정행운",
+    "teamId": "t_daegu",
+    "number": 16,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_17",
+    "name": "곽준홍",
+    "teamId": "t_daegu",
+    "number": 17,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_18",
+    "name": "이주환",
+    "teamId": "t_daegu",
+    "number": 18,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_daegu_19",
+    "name": "이상현",
+    "teamId": "t_daegu",
+    "number": 19,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_daegu_22",
+    "name": "김진현",
+    "teamId": "t_daegu",
+    "number": 22,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_24",
+    "name": "임규태",
+    "teamId": "t_daegu",
+    "number": 24,
+    "position": "ALA"
+  },
+  {
+    "id": "p_daegu_36",
+    "name": "이우진",
+    "teamId": "t_daegu",
+    "number": 36,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_yongin_01",
+    "name": "정형철",
+    "teamId": "t_yongin",
+    "number": 1,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_yongin_02",
+    "name": "전정윤",
+    "teamId": "t_yongin",
+    "number": 2,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_yongin_04",
+    "name": "정윤원",
+    "teamId": "t_yongin",
+    "number": 4,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_yongin_05",
+    "name": "김성진",
+    "teamId": "t_yongin",
+    "number": 5,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_yongin_06",
+    "name": "김성빈",
+    "teamId": "t_yongin",
+    "number": 6,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_07",
+    "name": "김희수",
+    "teamId": "t_yongin",
+    "number": 7,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_08",
+    "name": "홍진호",
+    "teamId": "t_yongin",
+    "number": 8,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_yongin_10",
+    "name": "김주호",
+    "teamId": "t_yongin",
+    "number": 10,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_11",
+    "name": "이성재",
+    "teamId": "t_yongin",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_12",
+    "name": "박기홍",
+    "teamId": "t_yongin",
+    "number": 12,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_13",
+    "name": "박근우",
+    "teamId": "t_yongin",
+    "number": 13,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_14",
+    "name": "강주광",
+    "teamId": "t_yongin",
+    "number": 14,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_yongin_15",
+    "name": "김동현",
+    "teamId": "t_yongin",
+    "number": 15,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_16",
+    "name": "손재영",
+    "teamId": "t_yongin",
+    "number": 16,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_17",
+    "name": "이동현",
+    "teamId": "t_yongin",
+    "number": 17,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_18",
+    "name": "이석윤",
+    "teamId": "t_yongin",
+    "number": 18,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_19",
+    "name": "전영빈",
+    "teamId": "t_yongin",
+    "number": 19,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_yongin_21",
+    "name": "남정경",
+    "teamId": "t_yongin",
+    "number": 21,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_22",
+    "name": "신하일",
+    "teamId": "t_yongin",
+    "number": 22,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_yongin_33",
+    "name": "박수빈",
+    "teamId": "t_yongin",
+    "number": 33,
+    "position": "ALA"
+  },
+  {
+    "id": "p_yongin_38",
+    "name": "강진수",
+    "teamId": "t_yongin",
+    "number": 38,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_yongin_41",
+    "name": "정주호",
+    "teamId": "t_yongin",
+    "number": 41,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_yongin_66",
+    "name": "박재희",
+    "teamId": "t_yongin",
+    "number": 66,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_yongin_77",
+    "name": "김민석",
+    "teamId": "t_yongin",
+    "number": 77,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_01",
+    "name": "이태흥",
+    "teamId": "t_gunsan",
+    "number": 1,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_gunsan_03",
+    "name": "류기원",
+    "teamId": "t_gunsan",
+    "number": 3,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_04",
+    "name": "김윤태",
+    "teamId": "t_gunsan",
+    "number": 4,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gunsan_07",
+    "name": "이승진",
+    "teamId": "t_gunsan",
+    "number": 7,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_09",
+    "name": "신명관",
+    "teamId": "t_gunsan",
+    "number": 9,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gunsan_10",
+    "name": "유상은",
+    "teamId": "t_gunsan",
+    "number": 10,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_11",
+    "name": "송현우",
+    "teamId": "t_gunsan",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_12",
+    "name": "서성덕",
+    "teamId": "t_gunsan",
+    "number": 12,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_14",
+    "name": "조형우",
+    "teamId": "t_gunsan",
+    "number": 14,
+    "position": "ALA"
+  },
+
+  {
+    "id": "p_gunsan_20",
+    "name": "고차원",
+    "teamId": "t_gunsan",
+    "number": 20,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gunsan_22",
+    "name": "고병욱",
+    "teamId": "t_gunsan",
+    "number": 22,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_23",
+    "name": "김웅수",
+    "teamId": "t_gunsan",
+    "number": 23,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gunsan_27",
+    "name": "오지석",
+    "teamId": "t_gunsan",
+    "number": 27,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_28",
+    "name": "이민우",
+    "teamId": "t_gunsan",
+    "number": 28,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_gunsan_57",
+    "name": "진형석",
+    "teamId": "t_gunsan",
+    "number": 57,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_66",
+    "name": "김용찬",
+    "teamId": "t_gunsan",
+    "number": 66,
+    "position": "ALA"
+  },
+  {
+    "id": "p_gunsan_94",
+    "name": "윤상식",
+    "teamId": "t_gunsan",
+    "number": 94,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gunsan_97",
+    "name": "최성민",
+    "teamId": "t_gunsan",
+    "number": 97,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_gunsan_98",
+    "name": "황성현",
+    "teamId": "t_gunsan",
+    "number": 98,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_02",
+    "name": "이광현",
+    "teamId": "t_cheongju",
+    "number": 2,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_cheongju_03",
+    "name": "윤민우",
+    "teamId": "t_cheongju",
+    "number": 3,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_cheongju_07",
+    "name": "이재현",
+    "teamId": "t_cheongju",
+    "number": 7,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_09",
+    "name": "유병석",
+    "teamId": "t_cheongju",
+    "number": 9,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_cheongju_10",
+    "name": "염근진",
+    "teamId": "t_cheongju",
+    "number": 10,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_cheongju_11",
+    "name": "김동현",
+    "teamId": "t_cheongju",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_12",
+    "name": "신용인",
+    "teamId": "t_cheongju",
+    "number": 12,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_14",
+    "name": "강경태",
+    "teamId": "t_cheongju",
+    "number": 14,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_18",
+    "name": "안진성",
+    "teamId": "t_cheongju",
+    "number": 18,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_cheongju_19",
+    "name": "송준호",
+    "teamId": "t_cheongju",
+    "number": 19,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_cheongju_20",
+    "name": "연진우",
+    "teamId": "t_cheongju",
+    "number": 20,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_cheongju_22",
+    "name": "강상기",
+    "teamId": "t_cheongju",
+    "number": 22,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_cheongju_24",
+    "name": "김재원",
+    "teamId": "t_cheongju",
+    "number": 24,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_27",
+    "name": "고형욱",
+    "teamId": "t_cheongju",
+    "number": 27,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_33",
+    "name": "김도현",
+    "teamId": "t_cheongju",
+    "number": 33,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_38",
+    "name": "이종환",
+    "teamId": "t_cheongju",
+    "number": 38,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_cheongju_47",
+    "name": "백상훈",
+    "teamId": "t_cheongju",
+    "number": 47,
+    "position": "ALA"
+  },
+  {
+    "id": "p_cheongju_55",
+    "name": "윤승철",
+    "teamId": "t_cheongju",
+    "number": 55,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_cheongju_71",
+    "name": "김종현",
+    "teamId": "t_cheongju",
+    "number": 71,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_cheongju_77",
+    "name": "김한울",
+    "teamId": "t_cheongju",
+    "number": 77,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_cheongju_88",
+    "name": "박병욱",
+    "teamId": "t_cheongju",
+    "number": 88,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_cheongju_99",
+    "name": "장동준",
+    "teamId": "t_cheongju",
+    "number": 99,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_04",
+    "name": "노승주",
+    "teamId": "t_jecheon",
+    "number": 4,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_jecheon_05",
+    "name": "함지훈",
+    "teamId": "t_jecheon",
+    "number": 5,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_jecheon_10",
+    "name": "이상규",
+    "teamId": "t_jecheon",
+    "number": 10,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_11",
+    "name": "이한",
+    "teamId": "t_jecheon",
+    "number": 11,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_13",
+    "name": "이수현",
+    "teamId": "t_jecheon",
+    "number": 13,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_jecheon_14",
+    "name": "허진석",
+    "teamId": "t_jecheon",
+    "number": 14,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_17",
+    "name": "한만영",
+    "teamId": "t_jecheon",
+    "number": 17,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_20",
+    "name": "이건형",
+    "teamId": "t_jecheon",
+    "number": 20,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_21",
+    "name": "김우정",
+    "teamId": "t_jecheon",
+    "number": 21,
+    "position": "FIXO"
+  },
+  {
+    "id": "p_jecheon_23",
+    "name": "김도환",
+    "teamId": "t_jecheon",
+    "number": 23,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_24",
+    "name": "임성현",
+    "teamId": "t_jecheon",
+    "number": 24,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_jecheon_25",
+    "name": "박진우",
+    "teamId": "t_jecheon",
+    "number": 25,
+    "position": "ALA"
+  },
+  {
+    "id": "p_jecheon_33",
+    "name": "김민섭",
+    "teamId": "t_jecheon",
+    "number": 33,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_jecheon_42",
+    "name": "이정열",
+    "teamId": "t_jecheon",
+    "number": 42,
+    "position": "PIVO"
+  },
+  {
+    "id": "p_jecheon_46",
+    "name": "최성기",
+    "teamId": "t_jecheon",
+    "number": 46,
+    "position": "GOLEIRO"
+  },
+  {
+    "id": "p_jecheon_66",
+    "name": "이상균",
+    "teamId": "t_jecheon",
+    "number": 66,
+    "position": "GOLEIRO"
+  }
+]
