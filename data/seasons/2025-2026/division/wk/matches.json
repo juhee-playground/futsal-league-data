@@ -6,7 +6,7 @@
     "time": "17:00",
     "place": "구미스포츠파크",
     "homeTeamId": "t_apro",
-    "awayTeamId": "t_sports_wfs",
+    "awayTeamId": "t_yongin_wfs",
     "status": "FINISHED",
     "score": { "home": 5, "away": 4 },
     "goals": []
@@ -53,7 +53,7 @@
     "time": "16:00",
     "place": "단양국민체육센터",
     "homeTeamId": "t_namdong_wfs",
-    "awayTeamId": "t_sports_wfs",
+    "awayTeamId": "t_yongin_wfs",
     "status": "SCHEDULED",
     "goals": []
   },
@@ -86,7 +86,7 @@
     "time": "13:00",
     "place": "단양국민체육센터",
     "homeTeamId": "t_goyang_wfs",
-    "awayTeamId": "t_sports_wfs",
+    "awayTeamId": "t_yongin_wfs",
     "status": "SCHEDULED",
     "goals": []
   },
@@ -118,7 +118,7 @@
     "date": "2026-02-01",
     "time": "16:00",
     "place": "단양국민체육센터",
-    "homeTeamId": "t_sports_wfs",
+    "homeTeamId": "t_yongin_wfs",
     "awayTeamId": "t_hwaseong_wfs",
     "status": "SCHEDULED",
     "goals": []
@@ -162,7 +162,7 @@
     "date": "2026-02-28",
     "time": "16:00",
     "place": "용인실내체육관",
-    "homeTeamId": "t_sports_wfs",
+    "homeTeamId": "t_yongin_wfs",
     "awayTeamId": "t_apro",
     "status": "SCHEDULED",
     "goals": []
@@ -173,7 +173,7 @@
     "date": "2026-03-07",
     "time": "16:00",
     "place": "용인실내체육관",
-    "homeTeamId": "t_sports_wfs",
+    "homeTeamId": "t_yongin_wfs",
     "awayTeamId": "t_namdong_wfs",
     "status": "SCHEDULED",
     "goals": []
@@ -195,7 +195,7 @@
     "date": "2026-03-14",
     "time": "16:00",
     "place": "용인실내체육관",
-    "homeTeamId": "t_sports_wfs",
+    "homeTeamId": "t_yongin_wfs",
     "awayTeamId": "t_hwaseong_wfs",
     "status": "SCHEDULED",
     "goals": []
@@ -218,7 +218,7 @@
     "time": "12:00",
     "place": "고양어울림누리체육관",
     "homeTeamId": "t_goyang_wfs",
-    "awayTeamId": "t_sports_wfs",
+    "awayTeamId": "t_yongin_wfs",
     "status": "SCHEDULED",
     "goals": []
   }
