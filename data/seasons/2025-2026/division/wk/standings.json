@@ -1,24 +1,57 @@
 [
   {
-    "teamId": "",
-    "played": 0,
-    "win": 0,
+    "teamId": "t_goyang_wfs",
+    "played": 1,
+    "win": 1,
     "draw": 0,
     "loss": 0,
-    "gf": 0,
-    "ga": 0,
-    "gd": 0,
+    "gf": 8,
+    "ga": 3,
+    "gd": 5,
+    "points": 3
+  },
+  {
+    "teamId": "t_apro",
+    "played": 1,
+    "win": 1,
+    "draw": 0,
+    "loss": 0,
+    "gf": 5,
+    "ga": 4,
+    "gd": 1,
+    "points": 3
+  },
+  {
+    "teamId": "t_hwaseong_wfs",
+    "played": 2,
+    "win": 1,
+    "draw": 0,
+    "loss": 1,
+    "gf": 9,
+    "ga": 13,
+    "gd": -4,
+    "points": 3
+  },
+  {
+    "teamId": "t_namdong_wfs",
+    "played": 1,
+    "win": 0,
+    "draw": 0,
+    "loss": 1,
+    "gf": 5,
+    "ga": 6,
+    "gd": -1,
     "points": 0
   },
   {
-    "teamId": "",
-    "played": 0,
+    "teamId": "t_yongin_wfs",
+    "played": 1,
     "win": 0,
     "draw": 0,
-    "loss": 0,
-    "gf": 0,
-    "ga": 0,
-    "gd": 0,
+    "loss": 1,
+    "gf": 4,
+    "ga": 5,
+    "gd": -1,
     "points": 0
   }
 ]
