@@ -4,9 +4,9 @@
     "name": "구미FS",
     "color": "#fe6702",
     "darkColor": "#fe6702",
-    "logo": "team_gumi.png",
-    "address": "경상북도 구미시 산호대로 218 예스구미스포츠파크",
-    "location": "예스구미스포츠파크",
+    "logo": "team_gumi.jpg",
+    "address": "경상북도 구미시 산호대로 218 예스구미풋볼클럽",
+    "location": "예스구미풋볼클럽",
     "homepage": "https://www.futsal.or.kr/fk_club/yesgumi"
   },
   {
@@ -14,19 +14,19 @@
     "name": "대구FS",
     "color": "##009fff",
     "darkColor": "##009fff",
-    "logo": "team_daegu.png",
-    "address": "대구광역시 북구",
-    "location": "대구",
+    "logo": "team_daegu.jpg",
+    "address": "대구 남구 현충로 170",
+    "location": "영남아공대학교 천마체육관",
     "homepage": "https://www.futsal.or.kr/fk_club/daeguFS"
   },
   {
     "id": "t_gunsan",
-    "name": "드림허브군산FS",
+    "name": "군산FS",
     "color": "#07257f",
     "darkColor": "#07257f",
-    "logo": "team_gunsan.png",
-    "address": "전북 군산시 동개정길20 협동조합스포츠제이",
-    "location": "협동조합스포츠제이",
+    "logo": "team_gunsan.jpg",
+    "address": "전북 군산시 대학로 558",
+    "location": "군산대학교 체육관",
     "homepage": "https://www.futsal.or.kr/fk_club/gunsanfs"
   },
   {
@@ -34,9 +34,9 @@
     "name": "용인대흥FS",
     "color": "#deb786",
     "darkColor": "#deb786",
-    "logo": "team_yongin.png",
-    "address": "경기 용인시",
-    "location": "경기",
+    "logo": "team_yongin.jpg",
+    "address": "경기도 용인시 처인구 경안천로 76",
+    "location": "용인실내체육관",
     "homepage": "https://www.futsal.or.kr/fk_club/yongintmt"
   },
   {
@@ -44,9 +44,9 @@
     "name": "인천남동풋살클럽",
     "color": "##007cfc",
     "darkColor": "##007cfc",
-    "logo": "team_namdong.png",
-    "address": "서울 마포구 잔다리로 44",
-    "location": "인천 남동풋살클럽",
+    "logo": "team_namdong.jpg",
+    "address": "인천 연수구 새말로 27 동남스포피아 3층",
+    "location": "동남스포피아체육관",
     "homepage": "https://www.futsal.or.kr/fk_club/agonFutsal"
   },
   {
@@ -54,9 +54,9 @@
     "name": "제천풋살클럽",
     "color": "#d39e44",
     "darkColor": "#d39e44",
-    "logo": "team_jecheon.png",
+    "logo": "team_jecheon.jpg",
     "address": "충북 제천시 세명로 23",
-    "location": "충북",
+    "location": "제천족구체육관",
     "homepage": "https://www.futsal.or.kr/fk_club/jecheonFutsal"
   },
   {
@@ -64,9 +64,9 @@
     "name": "청주팔라시오FS",
     "color": "#0a568f",
     "darkColor": "#0a568f",
-    "logo": "team_cheongju.png",
-    "address": "충북 청주시 상당구 교서로 17 [청주공업고등학교 핸드볼 체육관]",
-    "location": "청주공업고등학교 핸드볼 체육관",
+    "logo": "team_cheongju.jpg",
+    "address": "충청북도 청주시 상당구 교서로 17 청주기계공업고등학교",
+    "location": "청주공업고등학교 체육관",
     "homepage": "https://www.futsal.or.kr/fk_club/CHFS"
   },
   {
@@ -74,9 +74,9 @@
     "name": "화성FS",
     "color": "#e9550A",
     "darkColor": "#e9550A",
-    "logo": "team_hwaseong.png",
-    "address": "경기도 화성시 봉담읍 삼천병마로 1182",
-    "location": "협성대학교",
+    "logo": "team_hwaseong.jpg",
+    "address": "경기 화성시 봉담읍 삼천병마로 1182",
+    "location": "장안대학교체육관",
     "homepage": "https://www.futsal.or.kr/fk_club/hwaseongFS"
   }
 ]
