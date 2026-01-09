@@ -36,7 +36,6 @@
     "teamId": "t_goyang_wfs",
     "number": 9
   },
-
   {
     "id": "p_goyang_wfs_10",
     "name": "김소연",
@@ -73,7 +72,6 @@
     "teamId": "t_goyang_wfs",
     "number": 18
   },
-
   {
     "id": "p_goyang_wfs_19",
     "name": "김현정",
@@ -142,7 +140,6 @@
     "teamId": "t_yongin_wfs",
     "number": 11
   },
-
   {
     "id": "p_yongin_wfs_13",
     "name": "황은서",
@@ -174,7 +171,6 @@
     "teamId": "t_yongin_wfs",
     "number": 17
   },
-
   {
     "id": "p_yongin_wfs_18",
     "name": "문수영",
@@ -206,7 +202,6 @@
     "teamId": "t_yongin_wfs",
     "number": 22
   },
-
   {
     "id": "p_yongin_wfs_23",
     "name": "송도미",
@@ -224,5 +219,13 @@
     "name": "강도희",
     "teamId": "t_yongin_wfs",
     "number": 77
+  },
+  {
+    "id": "70d550dd-d8c4-4de3-bc2a-bf7197c385ce",
+    "name": "신혜란",
+    "number": 11,
+    "teamId": "t_apro",
+    "position": "ALA",
+    "isActive": true
   }
 ]
