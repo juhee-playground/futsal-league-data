@@ -8,7 +8,10 @@
     "homeTeamId": "t_apro",
     "awayTeamId": "t_yongin_wfs",
     "status": "FINISHED",
-    "score": { "home": 5, "away": 4 },
+    "score": {
+      "home": 5,
+      "away": 4
+    },
     "youtube_url": "https://www.youtube.com/watch?v=-4XP5uQ-M1s",
     "goals": []
   },
@@ -22,7 +25,10 @@
     "awayTeamId": "t_hwaseong_wfs",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=YOUUgfuK1Vg",
-    "score": { "home": 8, "away": 3 },
+    "score": {
+      "home": 8,
+      "away": 3
+    },
     "goals": []
   },
   {
@@ -35,7 +41,10 @@
     "awayTeamId": "t_namdong_wfs",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=ktR4xDbFaC0",
-    "score": { "home": 6, "away": 5 },
+    "score": {
+      "home": 6,
+      "away": 5
+    },
     "goals": []
   },
   {
@@ -48,7 +57,11 @@
     "awayTeamId": "t_apro",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_05",
@@ -60,7 +73,11 @@
     "awayTeamId": "t_yongin_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_06",
@@ -72,7 +89,11 @@
     "awayTeamId": "t_goyang_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_07",
@@ -84,7 +105,11 @@
     "awayTeamId": "t_apro",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_08",
@@ -96,7 +121,11 @@
     "awayTeamId": "t_yongin_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_09",
@@ -108,7 +137,11 @@
     "awayTeamId": "t_hwaseong_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_10",
@@ -119,7 +152,11 @@
     "homeTeamId": "t_namdong_wfs",
     "awayTeamId": "t_goyang_wfs",
     "status": "SCHEDULED",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_11",
@@ -131,7 +168,11 @@
     "awayTeamId": "t_hwaseong_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_12",
@@ -143,7 +184,11 @@
     "awayTeamId": "t_namdong_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_13",
@@ -155,7 +200,11 @@
     "awayTeamId": "t_apro",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_14",
@@ -167,7 +216,11 @@
     "awayTeamId": "t_namdong_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_15",
@@ -179,7 +232,11 @@
     "awayTeamId": "t_apro",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_16",
@@ -191,7 +248,11 @@
     "awayTeamId": "t_namdong_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_17",
@@ -203,7 +264,11 @@
     "awayTeamId": "t_goyang_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_18",
@@ -215,7 +280,11 @@
     "awayTeamId": "t_hwaseong_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_19",
@@ -227,7 +296,11 @@
     "awayTeamId": "t_namdong_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_w_20",
@@ -239,6 +312,10 @@
     "awayTeamId": "t_yongin_wfs",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   }
 ]
