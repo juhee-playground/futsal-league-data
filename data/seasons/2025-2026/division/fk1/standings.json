@@ -11,6 +11,17 @@
     "points": 15
   },
   {
+    "teamId": "t_nowon",
+    "played": 7,
+    "win": 5,
+    "draw": 0,
+    "loss": 2,
+    "gf": 33,
+    "ga": 17,
+    "gd": 16,
+    "points": 15
+  },
+  {
     "teamId": "t_gangwon",
     "played": 7,
     "win": 4,
@@ -33,17 +44,6 @@
     "points": 13
   },
   {
-    "teamId": "t_nowon",
-    "played": 6,
-    "win": 4,
-    "draw": 0,
-    "loss": 2,
-    "gf": 25,
-    "ga": 16,
-    "gd": 9,
-    "points": 12
-  },
-  {
     "teamId": "t_jeonju",
     "played": 7,
     "win": 1,
@@ -56,13 +56,13 @@
   },
   {
     "teamId": "t_eunpyeong",
-    "played": 6,
+    "played": 7,
     "win": 0,
     "draw": 1,
-    "loss": 5,
-    "gf": 9,
-    "ga": 31,
-    "gd": -22,
+    "loss": 6,
+    "gf": 10,
+    "ga": 37,
+    "gd": -26,
     "points": 1
   }
 ]
