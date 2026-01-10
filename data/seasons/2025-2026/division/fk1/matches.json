@@ -542,6 +542,34 @@
         "half": 1,
         "minute": 10,
         "isOwnGoal": false
+      },
+      {
+        "playerId": "p_nowon_18",
+        "teamId": "t_nowon",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_nowon_13",
+        "teamId": "t_nowon",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_nowon_25",
+        "teamId": "t_nowon",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_nowon_10",
+        "teamId": "t_nowon",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
       }
     ],
     "score": {
