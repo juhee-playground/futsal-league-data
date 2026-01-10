@@ -441,19 +441,18 @@
   },
   {
     "id": "m_20",
+    "seasonId": "2025-2026",
     "round": 7,
     "date": "2026-01-10",
     "time": "14:00",
-    "place": "단양국민체육센터",
     "homeTeamId": "t_jeonju",
     "awayTeamId": "t_gangwon",
-    "status": "SCHEDULED",
-    "youtube_url": "",
-    "goals": [],
     "score": {
-      "home": 0,
-      "away": 0
-    }
+      "home": 2,
+      "away": 6
+    },
+    "status": "LIVE",
+    "goals": []
   },
   {
     "id": "m_21",
