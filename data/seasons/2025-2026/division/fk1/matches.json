@@ -453,7 +453,7 @@
     },
     "status": "FINISHED",
     "goals": [
-       {
+      {
         "playerId": "p_gangwon_14",
         "teamId": "t_gangwon",
         "half": 1,
@@ -515,7 +515,7 @@
         "half": 2,
         "minute": 0,
         "isOwnGoal": false
-      },
+      }
     ]
   },
   {
@@ -529,7 +529,7 @@
     "status": "LIVE",
     "youtube_url": "",
     "goals": [
-       {
+      {
         "playerId": "p_nowon_13",
         "teamId": "t_nowon",
         "half": 1,
@@ -542,8 +542,7 @@
         "half": 1,
         "minute": 10,
         "isOwnGoal": false
-      },
-        
+      }
     ],
     "score": {
       "home": 2,
