@@ -392,8 +392,8 @@
     "homeTeamId": "t_gyeonggi",
     "awayTeamId": "t_goyang",
     "score": {
-      "home": 1,
-      "away": 1
+      "home": 2,
+      "away": 2
     },
     "status": "LIVE",
     "goals": []
