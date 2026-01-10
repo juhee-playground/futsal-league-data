@@ -392,7 +392,7 @@
     "homeTeamId": "t_gyeonggi",
     "awayTeamId": "t_goyang",
     "score": {
-      "home": 2,
+      "home": 3,
       "away": 2
     },
     "status": "LIVE",
@@ -425,6 +425,14 @@
         "id": "9360289a-8ad7-41dc-a51e-39f2a26400b9",
         "playerId": "p_goyang_22",
         "teamId": "t_goyang",
+        "half": 2,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+      {
+        "id": "dd7fbe2a-d86b-4f37-bb96-d41545bea0d0",
+        "playerId": "p_gyeonggi_88",
+        "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 0,
         "isOwnGoal": false
