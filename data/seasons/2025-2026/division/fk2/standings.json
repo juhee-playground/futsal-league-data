@@ -6,8 +6,8 @@
     "draw": 1,
     "loss": 0,
     "gf": 40,
-    "ga": 12,
-    "gd": 28,
+    "ga": 11,
+    "gd": 29,
     "points": 16
   },
   {
@@ -17,20 +17,9 @@
     "draw": 0,
     "loss": 2,
     "gf": 15,
-    "ga": 19,
-    "gd": -4,
+    "ga": 17,
+    "gd": -2,
     "points": 12
-  },
-  {
-    "teamId": "t_hwaseong",
-    "played": 6,
-    "win": 3,
-    "draw": 1,
-    "loss": 2,
-    "gf": 26,
-    "ga": 23,
-    "gd": 3,
-    "points": 10
   },
   {
     "teamId": "t_gumi",
@@ -38,9 +27,20 @@
     "win": 3,
     "draw": 1,
     "loss": 2,
+    "gf": 23,
+    "ga": 18,
+    "gd": 5,
+    "points": 10
+  },
+  {
+    "teamId": "t_hwaseong",
+    "played": 6,
+    "win": 3,
+    "draw": 1,
+    "loss": 2,
     "gf": 24,
-    "ga": 21,
-    "gd": 3,
+    "ga": 23,
+    "gd": 1,
     "points": 10
   },
   {
@@ -50,8 +50,8 @@
     "draw": 0,
     "loss": 3,
     "gf": 17,
-    "ga": 24,
-    "gd": -7,
+    "ga": 23,
+    "gd": -6,
     "points": 9
   },
   {
@@ -61,8 +61,8 @@
     "draw": 1,
     "loss": 3,
     "gf": 19,
-    "ga": 19,
-    "gd": 0,
+    "ga": 21,
+    "gd": -2,
     "points": 7
   },
   {
@@ -83,8 +83,8 @@
     "draw": 0,
     "loss": 5,
     "gf": 12,
-    "ga": 31,
-    "gd": -19,
+    "ga": 33,
+    "gd": -21,
     "points": 3
   }
 ]

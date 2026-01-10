@@ -9,7 +9,10 @@
     "awayTeamId": "t_cheongju",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=FrmUKzxFlk0",
-    "score": { "home": 9, "away": 4 },
+    "score": {
+      "home": 9,
+      "away": 4
+    },
     "goals": []
   },
   {
@@ -22,7 +25,10 @@
     "awayTeamId": "t_daegu",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=5P0B2N6zpiw",
-    "score": { "home": 5, "away": 3 },
+    "score": {
+      "home": 5,
+      "away": 3
+    },
     "goals": []
   },
   {
@@ -35,7 +41,10 @@
     "awayTeamId": "t_gunsan",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=24NMHvH07VM",
-    "score": { "home": 5, "away": 3 },
+    "score": {
+      "home": 5,
+      "away": 3
+    },
     "goals": []
   },
   {
@@ -48,10 +57,12 @@
     "awayTeamId": "t_yongin",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=tvWldgIDEco",
-    "score": { "home": 3, "away": 7 },
+    "score": {
+      "home": 3,
+      "away": 7
+    },
     "goals": []
   },
-
   {
     "id": "m_fk2_05",
     "round": 2,
@@ -62,7 +73,10 @@
     "awayTeamId": "t_namdong",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=3BgPFxzouuQ",
-    "score": { "home": 1, "away": 2 },
+    "score": {
+      "home": 1,
+      "away": 2
+    },
     "goals": []
   },
   {
@@ -75,7 +89,10 @@
     "awayTeamId": "t_hwaseong",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=GlOB1g4tU1k",
-    "score": { "home": 6, "away": 6 },
+    "score": {
+      "home": 6,
+      "away": 6
+    },
     "goals": []
   },
   {
@@ -88,7 +105,10 @@
     "awayTeamId": "t_yongin",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=XIb7eQk591A",
-    "score": { "home": 0, "away": 9 },
+    "score": {
+      "home": 0,
+      "away": 9
+    },
     "goals": []
   },
   {
@@ -101,10 +121,12 @@
     "awayTeamId": "t_jecheon",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=ktJLRWCe-pQ",
-    "score": { "home": 3, "away": 2 },
+    "score": {
+      "home": 3,
+      "away": 2
+    },
     "goals": []
   },
-
   {
     "id": "m_fk2_09",
     "round": 3,
@@ -115,7 +137,10 @@
     "awayTeamId": "t_yongin",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=ZnY9-eYfpeM",
-    "score": { "home": 3, "away": 3 },
+    "score": {
+      "home": 3,
+      "away": 3
+    },
     "goals": []
   },
   {
@@ -128,7 +153,10 @@
     "awayTeamId": "t_daegu",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=Lzuyvw3lSLI",
-    "score": { "home": 2, "away": 1 },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
     "goals": []
   },
   {
@@ -141,7 +169,10 @@
     "awayTeamId": "t_hwaseong",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=E6iUkHvWCFU",
-    "score": { "home": 5, "away": 2 },
+    "score": {
+      "home": 5,
+      "away": 2
+    },
     "goals": []
   },
   {
@@ -154,10 +185,12 @@
     "awayTeamId": "t_gumi",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=K5LRe3nxnHs",
-    "score": { "home": 1, "away": 3 },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
     "goals": []
   },
-
   {
     "id": "m_fk2_13",
     "round": 4,
@@ -168,7 +201,10 @@
     "awayTeamId": "t_jecheon",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=9FI0qNolGL0",
-    "score": { "home": 5, "away": 1 },
+    "score": {
+      "home": 5,
+      "away": 1
+    },
     "goals": []
   },
   {
@@ -181,7 +217,10 @@
     "awayTeamId": "t_yongin",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=zsMwxOoM960",
-    "score": { "home": 4, "away": 5 },
+    "score": {
+      "home": 4,
+      "away": 5
+    },
     "goals": []
   },
   {
@@ -194,7 +233,10 @@
     "awayTeamId": "t_cheongju",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=OYL90gOidlk",
-    "score": { "home": 2, "away": 0 },
+    "score": {
+      "home": 2,
+      "away": 0
+    },
     "goals": []
   },
   {
@@ -207,10 +249,12 @@
     "awayTeamId": "t_gunsan",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=uZglJW4lJZc",
-    "score": { "home": 5, "away": 2 },
+    "score": {
+      "home": 5,
+      "away": 2
+    },
     "goals": []
   },
-
   {
     "id": "m_fk2_17",
     "round": 5,
@@ -221,7 +265,10 @@
     "awayTeamId": "t_gumi",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=NwZxi47FGPY",
-    "score": { "home": 2, "away": 1 },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
     "goals": []
   },
   {
@@ -234,7 +281,10 @@
     "awayTeamId": "t_hwaseong",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=jl7dUVubz6s",
-    "score": { "home": 1, "away": 3 },
+    "score": {
+      "home": 1,
+      "away": 3
+    },
     "goals": []
   },
   {
@@ -247,7 +297,10 @@
     "awayTeamId": "t_cheongju",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=JMEodJ5bobI",
-    "score": { "home": 6, "away": 1 },
+    "score": {
+      "home": 6,
+      "away": 1
+    },
     "goals": []
   },
   {
@@ -260,7 +313,10 @@
     "awayTeamId": "t_yongin",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=H4rVBdJgBz0",
-    "score": { "home": 0, "away": 7 },
+    "score": {
+      "home": 0,
+      "away": 7
+    },
     "goals": []
   },
   {
@@ -273,7 +329,10 @@
     "awayTeamId": "t_yongin",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=0IpD2-Zmy-o",
-    "score": { "home": 1, "away": 9 },
+    "score": {
+      "home": 1,
+      "away": 9
+    },
     "goals": []
   },
   {
@@ -286,7 +345,10 @@
     "awayTeamId": "t_gumi",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=tfcjgyGL2ws",
-    "score": { "home": 1, "away": 4 },
+    "score": {
+      "home": 1,
+      "away": 4
+    },
     "goals": []
   },
   {
@@ -299,7 +361,10 @@
     "awayTeamId": "t_daegu",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=rQ_aYFVK8wc",
-    "score": { "home": 6, "away": 4 },
+    "score": {
+      "home": 6,
+      "away": 4
+    },
     "goals": []
   },
   {
@@ -312,7 +377,10 @@
     "awayTeamId": "t_jecheon",
     "status": "FINISHED",
     "youtube_url": "https://www.youtube.com/watch?v=246dutWEjf0",
-    "score": { "home": 5, "away": 2 },
+    "score": {
+      "home": 5,
+      "away": 2
+    },
     "goals": []
   },
   {
@@ -363,7 +431,6 @@
     "youtube_url": "",
     "goals": []
   },
-
   {
     "id": "m_fk2_29",
     "round": 8,
@@ -412,7 +479,6 @@
     "youtube_url": "",
     "goals": []
   },
-
   {
     "id": "m_fk2_33",
     "round": 9,
@@ -461,7 +527,6 @@
     "youtube_url": "",
     "goals": []
   },
-
   {
     "id": "m_fk2_37",
     "round": 10,
@@ -510,7 +575,6 @@
     "youtube_url": "",
     "goals": []
   },
-
   {
     "id": "m_fk2_41",
     "round": 11,
@@ -559,7 +623,6 @@
     "youtube_url": "",
     "goals": []
   },
-
   {
     "id": "m_fk2_45",
     "round": 12,
@@ -608,7 +671,6 @@
     "youtube_url": "",
     "goals": []
   },
-
   {
     "id": "m_fk2_49",
     "round": 13,
@@ -657,7 +719,6 @@
     "youtube_url": "",
     "goals": []
   },
-
   {
     "id": "m_fk2_53",
     "round": 14,
