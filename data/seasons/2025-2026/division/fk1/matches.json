@@ -451,8 +451,72 @@
       "home": 2,
       "away": 6
     },
-    "status": "LIVE",
-    "goals": []
+    "status": "FINISHED",
+    "goals": [
+       {
+        "playerId": "p_gangwon_14",
+        "teamId": "t_gangwon",
+        "half": 1,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_13",
+        "teamId": "t_jeonju",
+        "half": 1,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gangwon_10",
+        "teamId": "t_gangwon",
+        "half": 1,
+        "minute": 20,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gangwon_02",
+        "teamId": "t_gangwon",
+        "half": 2,
+        "minute": 1,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_05",
+        "teamId": "t_jeonju",
+        "half": 2,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gangwon_10",
+        "teamId": "t_gangwon",
+        "half": 2,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gangwon_10",
+        "teamId": "t_gangwon",
+        "half": 2,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gangwon_17",
+        "teamId": "t_gangwon",
+        "half": 2,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_16",
+        "teamId": "t_jeonju",
+        "half": 2,
+        "minute": 0,
+        "isOwnGoal": false
+      },
+    ]
   },
   {
     "id": "m_21",
@@ -462,11 +526,27 @@
     "place": "단양국민체육센터",
     "homeTeamId": "t_nowon",
     "awayTeamId": "t_eunpyeong",
-    "status": "SCHEDULED",
+    "status": "LIVE",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+       {
+        "playerId": "p_nowon_13",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_nowon_30",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 10,
+        "isOwnGoal": false
+      },
+        
+    ],
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     }
   },
