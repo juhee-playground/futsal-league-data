@@ -520,14 +520,17 @@
   },
   {
     "id": "m_21",
+    "seasonId": "2025-2026",
     "round": 7,
     "date": "2026-01-10",
     "time": "17:00",
-    "place": "단양국민체육센터",
     "homeTeamId": "t_nowon",
     "awayTeamId": "t_eunpyeong",
-    "status": "LIVE",
-    "youtube_url": "",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "status": "FINISHED",
     "goals": [
       {
         "playerId": "p_nowon_13",
@@ -571,11 +574,7 @@
         "minute": 4,
         "isOwnGoal": false
       }
-    ],
-    "score": {
-      "home": 2,
-      "away": 0
-    }
+    ]
   },
   {
     "id": "m_17",
