@@ -343,13 +343,35 @@
     "place": "단양국민체육센터",
     "homeTeamId": "t_gangwon",
     "awayTeamId": "t_gyeonggi",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
-    "score": {
-      "home": 0,
-      "away": 0
-    }
+    "score": { "home": 3, "away": 1 },
+    "goals": [
+      {
+        "playerId": "p_gangwon_06",
+        "teamId": "t_gangwon",
+        "half": 1,
+        "minute": 13
+      },
+      {
+        "playerId": "p_gangwon_06",
+        "teamId": "t_gangwon",
+        "half": 1,
+        "minute": 16
+      },
+      {
+        "playerId": "p_gangwon_14",
+        "teamId": "t_gangwon",
+        "half": 1,
+        "minute": 19
+      },
+      {
+        "playerId": "p_gyeonggi_13",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 10
+      }
+    ]
   },
   {
     "id": "m_23",
@@ -359,12 +381,61 @@
     "place": "단양국민체육센터",
     "homeTeamId": "t_eunpyeong",
     "awayTeamId": "t_goyang",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_eunpyeong_37",
+        "teamId": "t_eunpyeong",
+        "half": 1,
+        "minute": 14
+      },
+      {
+        "playerId": "p_goyang_10",
+        "teamId": "t_goyang",
+        "half": 1,
+        "minute": 15
+      },
+      {
+        "playerId": "p_goyang_09",
+        "teamId": "t_goyang",
+        "half": 2,
+        "minute": 0
+      },
+      {
+        "playerId": "p_goyang_12",
+        "teamId": "t_goyang",
+        "half": 2,
+        "minute": 3
+      },
+      {
+        "playerId": "p_eunpyeong_08",
+        "teamId": "t_eunpyeong",
+        "half": 2,
+        "minute": 4
+      },
+      {
+        "playerId": "p_goyang_07",
+        "teamId": "t_goyang",
+        "half": 2,
+        "minute": 10
+      },
+      {
+        "playerId": "p_eunpyeong_37",
+        "teamId": "t_eunpyeong",
+        "half": 2,
+        "minute": 13
+      },
+      {
+        "playerId": "p_eunpyeong_77",
+        "teamId": "t_eunpyeong",
+        "half": 2,
+        "minute": 17
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 4
     }
   },
   {
@@ -375,13 +446,44 @@
     "place": "단양국민체육센터",
     "homeTeamId": "t_nowon",
     "awayTeamId": "t_jeonju",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
-    "score": {
-      "home": 0,
-      "away": 0
-    }
+    "score": { "home": 5, "away": 3 },
+    "goals": [
+      {
+        "playerId": "p_jeonju_22",
+        "teamId": "t_jeonju",
+        "half": 1,
+        "minute": 6
+      },
+      {
+        "playerId": "p_jeonju_05",
+        "teamId": "t_jeonju",
+        "half": 1,
+        "minute": 11
+      },
+      {
+        "playerId": "p_nowon_08",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 17
+      },
+      { "playerId": "p_nowon_10", "teamId": "t_nowon", "half": 2, "minute": 0 },
+      { "playerId": "p_nowon_12", "teamId": "t_nowon", "half": 2, "minute": 2 },
+      {
+        "playerId": "p_jeonju_11",
+        "teamId": "t_jeonju",
+        "half": 2,
+        "minute": 9
+      },
+      {
+        "playerId": "p_nowon_13",
+        "teamId": "t_nowon",
+        "half": 2,
+        "minute": 10
+      },
+      { "playerId": "p_nowon_12", "teamId": "t_nowon", "half": 2, "minute": 11 }
+    ]
   },
   {
     "id": "m_19",
