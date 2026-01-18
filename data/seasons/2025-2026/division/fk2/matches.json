@@ -393,7 +393,57 @@
     "awayTeamId": "t_namdong",
     "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "id": "f3k0guq9q",
+        "playerId": "p_jecheon_42",
+        "teamId": "t_jecheon",
+        "half": "1",
+        "minute": 8
+      },
+      {
+        "id": "tzhebp5wz",
+        "playerId": "p_namdong_09",
+        "teamId": "t_namdong",
+        "half": "1",
+        "minute": 16
+      },
+      {
+        "id": "r7trla71c",
+        "playerId": "p_jecheon_10",
+        "teamId": "t_jecheon",
+        "half": "1",
+        "minute": 18
+      },
+      {
+        "id": "7bhq6h6wy",
+        "playerId": "p_namdong_91",
+        "teamId": "t_namdong",
+        "half": "1",
+        "minute": 22
+      },
+      {
+        "id": "kmtt3d3jx",
+        "playerId": "p_jecheon_23",
+        "teamId": "t_jecheon",
+        "half": "1",
+        "minute": 24
+      },
+      {
+        "id": "gu2kh3l64",
+        "playerId": "p_jecheon_05",
+        "teamId": "t_jecheon",
+        "half": "1",
+        "minute": 27
+      },
+      {
+        "id": "6rz4lcebc",
+        "playerId": "p_namdong_91",
+        "teamId": "t_namdong",
+        "half": "1",
+        "minute": 29
+      }
+    ],
     "score": {
       "home": 4,
       "away": 3
