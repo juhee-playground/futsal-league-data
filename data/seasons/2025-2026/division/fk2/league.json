@@ -6,5 +6,9 @@
   "startDate": "2025-11-15",
   "endDate": "2026-04-04",
   "rounds": 14,
-  "pointRule": { "win": 3, "draw": 1, "loss": 0 }
+  "pointRule": {
+    "win": 3,
+    "draw": 1,
+    "loss": 0
+  }
 }
