@@ -393,7 +393,11 @@
     "awayTeamId": "t_namdong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_26",
@@ -405,7 +409,11 @@
     "awayTeamId": "t_cheongju",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_27",
@@ -417,7 +425,11 @@
     "awayTeamId": "t_gunsan",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_28",
@@ -429,7 +441,11 @@
     "awayTeamId": "t_yongin",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 2,
+      "away": 4
+    }
   },
   {
     "id": "m_fk2_29",
@@ -441,7 +457,11 @@
     "awayTeamId": "t_jecheon",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_30",
@@ -453,7 +473,11 @@
     "awayTeamId": "t_namdong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_31",
@@ -465,7 +489,11 @@
     "awayTeamId": "t_hwaseong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_32",
@@ -477,7 +505,11 @@
     "awayTeamId": "t_gumi",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_33",
@@ -489,7 +521,11 @@
     "awayTeamId": "t_gunsan",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_34",
@@ -501,7 +537,11 @@
     "awayTeamId": "t_cheongju",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_35",
@@ -513,7 +553,11 @@
     "awayTeamId": "t_namdong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_36",
@@ -525,7 +569,11 @@
     "awayTeamId": "t_gumi",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_37",
@@ -537,7 +585,11 @@
     "awayTeamId": "t_gunsan",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_38",
@@ -549,7 +601,11 @@
     "awayTeamId": "t_cheongju",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_39",
@@ -561,7 +617,11 @@
     "awayTeamId": "t_jecheon",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_40",
@@ -573,7 +633,11 @@
     "awayTeamId": "t_namdong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_41",
@@ -585,7 +649,11 @@
     "awayTeamId": "t_daegu",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_42",
@@ -597,7 +665,11 @@
     "awayTeamId": "t_hwaseong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_43",
@@ -609,7 +681,11 @@
     "awayTeamId": "t_gumi",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_44",
@@ -621,7 +697,11 @@
     "awayTeamId": "t_namdong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_45",
@@ -633,7 +713,11 @@
     "awayTeamId": "t_namdong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_46",
@@ -645,7 +729,11 @@
     "awayTeamId": "t_jecheon",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_47",
@@ -657,7 +745,11 @@
     "awayTeamId": "t_gunsan",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_48",
@@ -669,7 +761,11 @@
     "awayTeamId": "t_daegu",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_49",
@@ -681,7 +777,11 @@
     "awayTeamId": "t_hwaseong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_50",
@@ -693,7 +793,11 @@
     "awayTeamId": "t_cheongju",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_51",
@@ -705,7 +809,11 @@
     "awayTeamId": "t_gunsan",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_52",
@@ -717,7 +825,11 @@
     "awayTeamId": "t_namdong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_53",
@@ -729,7 +841,11 @@
     "awayTeamId": "t_gumi",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_54",
@@ -741,7 +857,11 @@
     "awayTeamId": "t_daegu",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_55",
@@ -753,7 +873,11 @@
     "awayTeamId": "t_jecheon",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   },
   {
     "id": "m_fk2_56",
@@ -765,6 +889,10 @@
     "awayTeamId": "t_hwaseong",
     "status": "SCHEDULED",
     "youtube_url": "",
-    "goals": []
+    "goals": [],
+    "score": {
+      "home": 0,
+      "away": 0
+    }
   }
 ]
