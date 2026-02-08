@@ -320,19 +320,18 @@
   },
   {
     "id": "m_25",
+    "seasonId": "2025-2026",
     "round": 9,
     "date": "2026-02-07",
     "time": "17:00",
-    "place": "경기LBFS트레이닝센터",
     "homeTeamId": "t_gyeonggi",
     "awayTeamId": "t_eunpyeong",
-    "status": "SCHEDULED",
-    "youtube_url": "",
-    "goals": [],
     "score": {
-      "home": 0,
-      "away": 0
-    }
+      "home": 15,
+      "away": 1
+    },
+    "status": "SCHEDULED",
+    "goals": []
   },
   {
     "id": "m_22",
