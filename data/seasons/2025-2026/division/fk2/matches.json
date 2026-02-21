@@ -13,7 +13,21 @@
       "home": 9,
       "away": 4
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_jecheon_10", "teamId": "t_jecheon", "half": 2, "minute": 2, "isOwnGoal": false},
+      {"playerId": "p_jecheon_10", "teamId": "t_jecheon", "half": 2, "minute": 7, "isOwnGoal": false},
+      {"playerId": "p_jecheon_10", "teamId": "t_jecheon", "half": 2, "minute": 20, "isOwnGoal": false},
+      {"playerId": "p_jecheon_21", "teamId": "t_jecheon", "half": 1, "minute": 16, "isOwnGoal": false},
+      {"playerId": "p_jecheon_21", "teamId": "t_jecheon", "half": 2, "minute": 14, "isOwnGoal": false},
+      {"playerId": "p_jecheon_5", "teamId": "t_jecheon", "half": 1, "minute": 20, "isOwnGoal": false},
+      {"playerId": "p_jecheon_14", "teamId": "t_jecheon", "half": 1, "minute": 14, "isOwnGoal": false},
+      {"playerId": "p_jecheon_20", "teamId": "t_jecheon", "half": 2, "minute": 9, "isOwnGoal": false},
+      {"playerId": "p_jecheon_23", "teamId": "t_jecheon", "half": 2, "minute": 3, "isOwnGoal": false},
+      {"playerId": "p_cheongju_10", "teamId": "t_cheongju", "half": 2, "minute": 6, "isOwnGoal": false},
+      {"playerId": "p_cheongju_10", "teamId": "t_cheongju", "half": 2, "minute": 12, "isOwnGoal": false},
+      {"playerId": "p_cheongju_7", "teamId": "t_cheongju", "half": 1, "minute": 13, "isOwnGoal": false},
+      {"playerId": "p_cheongju_11", "teamId": "t_cheongju", "half": 1, "minute": 16, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_02",
@@ -29,7 +43,16 @@
       "home": 5,
       "away": 3
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_gumi_10", "teamId": "t_gumi", "half": 1, "minute": 4, "isOwnGoal": false},
+      {"playerId": "p_gumi_11", "teamId": "t_gumi", "half": 2, "minute": 20, "isOwnGoal": false},
+      {"playerId": "p_gumi_88", "teamId": "t_gumi", "half": 1, "minute": 20, "isOwnGoal": false},
+      {"playerId": "p_gumi_9", "teamId": "t_gumi", "half": 1, "minute": 16, "isOwnGoal": false},
+      {"playerId": "p_gumi_9", "teamId": "t_gumi", "half": 2, "minute": 3, "isOwnGoal": false},
+      {"playerId": "p_daegu_10", "teamId": "t_daegu", "half": 1, "minute": 6, "isOwnGoal": false},
+      {"playerId": "p_daegu_11", "teamId": "t_daegu", "half": 2, "minute": 20, "isOwnGoal": false},
+      {"playerId": "p_daegu_19", "teamId": "t_daegu", "half": 1, "minute": 7, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_03",
@@ -45,7 +68,16 @@
       "home": 5,
       "away": 3
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_namdong_9", "teamId": "t_namdong", "half": 2, "minute": 1, "isOwnGoal": false},
+      {"playerId": "p_namdong_9", "teamId": "t_namdong", "half": 2, "minute": 20, "isOwnGoal": false},
+      {"playerId": "p_namdong_77", "teamId": "t_namdong", "half": 2, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_namdong_5", "teamId": "t_namdong", "half": 1, "minute": 15, "isOwnGoal": false},
+      {"playerId": "p_namdong_6", "teamId": "t_namdong", "half": 1, "minute": 12, "isOwnGoal": false},
+      {"playerId": "p_namdong_7", "teamId": "t_namdong", "half": 2, "minute": 5, "isOwnGoal": false},
+      {"playerId": "p_gunsan_57", "teamId": "t_gunsan", "half": 1, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_gunsan_57", "teamId": "t_gunsan", "half": 2, "minute": 17, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_04",
@@ -61,7 +93,18 @@
       "home": 3,
       "away": 7
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_hwaseong_11", "teamId": "t_hwaseong", "half": 2, "minute": 17, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_13", "teamId": "t_hwaseong", "half": 1, "minute": 2, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_20", "teamId": "t_hwaseong", "half": 1, "minute": 13, "isOwnGoal": false},
+      {"playerId": "p_yongin_10", "teamId": "t_yongin", "half": 1, "minute": 4, "isOwnGoal": false},
+      {"playerId": "p_yongin_10", "teamId": "t_yongin", "half": 1, "minute": 5, "isOwnGoal": false},
+      {"playerId": "p_yongin_10", "teamId": "t_yongin", "half": 1, "minute": 16, "isOwnGoal": false},
+      {"playerId": "p_yongin_10", "teamId": "t_yongin", "half": 2, "minute": 7, "isOwnGoal": false},
+      {"playerId": "p_yongin_18", "teamId": "t_yongin", "half": 2, "minute": 2, "isOwnGoal": false},
+      {"playerId": "p_yongin_18", "teamId": "t_yongin", "half": 2, "minute": 17, "isOwnGoal": false},
+      {"playerId": "p_yongin_33", "teamId": "t_yongin", "half": 2, "minute": 4, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_05",
@@ -77,7 +120,11 @@
       "home": 1,
       "away": 2
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_daegu_4", "teamId": "t_daegu", "half": 1, "minute": 12, "isOwnGoal": false},
+      {"playerId": "p_namdong_7", "teamId": "t_namdong", "half": 1, "minute": 13, "isOwnGoal": false},
+      {"playerId": "p_namdong_11", "teamId": "t_namdong", "half": 1, "minute": 7, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_06",
@@ -93,7 +140,19 @@
       "home": 6,
       "away": 6
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_gumi_9", "teamId": "t_gumi", "half": 2, "minute": 2, "isOwnGoal": false},
+      {"playerId": "p_gumi_10", "teamId": "t_gumi", "half": 2, "minute": 2, "isOwnGoal": false},
+      {"playerId": "p_gumi_11", "teamId": "t_gumi", "half": 2, "minute": 10, "isOwnGoal": false},
+      {"playerId": "p_gumi_16", "teamId": "t_gumi", "half": 2, "minute": 1, "isOwnGoal": false},
+      {"playerId": "p_gumi_12", "teamId": "t_gumi", "half": 1, "minute": 9, "isOwnGoal": false},
+      {"playerId": "p_gumi_19", "teamId": "t_gumi", "half": 2, "minute": 20, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_7", "teamId": "t_hwaseong", "half": 1, "minute": 8, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_20", "teamId": "t_hwaseong", "half": 1, "minute": 2, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_8", "teamId": "t_hwaseong", "half": 2, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_30", "teamId": "t_hwaseong", "half": 1, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_30", "teamId": "t_hwaseong", "half": 2, "minute": 14, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_07",
@@ -109,7 +168,17 @@
       "home": 0,
       "away": 9
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_yongin_10", "teamId": "t_yongin", "half": 1, "minute": 3, "isOwnGoal": false},
+      {"playerId": "p_yongin_10", "teamId": "t_yongin", "half": 1, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_yongin_38", "teamId": "t_yongin", "half": 1, "minute": 10, "isOwnGoal": false},
+      {"playerId": "p_yongin_38", "teamId": "t_yongin", "half": 1, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_yongin_38", "teamId": "t_yongin", "half": 2, "minute": 19, "isOwnGoal": false},
+      {"playerId": "p_yongin_11", "teamId": "t_yongin", "half": 2, "minute": 4, "isOwnGoal": false},
+      {"playerId": "p_yongin_33", "teamId": "t_yongin", "half": 1, "minute": 6, "isOwnGoal": false},
+      {"playerId": "p_yongin_33", "teamId": "t_yongin", "half": 2, "minute": 7, "isOwnGoal": false},
+      {"playerId": "p_yongin_33", "teamId": "t_yongin", "half": 2, "minute": 8, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_08",
@@ -125,7 +194,13 @@
       "home": 3,
       "away": 2
     },
-    "goals": []
+    "goals": [
+      {"playerId": "p_gunsan_4", "teamId": "t_gunsan", "half": 2, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_gunsan_9", "teamId": "t_gunsan", "half": 2, "minute": 12, "isOwnGoal": false},
+      {"playerId": "p_gunsan_9", "teamId": "t_gunsan", "half": 2, "minute": 17, "isOwnGoal": false},
+      {"playerId": "p_jecheon_21", "teamId": "t_jecheon", "half": 2, "minute": 11, "isOwnGoal": false},
+      {"playerId": "p_jecheon_42", "teamId": "t_jecheon", "half": 1, "minute": 9, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_fk2_09",
