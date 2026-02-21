@@ -288,36 +288,92 @@
     }
   },
   {
-    "id": "m_26",
-    "seasonId": "2025-2026",
-    "round": 9,
-    "date": "2026-02-08",
-    "time": "14:00",
-    "homeTeamId": "t_gangwon",
-    "awayTeamId": "t_nowon",
-    "score": {
-      "home": 2,
-      "away": 2
+  "id": "m_26",
+  "seasonId": "2025-2026",
+  "round": 9,
+  "date": "2026-02-08",
+  "time": "14:00",
+  "homeTeamId": "t_gangwon",
+  "awayTeamId": "t_nowon",
+  "score": {
+    "home": 2,
+    "away": 2
+  },
+  "status": "SCHEDULED",
+  "goals": [
+    {
+      "playerId": "p_gangwon_20",
+      "teamId": "t_gangwon",
+      "half": 1,
+      "minute": 11
     },
-    "status": "SCHEDULED",
-    "goals": []
-  },
-  {
-    "id": "m_27",
-    "round": 9,
-    "date": "2026-02-08",
-    "time": "15:00",
-    "place": "고양어울림누리체육관",
-    "homeTeamId": "t_goyang",
-    "awayTeamId": "t_jeonju",
-    "status": "SCHEDULED",
-    "youtube_url": "",
-    "goals": [],
-    "score": {
-      "home": 0,
-      "away": 0
+    {
+      "playerId": "p_nowon_06",
+      "teamId": "t_nowon",
+      "half": 1,
+      "minute": 15
+    },
+    {
+      "playerId": "p_nowon_13",
+      "teamId": "t_nowon",
+      "half": 1,
+      "minute": 18
+    },
+    {
+      "playerId": "p_gangwon_02",
+      "teamId": "t_gangwon",
+      "half": 2,
+      "minute": 31
     }
+  ]
+},
+  {
+  "id": "m_27",
+  "round": 9,
+  "date": "2026-02-08",
+  "time": "15:00",
+  "place": "고양어울림누리체육관",
+  "homeTeamId": "t_goyang",
+  "awayTeamId": "t_jeonju",
+  "status": "SCHEDULED",
+  "youtube_url": "",
+  "score": {
+    "home": 4,
+    "away": 3
   },
+  "goals": [
+    {
+      "playerId": "p_goyang_12",
+      "teamId": "t_goyang",
+      "half": 1,
+      "minute": 4
+    },
+    {
+      "playerId": "p_goyang_07",
+      "teamId": "t_goyang",
+      "half": 1,
+      "minute": 10
+    },
+    {
+      "playerId": "p_goyang_07",
+      "teamId": "t_goyang",
+      "half": 1,
+      "minute": 15
+    },
+    {
+      "playerId": "p_jeonju_08",
+      "teamId": "t_jeonju",
+      "half": 2,
+      "minute": 27
+    },
+    {
+      "playerId": "p_goyang_22",
+      "teamId": "t_goyang",
+      "half": 2,
+      "minute": 40
+    }
+  ]
+},
   {
   "id": "m_25",
   "seasonId": "2025-2026",
