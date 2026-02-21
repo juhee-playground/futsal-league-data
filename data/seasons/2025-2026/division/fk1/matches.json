@@ -299,7 +299,7 @@
     "home": 2,
     "away": 2
   },
-  "status": "SCHEDULED",
+  "status": "FINISHED",
   "goals": [
     {
       "playerId": "p_gangwon_20",
@@ -335,7 +335,7 @@
   "place": "고양어울림누리체육관",
   "homeTeamId": "t_goyang",
   "awayTeamId": "t_jeonju",
-  "status": "SCHEDULED",
+  "status": "FINISHED",
   "youtube_url": "",
   "score": {
     "home": 4,
@@ -386,7 +386,7 @@
     "home": 15,
     "away": 1
   },
-  "status": "SCHEDULED",
+  "status": "FINISHED",
   "goals": [
     {
       "playerId": "p_gyeonggi_13",
