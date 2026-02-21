@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "playerId": "p_namdong_91",
+    "teamId": "t_namdong",
+    "goals": 2
+  },
+  {
+    "playerId": "p_jecheon_05",
+    "teamId": "t_jecheon",
+    "goals": 1
+  },
+  {
+    "playerId": "p_jecheon_10",
+    "teamId": "t_jecheon",
+    "goals": 1
+  },
+  {
+    "playerId": "p_jecheon_23",
+    "teamId": "t_jecheon",
+    "goals": 1
+  },
+  {
+    "playerId": "p_jecheon_42",
+    "teamId": "t_jecheon",
+    "goals": 1
+  },
+  {
+    "playerId": "p_namdong_09",
+    "teamId": "t_namdong",
+    "goals": 1
+  }
+]
