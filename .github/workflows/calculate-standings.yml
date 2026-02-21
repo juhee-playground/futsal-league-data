@@ -21,6 +21,14 @@ jobs:
         with:
           node-version: '20'
       
+      - name: Verify script exists
+        run: |
+          if [ ! -f calculate-standings.js ]; then
+            echo "::error::calculate-standings.js 파일이 없습니다. 저장소에 커밋 후 푸시했는지 확인하세요."
+            ls -la
+            exit 1
+          fi
+      
       - name: Calculate standings
         run: node calculate-standings.js
       
