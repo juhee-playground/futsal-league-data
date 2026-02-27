@@ -1,48 +1,48 @@
 [
   {
-    "id": "p_gyeonggi_1",
+    "id": "p_gyeonggi_01",
     "name": "이경호",
     "teamId": "t_gyeonggi",
     "number": 1,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_gyeonggi_3",
+    "id": "p_gyeonggi_03",
     "name": "모하메드",
     "teamId": "t_gyeonggi",
     "number": 3,
     "position": "ALA"
   },
   {
-    "id": "p_gyeonggi_5",
+    "id": "p_gyeonggi_05",
     "name": "김은수",
     "teamId": "t_gyeonggi",
     "number": 5,
     "position": "ALA"
   },
   {
-    "id": "p_gyeonggi_6",
+    "id": "p_gyeonggi_06",
     "name": "이준원",
     "teamId": "t_gyeonggi",
     "number": 6,
     "position": "FIXO"
   },
   {
-    "id": "p_gyeonggi_7",
+    "id": "p_gyeonggi_07",
     "name": "이용준",
     "teamId": "t_gyeonggi",
     "number": 7,
     "position": "ALA"
   },
   {
-    "id": "p_gyeonggi_8",
+    "id": "p_gyeonggi_08",
     "name": "명승호",
     "teamId": "t_gyeonggi",
     "number": 8,
     "position": "ALA"
   },
   {
-    "id": "p_gyeonggi_9",
+    "id": "p_gyeonggi_09",
     "name": "황운",
     "teamId": "t_gyeonggi",
     "number": 9,
@@ -273,6 +273,13 @@
     "position": "GOLEIRO"
   },
   {
+    "id": "p_eunpyeong_03",
+    "name": "윤창욱",
+    "teamId": "t_eunpyeong",
+    "number": 3,
+    "position": "ALA"
+  },
+  {
     "id": "p_eunpyeong_04",
     "name": "정상현",
     "teamId": "t_eunpyeong",
@@ -355,6 +362,13 @@
     "teamId": "t_eunpyeong",
     "number": 15,
     "position": "PIVO"
+  },
+  {
+    "id": "p_eunpyeong_16",
+    "name": "미확인",
+    "teamId": "t_eunpyeong",
+    "number": 16,
+    "position": "ALA"
   },
   {
     "id": "p_eunpyeong_17",
