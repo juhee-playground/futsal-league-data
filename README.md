@@ -7,9 +7,9 @@
 `matches.json`과 `crawl-config.js` 설정을 기반으로 futsal.or.kr에서 스코어·골 기록을 자동 수집합니다.
 
 ```bash
-node test-crawl.js          # 전체 (fk2, wk)
-node test-crawl.js wk       # WFK만
-node test-crawl.js fk2      # FK2만
+node test-crawl.js fk2                    # 날짜 지났는데 미입력인 경기만
+node test-crawl.js wk --date 2026-02-22   # 특정 날짜 경기
+node test-crawl.js fk1 --ids "[m_28,m_29,m_30]"   # 번호(배열)로 지정
 ```
 
 **설정 파일** `crawl-config.js`:
