@@ -320,13 +320,26 @@
     "place": "장안대학교 체육관",
     "homeTeamId": "t_hwaseong_wfs",
     "awayTeamId": "t_namdong_wfs",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
     "score": {
-      "home": 0,
-      "away": 0
-    }
+      "home": 5,
+      "away": 7
+    },
+    "goals": [
+      {"playerId": "p_hwaseong_wfs_7", "teamId": "t_hwaseong_wfs", "half": 1, "minute": 3, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_wfs_7", "teamId": "t_hwaseong_wfs", "half": 2, "minute": 14, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_wfs_7", "teamId": "t_hwaseong_wfs", "half": 2, "minute": 15, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_wfs_24", "teamId": "t_hwaseong_wfs", "half": 1, "minute": 5, "isOwnGoal": false},
+      {"playerId": "p_hwaseong_wfs_30", "teamId": "t_hwaseong_wfs", "half": 2, "minute": 6, "isOwnGoal": false},
+      {"playerId": "p_namdong_wfs_30", "teamId": "t_namdong_wfs", "half": 1, "minute": 2, "isOwnGoal": false},
+      {"playerId": "p_namdong_wfs_30", "teamId": "t_namdong_wfs", "half": 1, "minute": 10, "isOwnGoal": false},
+      {"playerId": "p_namdong_wfs_30", "teamId": "t_namdong_wfs", "half": 2, "minute": 10, "isOwnGoal": false},
+      {"playerId": "p_namdong_wfs_37", "teamId": "t_namdong_wfs", "half": 1, "minute": 9, "isOwnGoal": false},
+      {"playerId": "p_namdong_wfs_99", "teamId": "t_namdong_wfs", "half": 2, "minute": 1, "isOwnGoal": false},
+      {"playerId": "p_namdong_wfs_99", "teamId": "t_namdong_wfs", "half": 2, "minute": 5, "isOwnGoal": false},
+      {"playerId": "p_namdong_wfs_9", "teamId": "t_namdong_wfs", "half": 2, "minute": 18, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_w_15",
