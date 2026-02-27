@@ -1,62 +1,62 @@
 [
   {
-    "id": "p_namdong_01",
+    "id": "p_namdong_1",
     "name": "박영준",
     "teamId": "t_namdong",
     "number": 1,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_namdong_02",
+    "id": "p_namdong_2",
     "name": "이준형",
     "teamId": "t_namdong",
     "number": 2,
     "position": "PIVO"
   },
   {
-    "id": "p_namdong_03",
+    "id": "p_namdong_3",
     "name": "이대규",
     "teamId": "t_namdong",
     "number": 3,
     "position": "ALA"
   },
   {
-    "id": "p_namdong_04",
+    "id": "p_namdong_4",
     "name": "최신화",
     "teamId": "t_namdong",
     "number": 4,
     "position": "ALA"
   },
   {
-    "id": "p_namdong_05",
+    "id": "p_namdong_5",
     "name": "서병대",
     "teamId": "t_namdong",
     "number": 5,
     "position": "ALA"
   },
   {
-    "id": "p_namdong_06",
+    "id": "p_namdong_6",
     "name": "전종희",
     "teamId": "t_namdong",
     "number": 6,
     "position": "FIXO"
   },
   {
-    "id": "p_namdong_07",
+    "id": "p_namdong_7",
     "name": "이진석",
     "teamId": "t_namdong",
     "number": 7,
     "position": "PIVO"
   },
   {
-    "id": "p_namdong_08",
+    "id": "p_namdong_8",
     "name": "최재혁",
     "teamId": "t_namdong",
     "number": 8,
     "position": "ALA"
   },
   {
-    "id": "p_namdong_09",
+    "id": "p_namdong_9",
     "name": "정지윤",
     "teamId": "t_namdong",
     "number": 9,
@@ -189,49 +189,49 @@
     "position": "PIVO"
   },
   {
-    "id": "p_hwaseong_01",
+    "id": "p_hwaseong_1",
     "name": "차인혁",
     "teamId": "t_hwaseong",
     "number": 1,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_hwaseong_02",
+    "id": "p_hwaseong_2",
     "name": "정대연",
     "teamId": "t_hwaseong",
     "number": 2,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_hwaseong_04",
+    "id": "p_hwaseong_4",
     "name": "김기범",
     "teamId": "t_hwaseong",
     "number": 4,
     "position": "FIXO"
   },
   {
-    "id": "p_hwaseong_06",
+    "id": "p_hwaseong_6",
     "name": "장인호",
     "teamId": "t_hwaseong",
     "number": 6,
     "position": "PIVO"
   },
   {
-    "id": "p_hwaseong_07",
+    "id": "p_hwaseong_7",
     "name": "부성인",
     "teamId": "t_hwaseong",
     "number": 7,
     "position": "FIXO"
   },
   {
-    "id": "p_hwaseong_08",
+    "id": "p_hwaseong_8",
     "name": "윤경원",
     "teamId": "t_hwaseong",
     "number": 8,
     "position": "ALA"
   },
   {
-    "id": "p_hwaseong_09",
+    "id": "p_hwaseong_9",
     "name": "박상은",
     "teamId": "t_hwaseong",
     "number": 9,
@@ -322,42 +322,42 @@
     "position": "ALA"
   },
   {
-    "id": "p_gumi_01",
+    "id": "p_gumi_1",
     "name": "지준민",
     "teamId": "t_gumi",
     "number": 1,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_gumi_02",
+    "id": "p_gumi_2",
     "name": "박진섭",
     "teamId": "t_gumi",
     "number": 2,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_gumi_03",
+    "id": "p_gumi_3",
     "name": "장시원",
     "teamId": "t_gumi",
     "number": 3,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_gumi_06",
+    "id": "p_gumi_6",
     "name": "이지호",
     "teamId": "t_gumi",
     "number": 6,
     "position": "ALA"
   },
   {
-    "id": "p_gumi_07",
+    "id": "p_gumi_7",
     "name": "백장현",
     "teamId": "t_gumi",
     "number": 7,
     "position": "FIXO"
   },
   {
-    "id": "p_gumi_09",
+    "id": "p_gumi_9",
     "name": "김인수",
     "teamId": "t_gumi",
     "number": 9,
@@ -518,42 +518,42 @@
     "position": "PIVO"
   },
   {
-    "id": "p_daegu_01",
+    "id": "p_daegu_1",
     "name": "박진혁",
     "teamId": "t_daegu",
     "number": 1,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_daegu_03",
+    "id": "p_daegu_3",
     "name": "김용범",
     "teamId": "t_daegu",
     "number": 3,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_daegu_04",
+    "id": "p_daegu_4",
     "name": "서정명",
     "teamId": "t_daegu",
     "number": 4,
     "position": "FIXO"
   },
   {
-    "id": "p_daegu_06",
+    "id": "p_daegu_6",
     "name": "김동규",
     "teamId": "t_daegu",
     "number": 6,
     "position": "FIXO"
   },
   {
-    "id": "p_daegu_08",
+    "id": "p_daegu_8",
     "name": "박수오",
     "teamId": "t_daegu",
     "number": 8,
     "position": "ALA"
   },
   {
-    "id": "p_daegu_09",
+    "id": "p_daegu_9",
     "name": "김현모",
     "teamId": "t_daegu",
     "number": 9,
@@ -630,49 +630,49 @@
     "position": "GOLEIRO"
   },
   {
-    "id": "p_yongin_01",
+    "id": "p_yongin_1",
     "name": "정형철",
     "teamId": "t_yongin",
     "number": 1,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_yongin_02",
+    "id": "p_yongin_2",
     "name": "전정윤",
     "teamId": "t_yongin",
     "number": 2,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_yongin_04",
+    "id": "p_yongin_4",
     "name": "정윤원",
     "teamId": "t_yongin",
     "number": 4,
     "position": "FIXO"
   },
   {
-    "id": "p_yongin_05",
+    "id": "p_yongin_5",
     "name": "김성진",
     "teamId": "t_yongin",
     "number": 5,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_yongin_06",
+    "id": "p_yongin_6",
     "name": "김성빈",
     "teamId": "t_yongin",
     "number": 6,
     "position": "ALA"
   },
   {
-    "id": "p_yongin_07",
+    "id": "p_yongin_7",
     "name": "김희수",
     "teamId": "t_yongin",
     "number": 7,
     "position": "ALA"
   },
   {
-    "id": "p_yongin_08",
+    "id": "p_yongin_8",
     "name": "홍진호",
     "teamId": "t_yongin",
     "number": 8,
@@ -798,35 +798,35 @@
     "position": "ALA"
   },
   {
-    "id": "p_gunsan_01",
+    "id": "p_gunsan_1",
     "name": "이태흥",
     "teamId": "t_gunsan",
     "number": 1,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_gunsan_03",
+    "id": "p_gunsan_3",
     "name": "류기원",
     "teamId": "t_gunsan",
     "number": 3,
     "position": "ALA"
   },
   {
-    "id": "p_gunsan_04",
+    "id": "p_gunsan_4",
     "name": "김윤태",
     "teamId": "t_gunsan",
     "number": 4,
     "position": "FIXO"
   },
   {
-    "id": "p_gunsan_07",
+    "id": "p_gunsan_7",
     "name": "이승진",
     "teamId": "t_gunsan",
     "number": 7,
     "position": "ALA"
   },
   {
-    "id": "p_gunsan_09",
+    "id": "p_gunsan_9",
     "name": "신명관",
     "teamId": "t_gunsan",
     "number": 9,
@@ -931,28 +931,28 @@
     "position": "ALA"
   },
   {
-    "id": "p_cheongju_02",
+    "id": "p_cheongju_2",
     "name": "이광현",
     "teamId": "t_cheongju",
     "number": 2,
     "position": "GOLEIRO"
   },
   {
-    "id": "p_cheongju_03",
+    "id": "p_cheongju_3",
     "name": "윤민우",
     "teamId": "t_cheongju",
     "number": 3,
     "position": "FIXO"
   },
   {
-    "id": "p_cheongju_07",
+    "id": "p_cheongju_7",
     "name": "이재현",
     "teamId": "t_cheongju",
     "number": 7,
     "position": "ALA"
   },
   {
-    "id": "p_cheongju_09",
+    "id": "p_cheongju_9",
     "name": "유병석",
     "teamId": "t_cheongju",
     "number": 9,
@@ -1085,14 +1085,14 @@
     "position": "ALA"
   },
   {
-    "id": "p_jecheon_04",
+    "id": "p_jecheon_4",
     "name": "노승주",
     "teamId": "t_jecheon",
     "number": 4,
     "position": "PIVO"
   },
   {
-    "id": "p_jecheon_05",
+    "id": "p_jecheon_5",
     "name": "함지훈",
     "teamId": "t_jecheon",
     "number": 5,
