@@ -16,10 +16,13 @@ const GOAL_COL_START = 7;
 /**
  * matches.json에서 크롤 대상 목록 생성
  * @param {string} [division] - fk1, fk2, wk 중 하나. 생략 시 전체
+ * @param {object} [opts] - matchIds, dateSet
  */
-function buildCrawlList(division) {
+function buildCrawlList(division, opts = {}) {
+  const { matchIds, dateSet } = opts;
   const divisions = division ? [division] : ["fk1", "fk2", "wk"];
   const games = [];
+  const matchIdSet = matchIds?.length ? new Set(matchIds) : null;
 
   for (const div of divisions) {
     const config = LEAGUE_CONFIG[div];
@@ -34,10 +37,19 @@ function buildCrawlList(division) {
     }
 
     for (const m of matches) {
-      // 스코어는 있는데 골정보 없는 경기만
-      const hasScore = (m.score?.home ?? 0) + (m.score?.away ?? 0) > 0;
-      const hasGoals = m.goals && m.goals.length > 0;
-      if (!hasScore || hasGoals) continue;
+      const byMatchId = matchIdSet?.has(m.id);
+      const byDate = dateSet?.has(m.date);
+      const hasExplicit = matchIdSet || dateSet;
+      if (hasExplicit) {
+        if (!byMatchId && !byDate) continue;
+      } else {
+        // 지정 없으면: 날짜 지났는데 스코어/골 둘 다 없는 경기만
+        const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+        const datePassed = m.date && m.date <= today;
+        const hasScore = (m.score?.home ?? 0) + (m.score?.away ?? 0) > 0;
+        const hasGoals = m.goals && m.goals.length > 0;
+        if (!datePassed || hasScore || hasGoals) continue;
+      }
 
       const club1 = TEAM_CLUB_IDS[m.homeTeamId];
       const club2 = TEAM_CLUB_IDS[m.awayTeamId];
@@ -124,8 +136,46 @@ function delay(ms) {
 }
 
 async function main() {
-  const division = process.argv[2]; // node test-crawl.js [fk1|fk2|wk]
-  const games = buildCrawlList(division);
+  const args = process.argv.slice(2);
+  const dateIdx = args.indexOf("--date");
+  const dateArg = dateIdx >= 0 ? args[dateIdx + 1] : null;
+  const idsIdx = args.indexOf("--ids");
+  const idsArg = idsIdx >= 0 ? args[idsIdx + 1] : null;
+  const dateSet = dateArg
+    ? new Set(dateArg.split(",").map((d) => d.trim()))
+    : null;
+  // --ids "[m_fk2_33,m_fk2_34,m_fk2_35]" 또는 [m_w_14,m_w_15] 형식
+  let matchIds = [];
+  if (idsArg && idsArg.startsWith("[") && idsArg.endsWith("]")) {
+    try {
+      const parsed = JSON.parse(idsArg);
+      matchIds = Array.isArray(parsed) ? parsed.filter((id) => typeof id === "string") : [];
+    } catch {
+      // 따옴표 없이 [m_28,m_29] 형식이면 쉼표로 분리
+      const inner = idsArg.slice(1, -1).trim();
+      matchIds = inner ? inner.split(",").map((s) => s.trim()).filter((s) => s.startsWith("m_")) : [];
+    }
+  }
+  const filtered = args.filter(
+    (a) =>
+      a !== "--date" &&
+      a !== dateArg &&
+      a !== "--ids" &&
+      a !== idsArg &&
+      !a.startsWith("--")
+  );
+  const division = filtered[0]?.match(/^fk[12]|wk$/) ? filtered[0] : null;
+  if (!matchIds.length) {
+    matchIds = filtered.filter((a) => a.startsWith("m_"));
+  }
+  const opts = {
+    ...(matchIds.length && { matchIds }),
+    ...(dateSet?.size && { dateSet })
+  };
+  const games = buildCrawlList(
+    division || null,
+    Object.keys(opts).length ? opts : undefined
+  );
 
   console.log(`크롤 대상: ${games.length}경기 (${division || "전체"})\n`);
 
