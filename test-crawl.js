@@ -72,14 +72,25 @@ function buildCrawlList(division, opts = {}) {
 }
 
 function parseMinute(val) {
-  const n = parseInt(val, 10);
+  const raw = String(val).replace(/\(og.*/i, "").replace(/\).*/i, "").trim();
+  const n = parseInt(raw, 10);
   if (isNaN(n)) return null;
   if (n <= 20) return { half: 1, minute: n };
   if (n <= 40) return { half: 2, minute: n - 20 };
   return { half: 2, minute: 20 };
 }
 
-function extractGoals($, table, teamId) {
+function isOwnGoalText(val) {
+  return /\(og/i.test(String(val));
+}
+
+/**
+ * @param {object} $ - cheerio instance
+ * @param {object} table - cheerio table element
+ * @param {string} teamId - 팀 id (해당 테이블 소속)
+ * @param {string} [opponentTeamId] - 상대팀 id (자책골 시 득점 팀)
+ */
+function extractGoals($, table, teamId, opponentTeamId) {
   const prefix = "p_" + teamId.replace("t_", "") + "_";
   const goals = [];
   table.find("tr").each((_, row) => {
@@ -94,15 +105,16 @@ function extractGoals($, table, teamId) {
       const val = $(cells[i]).text().trim();
       if (!val) continue;
       const parsed = parseMinute(val);
-      if (parsed) {
-        goals.push({
-          playerId: prefix + number,
-          teamId,
-          half: parsed.half,
-          minute: parsed.minute,
-          isOwnGoal: false
-        });
-      }
+      if (!parsed) continue;
+
+      const ownGoal = isOwnGoalText(val) && opponentTeamId;
+      goals.push({
+        playerId: prefix + number,
+        teamId: ownGoal ? opponentTeamId : teamId,
+        half: parsed.half,
+        minute: parsed.minute,
+        isOwnGoal: !!ownGoal
+      });
     }
   });
   return goals;
@@ -125,8 +137,8 @@ async function crawlGameRecord(url, homeTeamId, awayTeamId) {
 
   const homeTable = $("table[width='499']").eq(0);
   const awayTable = $("table[width='499']").eq(1);
-  const homeGoals = extractGoals($, homeTable, homeTeamId);
-  const awayGoals = extractGoals($, awayTable, awayTeamId);
+  const homeGoals = extractGoals($, homeTable, homeTeamId, awayTeamId);
+  const awayGoals = extractGoals($, awayTable, awayTeamId, homeTeamId);
 
   return { score, goals: [...homeGoals, ...awayGoals] };
 }
