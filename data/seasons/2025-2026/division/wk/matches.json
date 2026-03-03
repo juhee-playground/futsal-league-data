@@ -349,13 +349,20 @@
     "place": "용인실내체육관",
     "homeTeamId": "t_yongin_wfs",
     "awayTeamId": "t_apro",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
     "score": {
-      "home": 0,
+      "home": 6,
       "away": 0
-    }
+    },
+    "goals": [
+      {"playerId": "p_yongin_wfs_11", "teamId": "t_yongin_wfs", "half": 1, "minute": 1, "isOwnGoal": false},
+      {"playerId": "p_yongin_wfs_11", "teamId": "t_yongin_wfs", "half": 1, "minute": 7, "isOwnGoal": false},
+      {"playerId": "p_yongin_wfs_10", "teamId": "t_yongin_wfs", "half": 1, "minute": 10, "isOwnGoal": false},
+      {"playerId": "p_yongin_wfs_12", "teamId": "t_yongin_wfs", "half": 1, "minute": 5, "isOwnGoal": false},
+      {"playerId": "p_yongin_wfs_12", "teamId": "t_yongin_wfs", "half": 2, "minute": 3, "isOwnGoal": false},
+      {"playerId": "p_yongin_wfs_14", "teamId": "t_yongin_wfs", "half": 1, "minute": 13, "isOwnGoal": false}
+    ]
   },
   {
     "id": "m_w_16",
