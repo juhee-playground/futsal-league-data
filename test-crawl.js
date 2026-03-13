@@ -43,12 +43,10 @@ function buildCrawlList(division, opts = {}) {
       if (hasExplicit) {
         if (!byMatchId && !byDate) continue;
       } else {
-        // 지정 없으면: 날짜 지났는데 스코어/골 둘 다 없는 경기만
+        // 지정 없으면: 날짜 지났는데 SCHEDULED인 경기만
         const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
         const datePassed = m.date && m.date <= today;
-        const hasScore = (m.score?.home ?? 0) + (m.score?.away ?? 0) > 0;
-        const hasGoals = m.goals && m.goals.length > 0;
-        if (!datePassed || hasScore || hasGoals) continue;
+        if (!datePassed || m.status !== "SCHEDULED") continue;
       }
 
       const club1 = TEAM_CLUB_IDS[m.homeTeamId];
