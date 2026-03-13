@@ -1,6 +1,6 @@
 import axios from "axios";
 import { load } from "cheerio";
-import { readFileSync } from "fs";
+import { readFileSync, writeFileSync } from "fs";
 import { join } from "path";
 import {
   LEAGUE_CONFIG,
@@ -168,12 +168,14 @@ async function main() {
       matchIds = inner ? inner.split(",").map((s) => s.trim()).filter((s) => s.startsWith("m_")) : [];
     }
   }
+  const writeBack = args.includes("--write");
   const filtered = args.filter(
     (a) =>
       a !== "--date" &&
       a !== dateArg &&
       a !== "--ids" &&
       a !== idsArg &&
+      a !== "--write" &&
       !a.startsWith("--")
   );
   const division = filtered[0]?.match(/^fk[12]|wk$/) ? filtered[0] : null;
@@ -189,8 +191,9 @@ async function main() {
     Object.keys(opts).length ? opts : undefined
   );
 
-  console.log(`크롤 대상: ${games.length}경기 (${division || "전체"})\n`);
+  console.log(`크롤 대상: ${games.length}경기 (${division || "전체"})${writeBack ? " [--write: matches.json 반영]" : ""}\n`);
 
+  const updatesByDiv = {};
   for (const game of games) {
     console.log(
       `--- ${game.matchId} (${game.homeTeamId} vs ${game.awayTeamId}) ---`
@@ -204,10 +207,37 @@ async function main() {
       console.log(
         JSON.stringify({ ...result, matchId: game.matchId }, null, 2)
       );
+      if (writeBack) {
+        const div = game.division;
+        if (!updatesByDiv[div]) updatesByDiv[div] = [];
+        updatesByDiv[div].push({
+          matchId: game.matchId,
+          score: result.score,
+          goals: result.goals
+        });
+      }
     } catch (err) {
       console.error(`실패: ${err.message}`);
     }
     await delay(500);
+  }
+
+  if (writeBack && Object.keys(updatesByDiv).length > 0) {
+    for (const [div, updates] of Object.entries(updatesByDiv)) {
+      const matchesPath = join(DATA_DIR, div, "matches.json");
+      const matches = JSON.parse(readFileSync(matchesPath, "utf-8"));
+      const idToUpdate = new Map(updates.map((u) => [u.matchId, u]));
+      for (const m of matches) {
+        const u = idToUpdate.get(m.id);
+        if (u) {
+          m.score = u.score;
+          m.goals = u.goals;
+          m.status = "FINISHED";
+        }
+      }
+      writeFileSync(matchesPath, JSON.stringify(matches, null, 2), "utf-8");
+      console.log(`\n✓ ${div}/matches.json 반영 (${updates.length}경기)`);
+    }
   }
 }
 

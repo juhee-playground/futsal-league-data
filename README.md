@@ -10,6 +10,7 @@
 node test-crawl.js fk2                    # 날짜 지났는데 미입력인 경기만
 node test-crawl.js wk --date 2026-02-22   # 특정 날짜 경기
 node test-crawl.js fk1 --ids "[m_28,m_29,m_30]"   # 번호(배열)로 지정
+node test-crawl.js fk1 --ids "[m_34,m_36]" --write   # 크롤 후 matches.json에 반영
 ```
 
 **설정 파일** `crawl-config.js`:
