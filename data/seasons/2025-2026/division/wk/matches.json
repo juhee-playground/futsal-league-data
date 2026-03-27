@@ -1157,11 +1157,68 @@
     "place": "용인실내체육관",
     "homeTeamId": "t_yongin_wfs",
     "awayTeamId": "t_hwaseong_wfs",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_yongin_wfs_11",
+        "teamId": "t_yongin_wfs",
+        "half": 1,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_18",
+        "teamId": "t_yongin_wfs",
+        "half": 1,
+        "minute": 18,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_18",
+        "teamId": "t_yongin_wfs",
+        "half": 2,
+        "minute": 3,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_18",
+        "teamId": "t_yongin_wfs",
+        "half": 2,
+        "minute": 18,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_12",
+        "teamId": "t_yongin_wfs",
+        "half": 2,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_14",
+        "teamId": "t_yongin_wfs",
+        "half": 1,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_15",
+        "teamId": "t_yongin_wfs",
+        "half": 2,
+        "minute": 10,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_47",
+        "teamId": "t_yongin_wfs",
+        "half": 2,
+        "minute": 3,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
+      "home": 8,
       "away": 0
     }
   },
@@ -1173,12 +1230,69 @@
     "place": "구미스포츠파크",
     "homeTeamId": "t_apro",
     "awayTeamId": "t_namdong_wfs",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_apro_9",
+        "teamId": "t_apro",
+        "half": 1,
+        "minute": 7,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_apro_9",
+        "teamId": "t_apro",
+        "half": 2,
+        "minute": 7,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_apro_15",
+        "teamId": "t_apro",
+        "half": 2,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_apro_15",
+        "teamId": "t_apro",
+        "half": 2,
+        "minute": 17,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_apro_17",
+        "teamId": "t_apro",
+        "half": 2,
+        "minute": 17,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_apro_7",
+        "teamId": "t_apro",
+        "half": 1,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_namdong_wfs_37",
+        "teamId": "t_namdong_wfs",
+        "half": 1,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_namdong_wfs_12",
+        "teamId": "t_namdong_wfs",
+        "half": 1,
+        "minute": 10,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 6,
+      "away": 2
     }
   },
   {
@@ -1189,12 +1303,55 @@
     "place": "고양어울림누리체육관",
     "homeTeamId": "t_goyang_wfs",
     "awayTeamId": "t_yongin_wfs",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_goyang_wfs_9",
+        "teamId": "t_goyang_wfs",
+        "half": 2,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_11",
+        "teamId": "t_yongin_wfs",
+        "half": 2,
+        "minute": 1,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_13",
+        "teamId": "t_yongin_wfs",
+        "half": 1,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_18",
+        "teamId": "t_yongin_wfs",
+        "half": 1,
+        "minute": 11,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_18",
+        "teamId": "t_yongin_wfs",
+        "half": 1,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_wfs_12",
+        "teamId": "t_yongin_wfs",
+        "half": 2,
+        "minute": 18,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 5
     }
   }
 ]

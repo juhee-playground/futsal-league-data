@@ -2158,12 +2158,97 @@
     "place": "제천실내체육관",
     "homeTeamId": "t_jecheon",
     "awayTeamId": "t_hwaseong",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_jecheon_10",
+        "teamId": "t_jecheon",
+        "half": 1,
+        "minute": 20,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jecheon_10",
+        "teamId": "t_jecheon",
+        "half": 2,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jecheon_10",
+        "teamId": "t_jecheon",
+        "half": 2,
+        "minute": 12,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jecheon_29",
+        "teamId": "t_jecheon",
+        "half": 2,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_7",
+        "teamId": "t_hwaseong",
+        "half": 1,
+        "minute": 12,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_7",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 12,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_20",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_27",
+        "teamId": "t_hwaseong",
+        "half": 1,
+        "minute": 10,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_8",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_9",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 11,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_13",
+        "teamId": "t_hwaseong",
+        "half": 1,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_14",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 15,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 9
     }
   },
   {
@@ -2174,11 +2259,96 @@
     "place": "영남이공대 천마체육관",
     "homeTeamId": "t_daegu",
     "awayTeamId": "t_cheongju",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_daegu_10",
+        "teamId": "t_daegu",
+        "half": 2,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_17",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 1,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_17",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_17",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 7,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_17",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 11,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_17",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 12,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_17",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_17",
+        "teamId": "t_daegu",
+        "half": 2,
+        "minute": 19,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_18",
+        "teamId": "t_daegu",
+        "half": 2,
+        "minute": 15,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_9",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 8,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_20",
+        "teamId": "t_daegu",
+        "half": 1,
+        "minute": 14,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_22",
+        "teamId": "t_daegu",
+        "half": 2,
+        "minute": 17,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
+      "home": 13,
       "away": 0
     }
   },
@@ -2190,11 +2360,82 @@
     "place": "용인실내체육관",
     "homeTeamId": "t_yongin",
     "awayTeamId": "t_gunsan",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_yongin_10",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 7,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_10",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_10",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_14",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 18,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_18",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 1,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_22",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 14,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_22",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 15,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_7",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_7",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 12,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_38",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 20,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
+      "home": 10,
       "away": 0
     }
   },
@@ -2206,12 +2447,97 @@
     "place": "구미스포츠파크",
     "homeTeamId": "t_gumi",
     "awayTeamId": "t_namdong",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_gumi_9",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_9",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 14,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_11",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 7,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_11",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 12,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_12",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 13,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_14",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_20",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 13,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_20",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 20,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_20",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 12,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_namdong_9",
+        "teamId": "t_namdong",
+        "half": 2,
+        "minute": 15,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_namdong_3",
+        "teamId": "t_namdong",
+        "half": 2,
+        "minute": 11,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_namdong_91",
+        "teamId": "t_namdong",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 9,
+      "away": 3
     }
   },
   {
@@ -2222,12 +2548,69 @@
     "place": "군산대학교",
     "homeTeamId": "t_gunsan",
     "awayTeamId": "t_gumi",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_gunsan_10",
+        "teamId": "t_gunsan",
+        "half": 2,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_9",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 2,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_9",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 3,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_10",
+        "teamId": "t_gumi",
+        "half": 1,
+        "minute": 19,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_10",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 19,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_11",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_16",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 17,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gumi_77",
+        "teamId": "t_gumi",
+        "half": 2,
+        "minute": 12,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 7
     }
   },
   {
@@ -2238,12 +2621,62 @@
     "place": "용인실내체육관",
     "homeTeamId": "t_yongin",
     "awayTeamId": "t_daegu",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_yongin_10",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 17,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_13",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 3,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_8",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_yongin_20",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 3,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_18",
+        "teamId": "t_daegu",
+        "half": 2,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_18",
+        "teamId": "t_daegu",
+        "half": 2,
+        "minute": 19,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_daegu_11",
+        "teamId": "t_daegu",
+        "half": 2,
+        "minute": 20,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 3
     }
   },
   {
@@ -2254,12 +2687,55 @@
     "place": "인천동남스포피아체육관",
     "homeTeamId": "t_namdong",
     "awayTeamId": "t_jecheon",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_namdong_4",
+        "teamId": "t_namdong",
+        "half": 2,
+        "minute": 20,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_namdong_33",
+        "teamId": "t_namdong",
+        "half": 1,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jecheon_4",
+        "teamId": "t_jecheon",
+        "half": 1,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jecheon_4",
+        "teamId": "t_jecheon",
+        "half": 2,
+        "minute": 2,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jecheon_14",
+        "teamId": "t_jecheon",
+        "half": 1,
+        "minute": 15,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jecheon_42",
+        "teamId": "t_jecheon",
+        "half": 2,
+        "minute": 7,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 4
     }
   },
   {
@@ -2270,12 +2746,48 @@
     "place": "청주공업고등학교",
     "homeTeamId": "t_cheongju",
     "awayTeamId": "t_hwaseong",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_cheongju_55",
+        "teamId": "t_cheongju",
+        "half": 2,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_8",
+        "teamId": "t_hwaseong",
+        "half": 1,
+        "minute": 18,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_9",
+        "teamId": "t_hwaseong",
+        "half": 1,
+        "minute": 18,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_13",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 19,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_hwaseong_66",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 16,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 4
     }
   }
 ]
