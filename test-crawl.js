@@ -82,13 +82,33 @@ function isOwnGoalText(val) {
   return /\(og/i.test(String(val));
 }
 
+const playerUuidMapCache = new Map();
+
+function loadPlayerUuidMap(division) {
+  if (playerUuidMapCache.has(division)) {
+    return playerUuidMapCache.get(division);
+  }
+  const playersPath = join(DATA_DIR, division, "players.json");
+  const playerUuidMap = new Map();
+  try {
+    const players = JSON.parse(readFileSync(playersPath, "utf-8"));
+    for (const p of players) {
+      if (p.id && p.uuid) playerUuidMap.set(p.id, p.uuid);
+    }
+  } catch {
+    // players.json이 없거나 파싱 실패하면 빈 맵 반환
+  }
+  playerUuidMapCache.set(division, playerUuidMap);
+  return playerUuidMap;
+}
+
 /**
  * @param {object} $ - cheerio instance
  * @param {object} table - cheerio table element
  * @param {string} teamId - 팀 id (해당 테이블 소속)
  * @param {string} [opponentTeamId] - 상대팀 id (자책골 시 득점 팀)
  */
-function extractGoals($, table, teamId, opponentTeamId) {
+function extractGoals($, table, teamId, opponentTeamId, playerUuidMap) {
   const prefix = "p_" + teamId.replace("t_", "") + "_";
   const goals = [];
   table.find("tr").each((_, row) => {
@@ -106,8 +126,10 @@ function extractGoals($, table, teamId, opponentTeamId) {
       if (!parsed) continue;
 
       const ownGoal = isOwnGoalText(val) && opponentTeamId;
+      const playerId = prefix + number;
       goals.push({
-        playerId: prefix + number,
+        playerId,
+        playerUuid: playerUuidMap.get(playerId) || null,
         teamId: ownGoal ? opponentTeamId : teamId,
         half: parsed.half,
         minute: parsed.minute,
@@ -118,7 +140,7 @@ function extractGoals($, table, teamId, opponentTeamId) {
   return goals;
 }
 
-async function crawlGameRecord(url, homeTeamId, awayTeamId) {
+async function crawlGameRecord(url, homeTeamId, awayTeamId, playerUuidMap) {
   const { data } = await axios.get(url, {
     headers: {
       "User-Agent":
@@ -135,8 +157,20 @@ async function crawlGameRecord(url, homeTeamId, awayTeamId) {
 
   const homeTable = $("table[width='499']").eq(0);
   const awayTable = $("table[width='499']").eq(1);
-  const homeGoals = extractGoals($, homeTable, homeTeamId, awayTeamId);
-  const awayGoals = extractGoals($, awayTable, awayTeamId, homeTeamId);
+  const homeGoals = extractGoals(
+    $,
+    homeTable,
+    homeTeamId,
+    awayTeamId,
+    playerUuidMap
+  );
+  const awayGoals = extractGoals(
+    $,
+    awayTable,
+    awayTeamId,
+    homeTeamId,
+    playerUuidMap
+  );
 
   return { score, goals: [...homeGoals, ...awayGoals] };
 }
@@ -197,10 +231,12 @@ async function main() {
       `--- ${game.matchId} (${game.homeTeamId} vs ${game.awayTeamId}) ---`
     );
     try {
+      const playerUuidMap = loadPlayerUuidMap(game.division);
       const result = await crawlGameRecord(
         game.url,
         game.homeTeamId,
-        game.awayTeamId
+        game.awayTeamId,
+        playerUuidMap
       );
       console.log(
         JSON.stringify({ ...result, matchId: game.matchId }, null, 2)
