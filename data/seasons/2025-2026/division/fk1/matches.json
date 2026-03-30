@@ -7,12 +7,85 @@
     "place": "춘천호반체육관",
     "homeTeamId": "t_gangwon",
     "awayTeamId": "t_goyang",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_gangwon_10",
+        "playerUuid": "pl_0086",
+        "teamId": "t_gangwon",
+        "half": 2,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gangwon_9",
+        "playerUuid": "pl_0102",
+        "teamId": "t_gangwon",
+        "half": 2,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_gangwon_20",
+        "playerUuid": "pl_0093",
+        "teamId": "t_gangwon",
+        "half": 1,
+        "minute": 4,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_goyang_7",
+        "playerUuid": "pl_0124",
+        "teamId": "t_goyang",
+        "half": 1,
+        "minute": 5,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_goyang_7",
+        "playerUuid": "pl_0124",
+        "teamId": "t_goyang",
+        "half": 1,
+        "minute": 7,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_goyang_27",
+        "playerUuid": "pl_0116",
+        "teamId": "t_goyang",
+        "half": 1,
+        "minute": 18,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_goyang_11",
+        "playerUuid": "pl_0105",
+        "teamId": "t_goyang",
+        "half": 1,
+        "minute": 14,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_goyang_12",
+        "playerUuid": "pl_0106",
+        "teamId": "t_goyang",
+        "half": 2,
+        "minute": 14,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_goyang_17",
+        "playerUuid": "pl_0109",
+        "teamId": "t_goyang",
+        "half": 1,
+        "minute": 16,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 6
     }
   },
   {
@@ -23,12 +96,109 @@
     "place": "서울은평 다목적체육관",
     "homeTeamId": "t_eunpyeong",
     "awayTeamId": "t_jeonju",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_eunpyeong_37",
+        "playerUuid": "pl_0076",
+        "teamId": "t_eunpyeong",
+        "half": 1,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_eunpyeong_37",
+        "playerUuid": "pl_0076",
+        "teamId": "t_eunpyeong",
+        "half": 2,
+        "minute": 7,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_eunpyeong_37",
+        "playerUuid": "pl_0076",
+        "teamId": "t_eunpyeong",
+        "half": 2,
+        "minute": 15,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_eunpyeong_77",
+        "playerUuid": "pl_0081",
+        "teamId": "t_eunpyeong",
+        "half": 1,
+        "minute": 15,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_eunpyeong_77",
+        "playerUuid": "pl_0081",
+        "teamId": "t_eunpyeong",
+        "half": 2,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_eunpyeong_77",
+        "playerUuid": "pl_0081",
+        "teamId": "t_eunpyeong",
+        "half": 2,
+        "minute": 20,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_eunpyeong_3",
+        "playerUuid": "pl_0074",
+        "teamId": "t_eunpyeong",
+        "half": 1,
+        "minute": 13,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_5",
+        "playerUuid": "pl_0288",
+        "teamId": "t_jeonju",
+        "half": 1,
+        "minute": 1,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_5",
+        "playerUuid": "pl_0288",
+        "teamId": "t_jeonju",
+        "half": 2,
+        "minute": 14,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_5",
+        "playerUuid": "pl_0288",
+        "teamId": "t_jeonju",
+        "half": 2,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_11",
+        "playerUuid": "pl_0276",
+        "teamId": "t_jeonju",
+        "half": 1,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_jeonju_88",
+        "playerUuid": "pl_0292",
+        "teamId": "t_jeonju",
+        "half": 1,
+        "minute": 18,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 7,
+      "away": 5
     }
   },
   {
@@ -39,12 +209,29 @@
     "place": "경기LBFS트레이닝센터",
     "homeTeamId": "t_gyeonggi",
     "awayTeamId": "t_nowon",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "playerId": "p_gyeonggi_15",
+        "playerUuid": "pl_0205",
+        "teamId": "t_gyeonggi",
+        "half": 2,
+        "minute": 16,
+        "isOwnGoal": false
+      },
+      {
+        "playerId": "p_nowon_30",
+        "playerUuid": "pl_0353",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 17,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     }
   },
   {
