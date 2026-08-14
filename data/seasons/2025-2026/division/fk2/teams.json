@@ -12,8 +12,8 @@
   {
     "id": "t_daegu",
     "name": "대구FS",
-    "color": "##009fff",
-    "darkColor": "##009fff",
+    "color": "#009fff",
+    "darkColor": "#009fff",
     "logo": "team_daegu.jpg",
     "address": "대구 남구 현충로 170",
     "location": "영남아공대학교 천마체육관",
@@ -42,8 +42,8 @@
   {
     "id": "t_namdong",
     "name": "인천남동풋살클럽",
-    "color": "##007cfc",
-    "darkColor": "##007cfc",
+    "color": "#007cfc",
+    "darkColor": "#007cfc",
     "logo": "team_namdong.jpg",
     "address": "인천 연수구 새말로 27 동남스포피아 3층",
     "location": "동남스포피아체육관",

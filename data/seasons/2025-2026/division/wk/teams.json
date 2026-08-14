@@ -11,8 +11,8 @@
   {
     "id": "t_yongin_wfs",
     "name": "용인 ZD스포츠 위민",
-    "color": "##009fff",
-    "darkColor": "##009fff",
+    "color": "#009fff",
+    "darkColor": "#009fff",
     "logo": "team_yongin_wfs.jpg",
     "address": "경기도 용인시 처인구 경안천로 76",
     "location": "용인실내체육관"
@@ -38,8 +38,8 @@
   {
     "id": "t_namdong_wfs",
     "name": "인천남동풋살클럽위민",
-    "color": "##007cfc",
-    "darkColor": "##007cfc",
+    "color": "#007cfc",
+    "darkColor": "#007cfc",
     "logo": "team_namdong_women.jpg",
     "address": "경기 화성시 봉담읍 삼천병마로 1182",
     "location": "장안대학교체육관"
