@@ -1,0 +1,135 @@
+[
+  {
+    "id": "ts_2025-2026_gyeonggi",
+    "teamId": "t_gyeonggi",
+    "seasonId": "2025-2026",
+    "divisionId": "fk1",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_nowon",
+    "teamId": "t_nowon",
+    "seasonId": "2025-2026",
+    "divisionId": "fk1",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_eunpyeong",
+    "teamId": "t_eunpyeong",
+    "seasonId": "2025-2026",
+    "divisionId": "fk1",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_gangwon",
+    "teamId": "t_gangwon",
+    "seasonId": "2025-2026",
+    "divisionId": "fk1",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_jeonju",
+    "teamId": "t_jeonju",
+    "seasonId": "2025-2026",
+    "divisionId": "fk1",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_goyang",
+    "teamId": "t_goyang",
+    "seasonId": "2025-2026",
+    "divisionId": "fk1",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_gumi",
+    "teamId": "t_gumi",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_daegu",
+    "teamId": "t_daegu",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_gunsan",
+    "teamId": "t_gunsan",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_yongin",
+    "teamId": "t_yongin",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_namdong",
+    "teamId": "t_namdong",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_jecheon",
+    "teamId": "t_jecheon",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_cheongju",
+    "teamId": "t_cheongju",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_hwaseong",
+    "teamId": "t_hwaseong",
+    "seasonId": "2025-2026",
+    "divisionId": "fk2",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_apro",
+    "teamId": "t_apro",
+    "seasonId": "2025-2026",
+    "divisionId": "wk",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_yongin_wfs",
+    "teamId": "t_yongin_wfs",
+    "seasonId": "2025-2026",
+    "divisionId": "wk",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_hwaseong_wfs",
+    "teamId": "t_hwaseong_wfs",
+    "seasonId": "2025-2026",
+    "divisionId": "wk",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_goyang_wfs",
+    "teamId": "t_goyang_wfs",
+    "seasonId": "2025-2026",
+    "divisionId": "wk",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2025-2026_namdong_wfs",
+    "teamId": "t_namdong_wfs",
+    "seasonId": "2025-2026",
+    "divisionId": "wk",
+    "status": "ACTIVE"
+  }
+]

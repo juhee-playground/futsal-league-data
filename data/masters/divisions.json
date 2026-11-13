@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fk1",
+    "name": "FK 1부 리그",
+    "leagueId": "division-1"
+  },
+  {
+    "id": "fk2",
+    "name": "FK 2부 리그",
+    "leagueId": "division-2"
+  },
+  {
+    "id": "wk",
+    "name": "FWK 1부 리그",
+    "leagueId": "division-1"
+  }
+]
