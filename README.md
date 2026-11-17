@@ -10,7 +10,8 @@ FK1 / FK2 / WK 리그 경기·선수·팀 데이터입니다.
 |------|------|
 | [DATA_STRUCTURE.md](./DATA_STRUCTURE.md) | 현재 구조·이적/승강 |
 | [ADMIN_DATA_FORMAT.md](./ADMIN_DATA_FORMAT.md) | 필드 스키마 |
-| [MIGRATION_PLAN.md](./MIGRATION_PLAN.md) | 마이그레이션 계획·결과 |
+| [MIGRATION_RESULT.md](./MIGRATION_RESULT.md) | 마이그레이션·26-27 초안 결과 |
+| [MIGRATION_PLAN.md](./MIGRATION_PLAN.md) | 조사 당시 계획 (일부 스냅샷은 과거형) |
 | [TODO.md](./TODO.md) | 남은 작업 |
 
 ## 구조

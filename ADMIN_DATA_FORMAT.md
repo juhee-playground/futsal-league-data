@@ -46,6 +46,7 @@ data/
 
 - `divisionId` 없음
 - `name`: 현재 구단명. 과거 시즌명은 `team_seasons.name`
+- public 파서 필수: `location`, `address`, `logo`, `color`, `darkColor` (빈 문자열 `""` 허용)
 
 ### `masters/players.json`
 

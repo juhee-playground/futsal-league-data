@@ -1,8 +1,11 @@
 # 마이그레이션 계획 (조사 보고)
 
 > 상태: **적용 완료** (data + public)  
+> **최신 결과 요약:** [MIGRATION_RESULT.md](./MIGRATION_RESULT.md) · 현재 구조: [DATA_STRUCTURE.md](./DATA_STRUCTURE.md)  
 > 백업: `backups/20261117-185823/`  
-> 검증: errors 0 / matches 121 / goals 731 유지 / score mismatch 경고 34건  
+>  
+> ⚠️ 아래 §1~§3 본문은 **마이그레이션 직전 조사 스냅샷**이다.  
+> (`uuid`, `league.json`, 2026 스텁만 존재 등 — 현재 저장소와 다를 수 있음)  
 > Admin(`futsal-league-admin`)은 이번 범위 제외 (단, 영향은 하단에 기록)
 
 ---

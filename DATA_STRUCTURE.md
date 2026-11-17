@@ -37,7 +37,9 @@ data/
     2026-2027/
       season.json
       team_seasons.json
-      # registrations / matches 는 데이터 생길 때 추가
+      player_registrations.json   # 1R 기록지 기반 초안 (미출전 팀 로스터 미완)
+      division/fk1/matches.json   # 45경기
+      division/fk2/matches.json   # 42경기
 ```
 
 ---
