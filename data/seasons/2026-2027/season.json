@@ -1,0 +1,30 @@
+{
+  "id": "2026-2027",
+  "name": "2026-2027 시즌",
+  "divisions": [
+    {
+      "divisionId": "fk1",
+      "name": "2026-2027 FK 1부 리그",
+      "startDate": "2026-11-15",
+      "endDate": "2027-03-28",
+      "pointRule": {
+        "win": 3,
+        "draw": 1,
+        "loss": 0
+      },
+      "rounds": 15
+    },
+    {
+      "divisionId": "fk2",
+      "name": "2026-2027 FK 2부 리그",
+      "startDate": "2026-11-15",
+      "endDate": "2027-03-21",
+      "pointRule": {
+        "win": 3,
+        "draw": 1,
+        "loss": 0
+      },
+      "rounds": 14
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ts_2026-2027_gangwon",
+    "teamId": "t_gangwon",
+    "seasonId": "2026-2027",
+    "divisionId": "fk1",
+    "name": "강원FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_goyang",
+    "teamId": "t_goyang",
+    "seasonId": "2026-2027",
+    "divisionId": "fk1",
+    "name": "고양불스풋살클럽",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_nowon",
+    "teamId": "t_nowon",
+    "seasonId": "2026-2027",
+    "divisionId": "fk1",
+    "name": "노원제너 FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_eunpyeong",
+    "teamId": "t_eunpyeong",
+    "seasonId": "2026-2027",
+    "divisionId": "fk1",
+    "name": "서울은평덴포스",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_yongin",
+    "teamId": "t_yongin",
+    "seasonId": "2026-2027",
+    "divisionId": "fk1",
+    "name": "용인지솔FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_hwaseong",
+    "teamId": "t_hwaseong",
+    "seasonId": "2026-2027",
+    "divisionId": "fk1",
+    "name": "화성FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_gumi",
+    "teamId": "t_gumi",
+    "seasonId": "2026-2027",
+    "divisionId": "fk2",
+    "name": "구미FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_daegu",
+    "teamId": "t_daegu",
+    "seasonId": "2026-2027",
+    "divisionId": "fk2",
+    "name": "대구FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_gunsan",
+    "teamId": "t_gunsan",
+    "seasonId": "2026-2027",
+    "divisionId": "fk2",
+    "name": "군산FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_jecheon",
+    "teamId": "t_jecheon",
+    "seasonId": "2026-2027",
+    "divisionId": "fk2",
+    "name": "제천풋살클럽",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_cheongju",
+    "teamId": "t_cheongju",
+    "seasonId": "2026-2027",
+    "divisionId": "fk2",
+    "name": "청주팔라시오FS",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_incheon_zd",
+    "teamId": "t_incheon_zd",
+    "seasonId": "2026-2027",
+    "divisionId": "fk2",
+    "name": "인천ZD스포츠",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ts_2026-2027_incheon",
+    "teamId": "t_incheon",
+    "seasonId": "2026-2027",
+    "divisionId": "fk2",
+    "name": "인천풋살클럽",
+    "status": "ACTIVE"
+  }
+]

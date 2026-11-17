@@ -1,0 +1,220 @@
+[
+  {
+    "id": "t_apro",
+    "name": "구미 APRO ZD스포츠",
+    "status": "ACTIVE",
+    "color": "#051d2b",
+    "darkColor": "#051d2b",
+    "logo": "team_apro.jpg",
+    "address": "경상북도 구미시 산호대로 218 예스구미 스포츠파크",
+    "location": "구미스포츠파크"
+  },
+  {
+    "id": "t_cheongju",
+    "name": "청주팔라시오FS",
+    "status": "ACTIVE",
+    "color": "#0a568f",
+    "darkColor": "#0a568f",
+    "logo": "team_cheongju.jpg",
+    "address": "충청북도 청주시 상당구 교서로 17 청주기계공업고등학교",
+    "location": "청주공업고등학교 체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/CHFS"
+  },
+  {
+    "id": "t_daegu",
+    "name": "대구FS",
+    "status": "ACTIVE",
+    "color": "#009fff",
+    "darkColor": "#009fff",
+    "logo": "team_daegu.jpg",
+    "address": "대구 남구 현충로 170",
+    "location": "영남아공대학교 천마체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/daeguFS"
+  },
+  {
+    "id": "t_eunpyeong",
+    "name": "서울은평덴포스",
+    "status": "ACTIVE",
+    "color": "#0281ba",
+    "darkColor": "#38bdf8",
+    "logo": "team_eunpyeong.jpg",
+    "address": "서울시 은평구 진관1로52 은평다목적체육관",
+    "location": "은평다목적체육관"
+  },
+  {
+    "id": "t_gangwon",
+    "name": "강원FS",
+    "status": "ACTIVE",
+    "color": "#de562a",
+    "darkColor": "#fb923c",
+    "logo": "team_gangwon.jpg",
+    "address": "강원특별자치도 춘천시 우석로 102 호반체육관",
+    "location": "춘천호반체육관"
+  },
+  {
+    "id": "t_goyang",
+    "name": "고양불스풋살클럽",
+    "status": "ACTIVE",
+    "color": "#e7b573",
+    "darkColor": "#fbbf24",
+    "logo": "team_goyang.jpg",
+    "address": "경기 고양시 덕양구 어울림로 33",
+    "location": "고양어울림실내체육관"
+  },
+  {
+    "id": "t_goyang_wfs",
+    "name": "고양불스위민FS",
+    "status": "ACTIVE",
+    "color": "#e7b573",
+    "darkColor": "#fbbf24",
+    "logo": "team_goyang_women.jpg",
+    "address": "경기 고양시 덕양구 어울림로 33",
+    "location": "고양어울림실내체육관"
+  },
+  {
+    "id": "t_gumi",
+    "name": "구미FS",
+    "status": "ACTIVE",
+    "color": "#fe6702",
+    "darkColor": "#fe6702",
+    "logo": "team_gumi.jpg",
+    "address": "경상북도 구미시 산호대로 218 예스구미풋볼클럽",
+    "location": "예스구미풋볼클럽",
+    "homepage": "https://www.futsal.or.kr/fk_club/yesgumi"
+  },
+  {
+    "id": "t_gunsan",
+    "name": "군산FS",
+    "status": "ACTIVE",
+    "color": "#07257f",
+    "darkColor": "#07257f",
+    "logo": "team_gunsan.jpg",
+    "address": "전북 군산시 대학로 558",
+    "location": "군산대학교 체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/gunsanfs"
+  },
+  {
+    "id": "t_gyeonggi",
+    "name": "경기LBFS",
+    "status": "INACTIVE",
+    "color": "#212644",
+    "darkColor": "#2e3d94",
+    "logo": "team_gyeonggi.jpg",
+    "address": "경기도 이천시 마장면 표교리 491-30 LBFS 트레이닝센터",
+    "location": "LBFS 트레이닝센터"
+  },
+  {
+    "id": "t_hwaseong",
+    "name": "화성FS",
+    "status": "ACTIVE",
+    "color": "#e9550A",
+    "darkColor": "#e9550A",
+    "logo": "team_hwaseong.jpg",
+    "address": "경기 화성시 봉담읍 삼천병마로 1182",
+    "location": "장안대학교체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/hwaseongFS"
+  },
+  {
+    "id": "t_hwaseong_wfs",
+    "name": "경기화성시화성WFS",
+    "status": "ACTIVE",
+    "color": "#e9550A",
+    "darkColor": "#e9550A",
+    "logo": "team_hwaseong_wfs.jpg",
+    "address": "경기 화성시 봉담읍 삼천병마로 1182",
+    "location": "장안대학교체육관"
+  },
+  {
+    "id": "t_incheon",
+    "name": "인천풋살클럽",
+    "status": "ACTIVE",
+    "color": "#0033a0",
+    "darkColor": "#4c8dff",
+    "logo": "",
+    "address": "",
+    "location": "인천동남스포피아"
+  },
+  {
+    "id": "t_incheon_zd",
+    "name": "인천ZD스포츠",
+    "status": "ACTIVE",
+    "color": "#111111",
+    "darkColor": "#333333",
+    "logo": "",
+    "address": "",
+    "location": "인천동남스포피아"
+  },
+  {
+    "id": "t_jecheon",
+    "name": "제천풋살클럽",
+    "status": "ACTIVE",
+    "color": "#d39e44",
+    "darkColor": "#d39e44",
+    "logo": "team_jecheon.jpg",
+    "address": "충북 제천시 세명로 23",
+    "location": "제천족구체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/jecheonFutsal"
+  },
+  {
+    "id": "t_jeonju",
+    "name": "전주시민풋살구단",
+    "status": "INACTIVE",
+    "color": "#034c2d",
+    "darkColor": "#10b981",
+    "logo": "team_jeonju.jpg",
+    "address": "전북 전주시 덕진구 권삼득로 308",
+    "location": "전주실내체육관"
+  },
+  {
+    "id": "t_namdong",
+    "name": "인천남동풋살클럽",
+    "status": "INACTIVE",
+    "color": "#007cfc",
+    "darkColor": "#007cfc",
+    "logo": "team_namdong.jpg",
+    "address": "인천 연수구 새말로 27 동남스포피아 3층",
+    "location": "동남스포피아체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/agonFutsal"
+  },
+  {
+    "id": "t_namdong_wfs",
+    "name": "인천남동풋살클럽위민",
+    "status": "ACTIVE",
+    "color": "#007cfc",
+    "darkColor": "#007cfc",
+    "logo": "team_namdong_women.jpg",
+    "address": "경기 화성시 봉담읍 삼천병마로 1182",
+    "location": "장안대학교체육관"
+  },
+  {
+    "id": "t_nowon",
+    "name": "노원제너 FS",
+    "status": "ACTIVE",
+    "color": "#051d2b",
+    "darkColor": "#9e8f0d",
+    "logo": "team_nowon.jpg",
+    "address": "서울시 노원구 월계로 298",
+    "location": "월계구민체육센터"
+  },
+  {
+    "id": "t_yongin",
+    "name": "용인지솔FS",
+    "status": "ACTIVE",
+    "color": "#deb786",
+    "darkColor": "#deb786",
+    "logo": "team_yongin.jpg",
+    "address": "경기도 용인시 처인구 경안천로 76",
+    "location": "용인실내체육관",
+    "homepage": "https://www.futsal.or.kr/fk_club/yongintmt"
+  },
+  {
+    "id": "t_yongin_wfs",
+    "name": "용인 ZD스포츠 위민",
+    "status": "ACTIVE",
+    "color": "#009fff",
+    "darkColor": "#009fff",
+    "logo": "team_yongin_wfs.jpg",
+    "address": "경기도 용인시 처인구 경안천로 76",
+    "location": "용인실내체육관"
+  }
+]

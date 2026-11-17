@@ -1,15 +1,45 @@
 # Futsal League Data
 
-2025-2026 시즌 FK1 / FK2 / WK 리그 경기·선수·팀 데이터입니다.
+FK1 / FK2 / WK 리그 경기·선수·팀 데이터입니다.
 
 순위표와 득점 순위는 `matches.json`의 `goals`를 기준으로 계산합니다.
 
-## 데이터 경로
+## 문서
 
-- FK1: `data/seasons/2025-2026/division/fk1/`
-- FK2: `data/seasons/2025-2026/division/fk2/`
-- WK: `data/seasons/2025-2026/division/wk/`
+| 문서 | 용도 |
+|------|------|
+| [DATA_STRUCTURE.md](./DATA_STRUCTURE.md) | 현재 구조·이적/승강 |
+| [ADMIN_DATA_FORMAT.md](./ADMIN_DATA_FORMAT.md) | 필드 스키마 |
+| [MIGRATION_RESULT.md](./MIGRATION_RESULT.md) | 마이그레이션·26-27 초안 결과 |
+| [MIGRATION_PLAN.md](./MIGRATION_PLAN.md) | 조사 당시 계획 (일부 스냅샷은 과거형) |
+| [TODO.md](./TODO.md) | 남은 작업 |
 
-각 디비전은 `league.json`, `teams.json`, `players.json`, `matches.json`으로 구성됩니다.
+## 구조
 
-스키마 상세는 [ADMIN_DATA_FORMAT.md](./ADMIN_DATA_FORMAT.md)를 참고하세요.
+```
+data/
+  masters/{divisions,teams,players}.json
+  seasons/{seasonId}/
+    season.json
+    team_seasons.json
+    player_registrations.json
+    division/{fk1|fk2|wk}/matches.json
+```
+
+선수 ID는 `pl_*`입니다. 골의 `playerId`도 동일합니다.
+
+## 스크립트
+
+```bash
+node scripts/migration/migrate-all.mjs --dry-run
+node scripts/migration/migrate-all.mjs
+node scripts/validation/validate-all.mjs
+```
+
+## 승격·강등 / 이적
+
+| 이벤트 | 처리 |
+|--------|------|
+| 승격·강등 | 다음 시즌 `team_seasons`에 다른 `divisionId` |
+| 구단명 변경 | `teamId` 유지, `team_seasons.name`에 시즌명 |
+| 이적 | `player_registrations` endDate 종료 후 새 row |

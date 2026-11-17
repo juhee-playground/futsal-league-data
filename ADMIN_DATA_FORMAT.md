@@ -1,134 +1,148 @@
-# Admin 전달용 데이터 형식 문서 (2025-2026 시즌)
+# Admin / 서비스용 데이터 형식
 
-이 문서는 admin 페이지 연동을 위해 `matches.json` 데이터 구조를 디비전별로 정리한 문서입니다.
+팀·선수는 마스터, 시즌 소속·이적은 관계 파일로 관리합니다.
 
-## 1) 파일 경로
+## 1) 디렉터리
 
-- FK1: `data/seasons/2025-2026/division/fk1/matches.json`
-- FK2: `data/seasons/2025-2026/division/fk2/matches.json`
-- WK: `data/seasons/2025-2026/division/wk/matches.json`
+```
+data/
+  masters/
+    divisions.json
+    teams.json
+    players.json
+  seasons/{seasonId}/
+    season.json
+    team_seasons.json
+    player_registrations.json
+    division/{fk1|fk2|wk}/
+      matches.json
+```
 
-모든 파일은 **경기 객체 배열(Array)** 형식입니다.
+`league.json`은 사용하지 않습니다. 디비전 메타는 `season.json`이 원본입니다.
 
-## 2) 공통 경기 객체 스키마
+## 2) 마스터
+
+### `masters/divisions.json`
+
+```json
+{ "id": "fk1", "name": "FK 1부 리그", "leagueId": "division-1" }
+```
+
+### `masters/teams.json`
 
 ```json
 {
-  "id": "string",
-  "round": 1,
-  "date": "YYYY-MM-DD",
-  "time": "HH:mm",
-  "place": "string",
-  "homeTeamId": "t_*",
-  "awayTeamId": "t_*",
-  "status": "SCHEDULED | FINISHED",
-  "youtube_url": "string",
+  "id": "t_goyang",
+  "name": "고양불스풋살클럽",
+  "status": "ACTIVE",
+  "color": "#e7b573",
+  "darkColor": "#fbbf24",
+  "logo": "team_goyang.jpg",
+  "address": "string",
+  "location": "string",
+  "homepage": "string"
+}
+```
+
+- `divisionId` 없음
+- `name`: 현재 구단명. 과거 시즌명은 `team_seasons.name`
+- public 파서 필수: `location`, `address`, `logo`, `color`, `darkColor` (빈 문자열 `""` 허용)
+
+### `masters/players.json`
+
+```json
+{ "id": "pl_0124", "name": "홍길동", "position": "ALA" }
+```
+
+- `id`: 영구 선수 ID (`pl_*`)
+- 팀/등번호 없음
+
+## 3) 시즌
+
+### `season.json`
+
+```json
+{
+  "id": "2025-2026",
+  "name": "2025-2026 시즌",
+  "divisions": [
+    {
+      "divisionId": "fk1",
+      "name": "2025-2026 FK 1부 리그",
+      "startDate": "2025-11-15",
+      "endDate": "2026-04-04",
+      "rounds": 14,
+      "pointRule": { "win": 3, "draw": 1, "loss": 0 }
+    }
+  ]
+}
+```
+
+### `team_seasons.json`
+
+```json
+{
+  "id": "ts_2026-2027_yongin",
+  "teamId": "t_yongin",
+  "seasonId": "2026-2027",
+  "divisionId": "fk1",
+  "name": "용인지솔FS",
+  "status": "ACTIVE"
+}
+```
+
+### `player_registrations.json`
+
+```json
+{
+  "id": "pr_pl_0124_2025-2026_goyang",
+  "seasonId": "2025-2026",
+  "playerId": "pl_0124",
+  "teamId": "t_goyang",
+  "shirtNumber": 7,
+  "startDate": "2025-11-15",
+  "endDate": null
+}
+```
+
+이적: 기존 row `endDate` 설정 후 새 row 추가.  
+디비전은 `teamId` → `team_seasons`로 조회.
+
+## 4) `matches.json`
+
+```json
+{
+  "id": "m_45",
+  "round": 15,
+  "date": "2026-03-29",
+  "time": "14:00",
+  "place": "춘천호반체육관",
+  "homeTeamId": "t_gangwon",
+  "awayTeamId": "t_goyang",
+  "status": "FINISHED",
+  "youtube_url": "",
   "goals": [
     {
-      "playerId": "p_*",
-      "playerUuid": "pl_0001",
-      "teamId": "t_*",
-      "half": 1,
-      "minute": 1,
+      "id": "f9615ec4-a602-42ba-a7c7-e8c05c1ca05f",
+      "playerId": "pl_0086",
+      "teamId": "t_gangwon",
+      "half": 2,
+      "minute": 9,
       "isOwnGoal": false
     }
   ],
-  "score": {
-    "home": 0,
-    "away": 0
-  }
+  "score": { "home": 3, "away": 6 }
 }
 ```
 
-### 필드 설명
+- `goals[].playerId`: `pl_*` (masters/players.id)
+- `goals[].teamId`: 득점 인정 팀 (자책골 시 소속과 다를 수 있음)
+- 경기 ID: FK1 `m_*` / FK2 `m_fk2_*` / WK `m_w_*`
 
-- `id`: 경기 ID (디비전마다 접두어 규칙 상이)
-- `round`: 라운드 번호
-- `date`: 경기일 (`YYYY-MM-DD`)
-- `time`: 경기시각 (`HH:mm`)
-- `place`: 경기장명
-- `homeTeamId`, `awayTeamId`: 팀 ID (`t_*`)
-- `status`: 경기 상태 (`SCHEDULED`, `FINISHED`)
-- `youtube_url`: 중계/다시보기 URL (없으면 `""`)
-- `score.home`, `score.away`: 팀별 득점
-- `goals[]`: 개별 득점 로그
-  - `playerId`: 선수 ID (`p_*`)
-  - `playerUuid`: 선수 고유 ID (`pl_0001` 형식)
-  - `teamId`: 득점으로 인정되는 팀 ID
-  - `half`: 전반/후반 (`1` 또는 `2`)
-  - `minute`: 해당 하프 기준 분 (1~20)
-  - `isOwnGoal`: 자책골 여부
+## 5) 조회 가이드
 
-## 선수 데이터(`players.json`) 필드
-
-각 디비전의 `players.json`에는 선수 고유 식별용 `uuid`가 포함됩니다.
-
-```json
-{
-  "id": "p_goyang_7",
-  "uuid": "pl_0123",
-  "name": "홍길동",
-  "teamId": "t_goyang",
-  "number": 7,
-  "position": "ALA"
-}
-```
-
-### 상태별 데이터 규칙
-
-- `status = SCHEDULED`
-  - 일반적으로 `score = { home: 0, away: 0 }`
-  - `goals = []`
-- `status = FINISHED`
-  - `score`와 `goals`가 채워짐
-
-## 3) 디비전별 차이
-
-구조 자체는 동일하고, 주로 `id` 패턴과 팀 ID 세트가 다릅니다.
-
-### FK1
-
-- 파일: `data/seasons/2025-2026/division/fk1/matches.json`
-- 경기 ID 패턴: `m_숫자` (예: `m_41`)
-- 현재 상태: 총 45경기 (`SCHEDULED` 3, `FINISHED` 42)
-
-### FK2
-
-- 파일: `data/seasons/2025-2026/division/fk2/matches.json`
-- 경기 ID 패턴: `m_fk2_숫자` (예: `m_fk2_01`)
-- 현재 상태: 총 56경기 (`FINISHED` 56)
-
-### WK
-
-- 파일: `data/seasons/2025-2026/division/wk/matches.json`
-- 경기 ID 패턴: `m_w_숫자` (예: `m_w_01`)
-- 현재 상태: 총 20경기 (`FINISHED` 20)
-
-## 4) UUID 적용 현황
-
-- 선수 마스터: `players.json`의 모든 선수에 `uuid` 저장
-- 골 로그: `matches.json`의 모든 `goals[]`에 `playerUuid` 저장
-- 레거시 호환: 기존 `playerId`는 유지
-
-## 5) 이적(선수 소속 변경) 관련 참고
-
-현재 `playerId`는 팀 정보를 포함하는 형태(예: `p_goyang_7`)라서, 이적 데이터 관리에는 불리합니다.
-현재는 `uuid`/`playerUuid`를 함께 저장해 이 문제를 보완합니다.
-
-### 권장 구조 방향
-
-- 선수 고유 ID를 팀과 분리:
-  - 예: `uuid: "pl_0123"` (영구 불변)
-- 소속 히스토리 테이블(또는 파일) 추가:
-  - 예: `playerRegistrations[] = { playerUuid, teamId, startDate, endDate, shirtNumber }`
-- 경기 `goals`에는 최소 `playerUuid`를 저장:
-  - 필요 시 `playerId`(레거시) 병행 저장 후 점진 제거
-
-### 최소 변경(점진적)안
-
-1. 기존 `goals.playerId` 유지
-2. `goals.playerUuid` 필드 추가
-3. 별도 소속 히스토리 파일 추가
-4. admin 페이지는 우선 `playerUuid` 기준으로 선수 조회, 날짜 기준으로 당시 소속 계산
-
-위 방식이면 과거 데이터와 호환성을 유지하면서 이적 기능을 확장할 수 있습니다.
+| 질문 | 소스 |
+|------|------|
+| 시즌 FK1 팀 | `team_seasons` + `masters/teams` (`name`은 team_seasons 우선) |
+| 현재 로스터 | `player_registrations` where `endDate=null` + team_seasons로 디비전 필터 |
+| 골 → 선수 | `goals.playerId` → `masters/players.id` |
