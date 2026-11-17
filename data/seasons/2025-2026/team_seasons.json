@@ -4,6 +4,7 @@
     "teamId": "t_gyeonggi",
     "seasonId": "2025-2026",
     "divisionId": "fk1",
+    "name": "경기LBFS",
     "status": "ACTIVE"
   },
   {
@@ -11,6 +12,7 @@
     "teamId": "t_nowon",
     "seasonId": "2025-2026",
     "divisionId": "fk1",
+    "name": "노원제너 FS",
     "status": "ACTIVE"
   },
   {
@@ -18,6 +20,7 @@
     "teamId": "t_eunpyeong",
     "seasonId": "2025-2026",
     "divisionId": "fk1",
+    "name": "서울은평덴포스",
     "status": "ACTIVE"
   },
   {
@@ -25,6 +28,7 @@
     "teamId": "t_gangwon",
     "seasonId": "2025-2026",
     "divisionId": "fk1",
+    "name": "강원FS",
     "status": "ACTIVE"
   },
   {
@@ -32,6 +36,7 @@
     "teamId": "t_jeonju",
     "seasonId": "2025-2026",
     "divisionId": "fk1",
+    "name": "전주시민풋살구단",
     "status": "ACTIVE"
   },
   {
@@ -39,6 +44,7 @@
     "teamId": "t_goyang",
     "seasonId": "2025-2026",
     "divisionId": "fk1",
+    "name": "고양불스풋살클럽",
     "status": "ACTIVE"
   },
   {
@@ -46,6 +52,7 @@
     "teamId": "t_gumi",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "구미FS",
     "status": "ACTIVE"
   },
   {
@@ -53,6 +60,7 @@
     "teamId": "t_daegu",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "대구FS",
     "status": "ACTIVE"
   },
   {
@@ -60,6 +68,7 @@
     "teamId": "t_gunsan",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "군산FS",
     "status": "ACTIVE"
   },
   {
@@ -67,6 +76,7 @@
     "teamId": "t_yongin",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "용인대흥FS",
     "status": "ACTIVE"
   },
   {
@@ -74,6 +84,7 @@
     "teamId": "t_namdong",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "인천남동풋살클럽",
     "status": "ACTIVE"
   },
   {
@@ -81,6 +92,7 @@
     "teamId": "t_jecheon",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "제천풋살클럽",
     "status": "ACTIVE"
   },
   {
@@ -88,6 +100,7 @@
     "teamId": "t_cheongju",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "청주팔라시오FS",
     "status": "ACTIVE"
   },
   {
@@ -95,6 +108,7 @@
     "teamId": "t_hwaseong",
     "seasonId": "2025-2026",
     "divisionId": "fk2",
+    "name": "화성FS",
     "status": "ACTIVE"
   },
   {
@@ -102,6 +116,7 @@
     "teamId": "t_apro",
     "seasonId": "2025-2026",
     "divisionId": "wk",
+    "name": "구미 APRO ZD스포츠",
     "status": "ACTIVE"
   },
   {
@@ -109,6 +124,7 @@
     "teamId": "t_yongin_wfs",
     "seasonId": "2025-2026",
     "divisionId": "wk",
+    "name": "용인 ZD스포츠 위민",
     "status": "ACTIVE"
   },
   {
@@ -116,6 +132,7 @@
     "teamId": "t_hwaseong_wfs",
     "seasonId": "2025-2026",
     "divisionId": "wk",
+    "name": "경기화성시화성WFS",
     "status": "ACTIVE"
   },
   {
@@ -123,6 +140,7 @@
     "teamId": "t_goyang_wfs",
     "seasonId": "2025-2026",
     "divisionId": "wk",
+    "name": "고양불스위민FS",
     "status": "ACTIVE"
   },
   {
@@ -130,6 +148,7 @@
     "teamId": "t_namdong_wfs",
     "seasonId": "2025-2026",
     "divisionId": "wk",
+    "name": "인천남동풋살클럽위민",
     "status": "ACTIVE"
   }
 ]

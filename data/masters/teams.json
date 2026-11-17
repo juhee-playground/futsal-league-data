@@ -2,6 +2,7 @@
   {
     "id": "t_apro",
     "name": "구미 APRO ZD스포츠",
+    "status": "ACTIVE",
     "color": "#051d2b",
     "darkColor": "#051d2b",
     "logo": "team_apro.jpg",
@@ -11,6 +12,7 @@
   {
     "id": "t_cheongju",
     "name": "청주팔라시오FS",
+    "status": "ACTIVE",
     "color": "#0a568f",
     "darkColor": "#0a568f",
     "logo": "team_cheongju.jpg",
@@ -21,6 +23,7 @@
   {
     "id": "t_daegu",
     "name": "대구FS",
+    "status": "ACTIVE",
     "color": "#009fff",
     "darkColor": "#009fff",
     "logo": "team_daegu.jpg",
@@ -31,6 +34,7 @@
   {
     "id": "t_eunpyeong",
     "name": "서울은평덴포스",
+    "status": "ACTIVE",
     "color": "#0281ba",
     "darkColor": "#38bdf8",
     "logo": "team_eunpyeong.jpg",
@@ -40,6 +44,7 @@
   {
     "id": "t_gangwon",
     "name": "강원FS",
+    "status": "ACTIVE",
     "color": "#de562a",
     "darkColor": "#fb923c",
     "logo": "team_gangwon.jpg",
@@ -49,6 +54,7 @@
   {
     "id": "t_goyang",
     "name": "고양불스풋살클럽",
+    "status": "ACTIVE",
     "color": "#e7b573",
     "darkColor": "#fbbf24",
     "logo": "team_goyang.jpg",
@@ -58,6 +64,7 @@
   {
     "id": "t_goyang_wfs",
     "name": "고양불스위민FS",
+    "status": "ACTIVE",
     "color": "#e7b573",
     "darkColor": "#fbbf24",
     "logo": "team_goyang_women.jpg",
@@ -67,6 +74,7 @@
   {
     "id": "t_gumi",
     "name": "구미FS",
+    "status": "ACTIVE",
     "color": "#fe6702",
     "darkColor": "#fe6702",
     "logo": "team_gumi.jpg",
@@ -77,6 +85,7 @@
   {
     "id": "t_gunsan",
     "name": "군산FS",
+    "status": "ACTIVE",
     "color": "#07257f",
     "darkColor": "#07257f",
     "logo": "team_gunsan.jpg",
@@ -87,6 +96,7 @@
   {
     "id": "t_gyeonggi",
     "name": "경기LBFS",
+    "status": "INACTIVE",
     "color": "#212644",
     "darkColor": "#2e3d94",
     "logo": "team_gyeonggi.jpg",
@@ -96,6 +106,7 @@
   {
     "id": "t_hwaseong",
     "name": "화성FS",
+    "status": "ACTIVE",
     "color": "#e9550A",
     "darkColor": "#e9550A",
     "logo": "team_hwaseong.jpg",
@@ -106,6 +117,7 @@
   {
     "id": "t_hwaseong_wfs",
     "name": "경기화성시화성WFS",
+    "status": "ACTIVE",
     "color": "#e9550A",
     "darkColor": "#e9550A",
     "logo": "team_hwaseong_wfs.jpg",
@@ -113,8 +125,19 @@
     "location": "장안대학교체육관"
   },
   {
+    "id": "t_incheon",
+    "name": "인천풋살클럽",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "t_incheon_zd",
+    "name": "인천ZD스포츠",
+    "status": "ACTIVE"
+  },
+  {
     "id": "t_jecheon",
     "name": "제천풋살클럽",
+    "status": "ACTIVE",
     "color": "#d39e44",
     "darkColor": "#d39e44",
     "logo": "team_jecheon.jpg",
@@ -125,6 +148,7 @@
   {
     "id": "t_jeonju",
     "name": "전주시민풋살구단",
+    "status": "INACTIVE",
     "color": "#034c2d",
     "darkColor": "#10b981",
     "logo": "team_jeonju.jpg",
@@ -134,6 +158,7 @@
   {
     "id": "t_namdong",
     "name": "인천남동풋살클럽",
+    "status": "INACTIVE",
     "color": "#007cfc",
     "darkColor": "#007cfc",
     "logo": "team_namdong.jpg",
@@ -144,6 +169,7 @@
   {
     "id": "t_namdong_wfs",
     "name": "인천남동풋살클럽위민",
+    "status": "ACTIVE",
     "color": "#007cfc",
     "darkColor": "#007cfc",
     "logo": "team_namdong_women.jpg",
@@ -153,6 +179,7 @@
   {
     "id": "t_nowon",
     "name": "노원제너 FS",
+    "status": "ACTIVE",
     "color": "#051d2b",
     "darkColor": "#9e8f0d",
     "logo": "team_nowon.jpg",
@@ -161,7 +188,8 @@
   },
   {
     "id": "t_yongin",
-    "name": "용인대흥FS",
+    "name": "용인지솔FS",
+    "status": "ACTIVE",
     "color": "#deb786",
     "darkColor": "#deb786",
     "logo": "team_yongin.jpg",
@@ -172,6 +200,7 @@
   {
     "id": "t_yongin_wfs",
     "name": "용인 ZD스포츠 위민",
+    "status": "ACTIVE",
     "color": "#009fff",
     "darkColor": "#009fff",
     "logo": "team_yongin_wfs.jpg",

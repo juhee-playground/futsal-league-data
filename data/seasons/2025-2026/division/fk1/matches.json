@@ -11,72 +11,72 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_gangwon_10",
-        "playerUuid": "pl_0086",
+        "id": "f9615ec4-a602-42ba-a7c7-e8c05c1ca05f",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 9,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_9",
-        "playerUuid": "pl_0102",
+        "id": "05af4211-f1d3-4ff9-aeef-0c90dbdceff1",
+        "playerId": "pl_0102",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 6,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_20",
-        "playerUuid": "pl_0093",
+        "id": "e18c140f-535a-420a-b618-e2cfb6c0d429",
+        "playerId": "pl_0093",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 4,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
-        "playerUuid": "pl_0124",
+        "id": "43be0570-6b6e-47be-8337-4608e479c5a4",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 5,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
-        "playerUuid": "pl_0124",
+        "id": "f7b88faa-3c9c-4d56-88c8-36520af11adc",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 7,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_27",
-        "playerUuid": "pl_0116",
+        "id": "8cdce881-c946-415b-986b-a9cbda0d72fb",
+        "playerId": "pl_0116",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 18,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_11",
-        "playerUuid": "pl_0105",
+        "id": "3d3d79b8-f77d-4d32-8428-a1fe381a17e2",
+        "playerId": "pl_0105",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 14,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
-        "playerUuid": "pl_0106",
+        "id": "0d34c9af-cb89-4abc-9d2a-ecc88378a5d2",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 14,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_17",
-        "playerUuid": "pl_0109",
+        "id": "9a87636e-7c34-4843-84b5-546c0c7f2d92",
+        "playerId": "pl_0109",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 16,
@@ -100,96 +100,96 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_eunpyeong_37",
-        "playerUuid": "pl_0076",
+        "id": "e8d2619d-aa0a-4fbd-bec3-efea7e35075b",
+        "playerId": "pl_0076",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 6,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_37",
-        "playerUuid": "pl_0076",
+        "id": "6c987499-7409-4f16-8977-903c5dec3f31",
+        "playerId": "pl_0076",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 7,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_37",
-        "playerUuid": "pl_0076",
+        "id": "74136547-514f-4d68-b83d-ffa8ab17063f",
+        "playerId": "pl_0076",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 15,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
-        "playerUuid": "pl_0081",
+        "id": "549c80b1-40bf-4645-8590-bbee348f0860",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 15,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
-        "playerUuid": "pl_0081",
+        "id": "0aee5fe4-0a58-440d-b49c-1b861ed8ccf5",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 16,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
-        "playerUuid": "pl_0081",
+        "id": "a7ec612e-6f63-4014-9ffc-31ba81fc9bb6",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 20,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_3",
-        "playerUuid": "pl_0074",
+        "id": "04148a7d-bbaf-49a0-8344-71340b88ea18",
+        "playerId": "pl_0074",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 13,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_5",
-        "playerUuid": "pl_0288",
+        "id": "e6eca865-295f-4bc3-8ca8-eedf1865f83d",
+        "playerId": "pl_0288",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 1,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_5",
-        "playerUuid": "pl_0288",
+        "id": "489bc027-d458-4182-8c23-b9901698fb5f",
+        "playerId": "pl_0288",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 14,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_5",
-        "playerUuid": "pl_0288",
+        "id": "06fa32b5-d2fd-445b-a5c6-f6128816ab8c",
+        "playerId": "pl_0288",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 16,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_11",
-        "playerUuid": "pl_0276",
+        "id": "a22400fc-e9ae-4966-add1-4e9e0572f603",
+        "playerId": "pl_0276",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 9,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_88",
-        "playerUuid": "pl_0292",
+        "id": "b922d21a-d079-41ec-9a6c-460e263b5bff",
+        "playerId": "pl_0292",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 18,
@@ -213,16 +213,16 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_gyeonggi_15",
-        "playerUuid": "pl_0205",
+        "id": "1c75b909-caf9-48ac-a355-725bddcb3735",
+        "playerId": "pl_0205",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 16,
         "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_30",
-        "playerUuid": "pl_0353",
+        "id": "4615431a-21cc-4b74-80f2-cd8feec75339",
+        "playerId": "pl_0353",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 17,
@@ -246,44 +246,44 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_nowon_12",
+        "id": "a9a12d21-d7f7-4b76-b27a-c086d4f7c897",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "9994a4ab-b501-4443-9b4c-ba8928176806",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 5,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_14",
+        "id": "fe0b4f2a-5906-4965-a0d6-716039600902",
+        "playerId": "pl_0342",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 16,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0342"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_30",
+        "id": "2597e7b3-7989-4180-98d9-da8258f6b6b6",
+        "playerId": "pl_0353",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0353"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "2cdb7602-72ae-4ff2-9943-4feea0d46cd2",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -303,132 +303,132 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_goyang_5",
+        "id": "61890b5d-0778-4bde-a64d-863027da4b4d",
+        "playerId": "pl_0121",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0121"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "ca48f752-fd5a-4931-ad04-997ea5c62c86",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "7d23f52a-3f13-4091-a1c2-33c1721429cb",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 18,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "f44f0fea-8490-4d57-9d4a-e26dc61e960b",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 18,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_22",
+        "id": "6b27b2f5-9dff-4e7c-990b-ab05a30b9a0e",
+        "playerId": "pl_0115",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 1,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0115"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_22",
+        "id": "003fcf83-9f4e-4ff2-b5f1-ffecf47b45ce",
+        "playerId": "pl_0115",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0115"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_3",
+        "id": "aef5b5da-253d-4f11-b46f-c3c8cc3439f2",
+        "playerId": "pl_0117",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 11,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0117"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_11",
+        "id": "22d47418-abe4-4667-a1a1-2d2580619aba",
+        "playerId": "pl_0105",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0105"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_11",
+        "id": "aa79f8e1-c699-4117-b9c2-0c4219291536",
+        "playerId": "pl_0105",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0105"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "7deb144a-9538-4ee3-a615-13783f3adbd7",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 11,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "9e5da816-d983-4b8b-bece-9e1eef778b55",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 14,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_11",
+        "id": "916082d9-8e2b-4d1b-8065-dbf490131460",
+        "playerId": "pl_0276",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0276"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_11",
+        "id": "534b71ee-678b-4c8a-b978-6a6a4cc783af",
+        "playerId": "pl_0276",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 18,
-        "isOwnGoal": true,
-        "playerUuid": "pl_0276"
+        "isOwnGoal": true
       },
       {
-        "playerId": "p_jeonju_20",
+        "id": "3033343f-8e07-4ec8-96ed-42d75ad4ca32",
+        "playerId": "pl_0284",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0284"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_22",
+        "id": "7f2996b5-1d4a-4397-aaed-65ff47f11083",
+        "playerId": "pl_0286",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 16,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0286"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_22",
+        "id": "76762b8b-bfb6-4d4f-be56-79bf59777875",
+        "playerId": "pl_0286",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 2,
-        "isOwnGoal": true,
-        "playerUuid": "pl_0286"
+        "isOwnGoal": true
       }
     ],
     "score": {
@@ -448,76 +448,76 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_gyeonggi_9",
+        "id": "9f2d496f-a283-4cba-aa46-63e6648fe010",
+        "playerId": "pl_0217",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 12,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0217"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_15",
+        "id": "f6cb188e-c5b7-4947-aa10-20ae662cab89",
+        "playerId": "pl_0205",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 13,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0205"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "3163e80b-6e4c-44a0-a430-49b6594059df",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 4,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_6",
+        "id": "421f44ce-14f1-4471-b685-f5579019b0e4",
+        "playerId": "pl_0213",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 16,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0213"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "77d4a693-d3cb-43fa-a4e2-c895e544232f",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 12,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "cc0f7d20-d5aa-43a8-9345-61c69d122b6c",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "c1de28a7-aee8-4a77-a45b-93ae4d6bbe50",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 13,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_16",
+        "id": "ba9340a3-9ba8-4dae-9984-c5f569cb0998",
+        "playerId": "pl_0206",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 11,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0206"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_3",
+        "id": "77c5b90f-8023-4da4-bcb9-6647eb0d0655",
+        "playerId": "pl_0074",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 13,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0074"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -537,68 +537,68 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_gangwon_10",
+        "id": "05046424-8616-4ddd-b281-d1c908128d2d",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 5,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_14",
+        "id": "590eba7d-8b84-4e4d-87cd-6eb73376fe68",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 15,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "39a2dbde-ae9f-40b5-9bae-3a02b4d680aa",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_15",
+        "id": "e3ca2c09-1df0-434f-9470-a3b3d2ce3fd8",
+        "playerId": "pl_0205",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0205"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "3bbba190-db42-45f9-9d88-2de7466ae374",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "41fc8ee1-7be7-4a0a-abc3-f00955a219bd",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 8,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "e58cc330-1804-4ecf-b5c9-d6e8bc6bcc87",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "130eba82-470f-4827-9265-df0c73299d88",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 11,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -618,60 +618,60 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_nowon_10",
+        "id": "4d6b8641-d2ce-460c-88df-f446cf05c222",
+        "playerId": "pl_0338",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 12,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0338"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "c225c3d5-b561-4761-b3f6-d210c9f9e37b",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "ca60ea93-a5eb-426f-b9e2-87d7e1faee82",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "7c4894b4-9ddd-4be5-8363-7700fb042f45",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 13,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_14",
+        "id": "6be8b248-f37c-46a6-a30f-36a12879832a",
+        "playerId": "pl_0342",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0342"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_11",
+        "id": "8c84251a-99a1-49bf-ac6f-418f2adbe0a5",
+        "playerId": "pl_0276",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 5,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0276"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_88",
+        "id": "d8f83da3-7dd6-48de-8ad7-01d16f253165",
+        "playerId": "pl_0292",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0292"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -691,76 +691,76 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_eunpyeong_11",
+        "id": "100d8a26-17ff-4746-8532-2aeb607d0661",
+        "playerId": "pl_0058",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 18,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0058"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
+        "id": "2b1a4333-0fc9-4dc8-a5bf-43b9e860ff1d",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 2,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0081"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_1",
+        "id": "69c3fb90-22ef-439a-a50c-0b80e1940e1a",
+        "playerId": "pl_0103",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0103"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_11",
+        "id": "019d122e-4b9a-4890-8535-0be7fd2d6180",
+        "playerId": "pl_0105",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0105"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_11",
+        "id": "1e098f5c-399a-4567-8300-df99c540f9ae",
+        "playerId": "pl_0105",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0105"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "b7b8cc8c-6486-4e68-a597-906db5f45155",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 4,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "b06906cf-8365-46fb-a292-86362ce077a3",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 2,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_17",
+        "id": "820fd5b2-e2ac-4f16-bfa6-2a5edd4d14c6",
+        "playerId": "pl_0109",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 15,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0109"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_34",
+        "id": "5c9e5cb1-fca6-4425-9665-f44954f40c07",
+        "playerId": "pl_0119",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0119"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -780,76 +780,76 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_nowon_12",
+        "id": "f696f333-90c5-4378-ad5d-0a12b13c98ea",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_18",
+        "id": "123bd109-c3cc-4be4-9e24-7121650e4051",
+        "playerId": "pl_0344",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0344"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_25",
+        "id": "b830301d-1629-4e60-8bb7-2667bf371c88",
+        "playerId": "pl_0351",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 6,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0351"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_11",
+        "id": "e57d8c27-b404-40d2-9b97-7a089c551870",
+        "playerId": "pl_0339",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 8,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0339"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_11",
+        "id": "f45656b9-af28-4a2e-a91a-96c63578ab0a",
+        "playerId": "pl_0339",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0339"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_11",
+        "id": "e2eebb06-ab6b-4a4d-8973-1f802c325851",
+        "playerId": "pl_0339",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0339"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_14",
+        "id": "5285c67e-fb16-4c09-a042-d8efde888f35",
+        "playerId": "pl_0342",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0342"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_3",
+        "id": "72ab5f76-8928-444d-95c6-86a93a6178b8",
+        "playerId": "pl_0074",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 12,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0074"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_11",
+        "id": "fbb68740-4009-4bad-bc65-3bc590f5459e",
+        "playerId": "pl_0058",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0058"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -869,52 +869,52 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_goyang_12",
+        "id": "8a998fd9-0bad-4da9-9cda-c56f3f374e1d",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 18,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_27",
+        "id": "fabb5c0b-1871-48c0-9067-163b37b65c15",
+        "playerId": "pl_0116",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 14,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0116"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_27",
+        "id": "f3327ead-f703-400a-b790-6867775fb364",
+        "playerId": "pl_0116",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 15,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0116"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "3166b6f2-7b1e-4c27-bdfd-73391c8c60f3",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_9",
+        "id": "3bae634b-d9cd-4a73-beb5-a28103ae4e55",
+        "playerId": "pl_0217",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 13,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0217"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_14",
+        "id": "cc53a877-78f9-4a43-b514-9f53692be17f",
+        "playerId": "pl_0204",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0204"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -934,84 +934,84 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_jeonju_5",
+        "id": "a94495f8-d228-48c8-b815-1ca337b5de41",
+        "playerId": "pl_0288",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 12,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0288"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_11",
+        "id": "085276cc-9dca-485c-9d86-977a71aabc3f",
+        "playerId": "pl_0276",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0276"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_13",
+        "id": "d726c9b1-5f38-42f2-948e-748b4d2df166",
+        "playerId": "pl_0278",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 2,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0278"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_88",
+        "id": "6dfe59ea-6c31-4555-8d36-283670d7371d",
+        "playerId": "pl_0292",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0292"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "95f30296-061c-4391-922e-4bdd7bc68718",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "b8a43042-6e1d-4f41-951f-1c2a3bb05d20",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_12",
+        "id": "eed930ee-9a9b-4994-9aa3-914ed218c505",
+        "playerId": "pl_0277",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0277"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_10",
+        "id": "fa596b3d-e060-4677-a5d6-3c905ab04368",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 12,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "50e48277-d590-4be1-b38b-c6f5d34e456b",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 4,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_18",
+        "id": "5d96e0a8-7c5d-4596-bc57-20486dca772e",
+        "playerId": "pl_0091",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0091"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -1035,28 +1035,28 @@
     },
     "goals": [
       {
-        "playerId": "p_nowon_8",
+        "id": "8b777740-ac73-42cb-8746-96864c34e35d",
+        "playerId": "pl_0356",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0356"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_25",
+        "id": "3841bce0-b5c6-4bdc-9aca-e3d552f94729",
+        "playerId": "pl_0351",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0351"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "a41200bd-48fa-44dd-824a-fabdb2a99cde",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 1,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1076,68 +1076,68 @@
     },
     "goals": [
       {
-        "playerId": "p_eunpyeong_37",
+        "id": "c0f7dca4-1ee6-4c89-a01b-2d2c3bd31b0e",
+        "playerId": "pl_0076",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0076"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_3",
+        "id": "f5995987-c476-4a8e-891d-53fd53cfa29d",
+        "playerId": "pl_0074",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 16,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0074"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_6",
+        "id": "666b5073-5186-446b-838a-4f6976a5ff8a",
+        "playerId": "pl_0079",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 8,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0079"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_27",
+        "id": "3b6ac167-de78-4c68-80f1-754a3748e86d",
+        "playerId": "pl_0073",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0073"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "0a339a42-88ee-488a-bdbd-8f22d7aedefc",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 11,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_6",
+        "id": "71fffaf2-45e7-45ae-a662-c4545f0e5977",
+        "playerId": "pl_0098",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 1,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0098"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_18",
+        "id": "b56b55a8-e2f9-432e-bc13-0ea7ddd3c87f",
+        "playerId": "pl_0091",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0091"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_22",
+        "id": "0c19f5bd-d145-44ef-b490-138b58bbd971",
+        "playerId": "pl_0095",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0095"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1157,44 +1157,44 @@
     },
     "goals": [
       {
-        "playerId": "p_gyeonggi_29",
+        "id": "50fa7a23-c26c-4adf-b154-7453de23dbae",
+        "playerId": "pl_0210",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0210"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_88",
+        "id": "52491aef-2727-49c1-ac7e-c0023cfc5828",
+        "playerId": "pl_0216",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 14,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0216"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_3",
+        "id": "54f2b1a1-1aa5-454d-8330-41514c5ed2cb",
+        "playerId": "pl_0211",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0211"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "449fb256-bd04-4e37-964f-1d3f4992df76",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 5,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "07a9a108-2cf1-4c77-a5b2-160bb881b284",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1214,52 +1214,52 @@
     },
     "goals": [
       {
-        "playerId": "p_goyang_7",
+        "id": "d0e778d8-e57e-484c-b3d5-a845036d11f3",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 15,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_21",
+        "id": "bacd8b4e-9383-42d2-8439-75faf390dc54",
+        "playerId": "pl_0114",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 8,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0114"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_22",
+        "id": "ed6db24a-b3f6-4967-9bdd-f4f75c5d0416",
+        "playerId": "pl_0115",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0115"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_10",
+        "id": "b24878b3-a096-4546-abfe-a5fc9909f670",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_14",
+        "id": "29cf36bc-ffd4-4fe6-ab12-a52f085e2cbd",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_9",
+        "id": "17ba7510-17ea-4f2d-9898-bca8bcf36145",
+        "playerId": "pl_0102",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 8,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0102"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1295,60 +1295,60 @@
     },
     "goals": [
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "c8b4e47e-18bd-4af6-928a-5e051c70d7ce",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 11,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_9",
+        "id": "f961c81d-7460-40f4-8bbd-10bb9f3b72c1",
+        "playerId": "pl_0217",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0217"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_15",
+        "id": "7de24e35-5b1a-4959-8796-fd3bf9e19f52",
+        "playerId": "pl_0205",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0205"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_88",
+        "id": "cf782876-6681-4f5d-9084-146185014776",
+        "playerId": "pl_0216",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0216"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_5",
+        "id": "39119072-69d3-4129-9719-51e269cf90b3",
+        "playerId": "pl_0212",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0212"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "91d455f5-b5d1-41da-8fa6-21600b6347e1",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 16,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_30",
+        "id": "c4dcba0b-05a1-4459-856b-974194068fdc",
+        "playerId": "pl_0353",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 8,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0353"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1367,32 +1367,36 @@
     "status": "FINISHED",
     "goals": [
       {
-        "playerId": "p_gangwon_20",
+        "id": "4699ed14-381e-4317-9046-f26190bc56b5",
+        "playerId": "pl_0093",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 11,
-        "playerUuid": "pl_0093"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_6",
+        "id": "fefa6772-ce06-4fdc-8bc6-fdac98e15008",
+        "playerId": "pl_0355",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 15,
-        "playerUuid": "pl_0355"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "151dbb49-7629-4b8f-bc2a-6fccb4b3b224",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 18,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "53af4185-b397-4e41-bf86-c35619fc0c14",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 31,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1412,39 +1416,44 @@
     },
     "goals": [
       {
-        "playerId": "p_goyang_12",
+        "id": "fb78358f-e32c-4670-8bd7-c4239350f305",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 4,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "52300575-dd0c-4142-8f9e-43ed13d99a72",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 10,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "0130eba5-5bfb-4e39-a11b-40cbed8fd42a",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 15,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "3d9e5f3e-127d-40a2-ab83-8ec0a32ea16e",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 7,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_22",
+        "id": "f1953454-6896-45d6-871c-9c75b75683ea",
+        "playerId": "pl_0115",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 20,
-        "playerUuid": "pl_0115"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1463,132 +1472,132 @@
     "status": "FINISHED",
     "goals": [
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "5a39c284-2e66-40ed-b573-758e7b0014a7",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 2,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_88",
+        "id": "f2e21115-d440-435e-a987-76ae388ce7e9",
+        "playerId": "pl_0216",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 3,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0216"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "d24dd0eb-4cdc-4092-8947-8f1ef89bef22",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 5,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_3",
+        "id": "3d3a81a8-2d27-4c5e-b110-9626f89092cc",
+        "playerId": "pl_0211",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 8,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0211"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_3",
+        "id": "09af63f1-b8ac-4ef2-b757-35cee1205e98",
+        "playerId": "pl_0074",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 8,
-        "isOwnGoal": true,
-        "playerUuid": "pl_0074"
+        "isOwnGoal": true
       },
       {
-        "playerId": "p_gyeonggi_5",
+        "id": "012bebd1-c9b7-4b24-bbda-f04eda1be388",
+        "playerId": "pl_0212",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 11,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0212"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_88",
+        "id": "11a59dfb-e779-4fc7-8b7a-b198a06db90d",
+        "playerId": "pl_0216",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 13,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0216"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "456f1da1-f7af-436d-83d1-4b2b3f8eee09",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 16,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_29",
+        "id": "a56b22ab-228a-49a5-ad48-4879f39a3495",
+        "playerId": "pl_0210",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0210"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_29",
+        "id": "53ed4e4c-d74b-44d4-9dfb-c49a4996f3b2",
+        "playerId": "pl_0210",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0210"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_88",
+        "id": "76b5402a-8f23-4253-a886-68eda53ca959",
+        "playerId": "pl_0216",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0216"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_10",
+        "id": "2bba3991-74c4-46f2-98df-a6b3246caffc",
+        "playerId": "pl_0201",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 7,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0201"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "a7c04654-06c3-482a-96fa-70f322c0c309",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 9,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "7b740fc6-5d42-4515-a3d6-6fce9cfa7d93",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 16,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_8",
+        "id": "9112b055-96d0-4913-8388-54a7b17dbdd9",
+        "playerId": "pl_0215",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0215"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
+        "id": "69f340f0-9bc5-47d2-b9e5-47226ebf2640",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 19,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0081"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1608,32 +1617,36 @@
     },
     "goals": [
       {
-        "playerId": "p_gangwon_6",
+        "id": "7b59b4b1-47e5-41c2-ac94-a85bf884b9ba",
+        "playerId": "pl_0098",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 13,
-        "playerUuid": "pl_0098"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_6",
+        "id": "97020744-a089-49e4-ab7e-0dc2761a9679",
+        "playerId": "pl_0098",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 16,
-        "playerUuid": "pl_0098"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_14",
+        "id": "92f0f3c4-f244-4a5d-a973-da02738283cd",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 19,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "10fb49dc-3613-4050-9462-f14da40f8f7f",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 10,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1649,60 +1662,68 @@
     "youtube_url": "",
     "goals": [
       {
-        "playerId": "p_eunpyeong_37",
+        "id": "77052f89-7f17-409a-bc56-a07140cd6f25",
+        "playerId": "pl_0076",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 14,
-        "playerUuid": "pl_0076"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_10",
+        "id": "060ac493-60b8-407c-931b-9334589e5d0c",
+        "playerId": "pl_0104",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 15,
-        "playerUuid": "pl_0104"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_9",
+        "id": "2c085c11-de7b-4fc9-9555-8736ef6d730c",
+        "playerId": "pl_0128",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 0,
-        "playerUuid": "pl_0128"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "bca9ecc4-3c25-4d42-a99d-49258711c3e2",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 3,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_8",
+        "id": "0397d2bb-661c-46b6-9721-b207f38b49a3",
+        "playerId": "pl_0082",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 4,
-        "playerUuid": "pl_0082"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "a596f1b4-7b03-475f-97d4-79760ad76ed7",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 10,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_37",
+        "id": "88a40ce0-750f-4af7-b907-0cdb3c411bac",
+        "playerId": "pl_0076",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 13,
-        "playerUuid": "pl_0076"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
+        "id": "dada1075-a620-4d68-a273-bf36f84fade3",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 17,
-        "playerUuid": "pl_0081"
+        "isOwnGoal": false
       }
     ],
     "score": {
@@ -1726,60 +1747,68 @@
     },
     "goals": [
       {
-        "playerId": "p_jeonju_22",
+        "id": "bc2af717-89c6-43a5-ba49-cd8b1a15896e",
+        "playerId": "pl_0286",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 6,
-        "playerUuid": "pl_0286"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_5",
+        "id": "ff7260e0-4e98-4a77-a699-26b0b99e9998",
+        "playerId": "pl_0288",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 11,
-        "playerUuid": "pl_0288"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_8",
+        "id": "8f07f094-23de-44de-a1e7-dad8bf213ab0",
+        "playerId": "pl_0356",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 17,
-        "playerUuid": "pl_0356"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_10",
+        "id": "9200359a-a26f-4d17-8574-44cc4b0d1f3f",
+        "playerId": "pl_0338",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 0,
-        "playerUuid": "pl_0338"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "c282c2fa-bddb-41ca-9da9-b278c48764e1",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 2,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_11",
+        "id": "100db271-ac6b-49df-8e45-e67f7b4ad9e9",
+        "playerId": "pl_0276",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 9,
-        "playerUuid": "pl_0276"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "bae4eb40-9974-4954-91db-bdadeaf710e9",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 10,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "dccb4233-7608-467b-900c-7247d64bb8b6",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 11,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1799,48 +1828,43 @@
     "goals": [
       {
         "id": "6fc6bd3e-9893-43f2-b78a-0b476831b178",
-        "playerId": "p_goyang_77",
+        "playerId": "pl_0125",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0125"
+        "isOwnGoal": false
       },
       {
         "id": "7b83a276-93a0-4b4d-873a-b90bdd579fb1",
-        "playerId": "p_gyeonggi_18",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
         "id": "8510af84-38b5-45fa-aae6-696447a6a0b9",
-        "playerId": "p_gyeonggi_3",
+        "playerId": "pl_0211",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0211"
+        "isOwnGoal": false
       },
       {
         "id": "9360289a-8ad7-41dc-a51e-39f2a26400b9",
-        "playerId": "p_goyang_22",
+        "playerId": "pl_0115",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0115"
+        "isOwnGoal": false
       },
       {
         "id": "dd7fbe2a-d86b-4f37-bb96-d41545bea0d0",
-        "playerId": "p_gyeonggi_88",
+        "playerId": "pl_0216",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0216"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1859,76 +1883,76 @@
     "status": "FINISHED",
     "goals": [
       {
-        "playerId": "p_gangwon_14",
+        "id": "b480db1f-452a-4d11-934f-73dbd509468b",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_13",
+        "id": "225ab565-5e0b-4b7a-a59c-70f46199162c",
+        "playerId": "pl_0278",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0278"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_10",
+        "id": "72bf3baa-d786-40de-8642-61bfba3b81c9",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 20,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "fd71be41-baa6-4959-9d08-59bcce5b52da",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 1,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_5",
+        "id": "b5034e9a-422e-4b40-a094-25b20927a06d",
+        "playerId": "pl_0288",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0288"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_10",
+        "id": "a83882cb-2c6f-4529-993f-30ef2ba873f1",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_10",
+        "id": "53d57802-7a86-4f3f-b1fa-33978c012e1a",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_17",
+        "id": "e5796ed5-58a0-4bdb-a669-ad8c814c6cc3",
+        "playerId": "pl_0090",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0090"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_16",
+        "id": "53bcb2c3-030c-4084-83cc-8b7badf7132f",
+        "playerId": "pl_0279",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 0,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0279"
+        "isOwnGoal": false
       }
     ]
   },
@@ -1947,60 +1971,60 @@
     "status": "FINISHED",
     "goals": [
       {
-        "playerId": "p_nowon_13",
+        "id": "4d4bd1b4-cbba-43b9-805a-8eb32a67f0db",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 5,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_30",
+        "id": "8e743c1c-3a06-4b31-8ab1-a908799cfdc7",
+        "playerId": "pl_0353",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 10,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0353"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_18",
+        "id": "9ffbb6ad-e54e-4fe7-96ed-f4c80fc6f712",
+        "playerId": "pl_0344",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 4,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0344"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "ad967681-e2a3-4424-9828-4c49a02cff55",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 4,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_25",
+        "id": "b3c86977-64f2-44f9-8977-6c3b61c6514a",
+        "playerId": "pl_0351",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 4,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0351"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_10",
+        "id": "ea5118a5-f117-4f9e-97f6-6d12b123dd86",
+        "playerId": "pl_0338",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 4,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0338"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_16",
+        "id": "41feb26a-c19c-4261-b6b5-9d684d68661c",
+        "playerId": "pl_0063",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 17,
-        "isOwnGoal": false,
-        "playerUuid": "pl_0063"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2020,53 +2044,60 @@
     },
     "goals": [
       {
-        "playerId": "p_gangwon_7",
+        "id": "d3d2bd8e-f85d-475b-ab08-b1d2b11c68b0",
+        "playerId": "pl_0099",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 1,
-        "playerUuid": "pl_0099"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "27b0ee88-842d-41b0-aa0a-0cee30df8e0c",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 8,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_10",
+        "id": "12d6aa94-f063-48e9-af2e-94ea32a3bd2b",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 13,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_9",
+        "id": "d3ed8f5f-843b-49c0-9450-3c50590d3666",
+        "playerId": "pl_0102",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 20,
-        "playerUuid": "pl_0102"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_25",
+        "id": "e5f012fa-9338-4d6d-b84b-145604b4344d",
+        "playerId": "pl_0351",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 5,
-        "playerUuid": "pl_0351"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_7",
+        "id": "0af09b16-5c68-4e30-8e9f-12d471694a04",
+        "playerId": "pl_0099",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 10,
-        "playerUuid": "pl_0099"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_17",
+        "id": "72e6b195-75ba-41b7-8dbe-2fde27fbebd0",
+        "playerId": "pl_0343",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 14,
-        "playerUuid": "pl_0343"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2086,60 +2117,68 @@
     },
     "goals": [
       {
-        "playerId": "p_goyang_11",
+        "id": "a9374588-bdb9-49a8-b970-4f19b31155f5",
+        "playerId": "pl_0105",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 14,
-        "playerUuid": "pl_0105"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_7",
+        "id": "70c32544-ebf3-4c23-8967-e5f524d47796",
+        "playerId": "pl_0080",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 17,
-        "playerUuid": "pl_0080"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "ad86e431-eae1-4f55-8348-6f20c8296e94",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 17,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
+        "id": "30f16ac3-c525-4667-b7c7-6f45cc3b1b93",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 18,
-        "playerUuid": "pl_0081"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_37",
+        "id": "f825d7b5-e869-4112-b9d4-63cfc992d5ab",
+        "playerId": "pl_0076",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 7,
-        "playerUuid": "pl_0076"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_8",
+        "id": "e981f537-1636-4c3a-af1f-36b31d897772",
+        "playerId": "pl_0082",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 8,
-        "playerUuid": "pl_0082"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_22",
+        "id": "182d8299-7f8f-4906-bf95-271401584857",
+        "playerId": "pl_0115",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 9,
-        "playerUuid": "pl_0115"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "4925534d-da47-4094-9fff-124d75f3a625",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 17,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2159,46 +2198,52 @@
     },
     "goals": [
       {
-        "playerId": "p_nowon_14",
+        "id": "00061ad0-490c-4ba6-aaf3-f17e4e6fd779",
+        "playerId": "pl_0342",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 7,
-        "playerUuid": "pl_0342"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_96",
+        "id": "7bf97dfb-fe8a-4602-ac60-8757f55d926a",
+        "playerId": "pl_0129",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 12,
-        "playerUuid": "pl_0129"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "8e7aabde-f169-454d-80cd-f8cf942f772f",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 18,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "7340b33b-4c3c-4029-bed1-b1c6a72abd2d",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 5,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_96",
+        "id": "6fcf823b-7ecd-42ac-bf27-af7f36d2c383",
+        "playerId": "pl_0129",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 11,
-        "playerUuid": "pl_0129"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_12",
+        "id": "570ef323-220c-44a7-95f7-8107722b5448",
+        "playerId": "pl_0106",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0106"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2218,46 +2263,52 @@
     },
     "goals": [
       {
-        "playerId": "p_gangwon_77",
+        "id": "2285f545-954e-4598-8b33-a389354f268a",
+        "playerId": "pl_0100",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 7,
-        "playerUuid": "pl_0100"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_23",
+        "id": "2422f771-554e-4fbf-bbe9-0926a9667abb",
+        "playerId": "pl_0096",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 7,
-        "playerUuid": "pl_0096"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "32d2b974-7789-4d00-b4d5-646ff331f5df",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 17,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
+        "id": "0fc347d7-8177-460a-a1ed-1f4cb7b6e37b",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 5,
-        "playerUuid": "pl_0081"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "62e1dc69-d088-460e-9a67-0e02d6fcc6d9",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 15,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "8d8e03ce-35df-4de2-b803-3fed64fdbd98",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2277,81 +2328,92 @@
     },
     "goals": [
       {
-        "playerId": "p_goyang_21",
+        "id": "276cad99-1b1a-49b9-b064-e2e64cfb665d",
+        "playerId": "pl_0114",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 3,
-        "playerUuid": "pl_0114"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "c9ae0979-30dc-4ae3-a3c9-3073fb0ed8e5",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 6,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_21",
+        "id": "30a75f78-d116-4c41-b484-ff4771c0df20",
+        "playerId": "pl_0114",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 11,
-        "playerUuid": "pl_0114"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "37d1e480-f66e-49e8-ac72-a1418d33a55e",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 14,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_14",
+        "id": "e4262be3-0a9f-4eb8-a4ee-26cd3e3830ed",
+        "playerId": "pl_0342",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 19,
-        "playerUuid": "pl_0342"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_14",
+        "id": "6aebf2b1-e6cc-4ccc-9f2f-b75350151e85",
+        "playerId": "pl_0342",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 2,
-        "playerUuid": "pl_0342"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_77",
+        "id": "19eb126e-bd00-42f2-84f1-48917c72b143",
+        "playerId": "pl_0125",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 5,
-        "playerUuid": "pl_0125"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_8",
+        "id": "2e932570-013f-4c82-8bbe-f0a9f1e84a2b",
+        "playerId": "pl_0356",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 9,
-        "playerUuid": "pl_0356"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_9",
+        "id": "83c3565a-a707-4559-b3bf-96c182df5536",
+        "playerId": "pl_0357",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 13,
-        "playerUuid": "pl_0357"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_96",
+        "id": "a42413a1-94b1-4c9f-92e6-a66583969fd6",
+        "playerId": "pl_0129",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 16,
-        "playerUuid": "pl_0129"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_17",
+        "id": "4db95b85-6579-4bf4-b5b1-d30e613ffd52",
+        "playerId": "pl_0343",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 18,
-        "playerUuid": "pl_0343"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2371,53 +2433,60 @@
     },
     "goals": [
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "dfafe24b-f170-4241-838e-ccaf79b3bd8f",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 0,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "78b80a92-beee-41d1-b86a-299b3f295528",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 1,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "c6c8e16d-5ca5-4e3b-ba33-8c5c3d4bc61a",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 2,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_5",
+        "id": "97b802b3-1d77-4645-9e9e-c5f5b4c72b0a",
+        "playerId": "pl_0212",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 6,
-        "playerUuid": "pl_0212"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_88",
+        "id": "57736813-ca4c-4f55-9fab-a647c7d6cb7a",
+        "playerId": "pl_0216",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 6,
-        "playerUuid": "pl_0216"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "1cee33c2-3736-4906-81ef-c123c76f631f",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 14,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "c712f64e-f0b7-4c15-97b6-23bd30cdb278",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2437,25 +2506,28 @@
     },
     "goals": [
       {
-        "playerId": "p_eunpyeong_21",
+        "id": "06725f48-d20c-4d5c-80fa-2dd0fae30659",
+        "playerId": "pl_0067",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 5,
-        "playerUuid": "pl_0067"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "fe239ac2-cc04-46b4-aa05-bab9df930ee0",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 15,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "ae223053-da93-446c-a12b-664d76e74e7b",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 16,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2475,18 +2547,20 @@
     },
     "goals": [
       {
-        "playerId": "p_goyang_27",
+        "id": "ed941914-8be5-4fa0-a588-add192d4be26",
+        "playerId": "pl_0116",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 5,
-        "playerUuid": "pl_0116"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_22",
+        "id": "c65e9b24-c23a-4d37-8e60-35cefef22df9",
+        "playerId": "pl_0115",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 15,
-        "playerUuid": "pl_0115"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2506,46 +2580,52 @@
     },
     "goals": [
       {
-        "playerId": "p_nowon_13",
+        "id": "425ea6e2-78cb-4270-98aa-898d425359dc",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 4,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_14",
+        "id": "9b84488b-c391-4d6c-bf80-a85b8dcdb001",
+        "playerId": "pl_0342",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 9,
-        "playerUuid": "pl_0342"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_9",
+        "id": "7a6ec5aa-3277-4c92-b3af-5c1b25957c34",
+        "playerId": "pl_0357",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 15,
-        "playerUuid": "pl_0357"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "15f77592-2426-49d6-8dcc-62cd57078688",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 5,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "c62e1896-b74a-47aa-a29d-6435dfcea573",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 7,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "56d09ffb-fd74-481d-b964-70df6b5f006f",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2565,60 +2645,68 @@
     },
     "goals": [
       {
-        "playerId": "p_gyeonggi_29",
+        "id": "70b819ee-3621-4199-8cf7-a400d1f9f876",
+        "playerId": "pl_0210",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 1,
-        "playerUuid": "pl_0210"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "81041f09-3566-4f0c-83bc-20738fcb9896",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 6,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "be59bafb-0c8b-4068-afad-cbf607c4c55f",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 9,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_10",
+        "id": "2628c371-ec02-47be-923e-e2f323cd0c85",
+        "playerId": "pl_0201",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 16,
-        "playerUuid": "pl_0201"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "9922708c-3176-48a4-a0a4-7c1847d285bb",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 3,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_8",
+        "id": "ebaf2820-a8ce-422e-906c-eda6435e0f65",
+        "playerId": "pl_0215",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 12,
-        "playerUuid": "pl_0215"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "a2bda285-b3a5-4fcf-9b84-d148272afd34",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 15,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_11",
+        "id": "de241621-d604-44da-997c-1985ba169865",
+        "playerId": "pl_0202",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 18,
-        "playerUuid": "pl_0202"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2638,88 +2726,100 @@
     },
     "goals": [
       {
-        "playerId": "p_goyang_21",
+        "id": "027f9eb2-7c38-41c4-a1c1-f590c929da4b",
+        "playerId": "pl_0114",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 2,
-        "playerUuid": "pl_0114"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "725eb472-a9f9-4c12-a4b7-9b19b3663e0e",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 1,
         "minute": 5,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "a2edba4e-5eaa-4c26-a3c7-5fe7d0519bfa",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 6,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "5b791b5f-1dd0-4d24-8bef-92f249673b12",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 14,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_6",
+        "id": "db4d3646-5a06-4e01-9fe2-bb3f7af774cd",
+        "playerId": "pl_0289",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 1,
-        "playerUuid": "pl_0289"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "61e1fe39-4d54-41fa-8088-1e8ffd4644df",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 2,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_17",
+        "id": "ce51b6d0-ca1f-48c5-9c89-41fa9dfc5691",
+        "playerId": "pl_0280",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 3,
-        "playerUuid": "pl_0280"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_10",
+        "id": "10ad0291-501f-4760-b796-e424e8c3f5a6",
+        "playerId": "pl_0104",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 6,
-        "playerUuid": "pl_0104"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_3",
+        "id": "eb6fb794-dbe2-4ee8-b570-1170af97126b",
+        "playerId": "pl_0117",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 11,
-        "playerUuid": "pl_0117"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_21",
+        "id": "2eeed34f-44b6-4d7e-88d3-c35339ae48be",
+        "playerId": "pl_0114",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 11,
-        "playerUuid": "pl_0114"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_1",
+        "id": "6e4452d4-c875-43d2-b2ae-53cc2ee5dda6",
+        "playerId": "pl_0275",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 18,
-        "playerUuid": "pl_0275"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_17",
+        "id": "b50da8b1-85c9-45be-b08f-4f544a8b125b",
+        "playerId": "pl_0109",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0109"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2739,25 +2839,28 @@
     },
     "goals": [
       {
-        "playerId": "p_nowon_10",
+        "id": "e3d08863-0b1d-4070-acf4-d7c52e6d33d0",
+        "playerId": "pl_0338",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 12,
-        "playerUuid": "pl_0338"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_8",
+        "id": "0cf9011a-b93c-4c86-821f-5765ce4b8c6b",
+        "playerId": "pl_0356",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 8,
-        "playerUuid": "pl_0356"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_8",
+        "id": "5ef6d360-586d-4b1c-957b-5a9464108870",
+        "playerId": "pl_0291",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 17,
-        "playerUuid": "pl_0291"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2777,46 +2880,52 @@
     },
     "goals": [
       {
-        "playerId": "p_gyeonggi_3",
+        "id": "d240dfed-5018-4cbe-8f96-056df15c1568",
+        "playerId": "pl_0211",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 3,
-        "playerUuid": "pl_0211"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_8",
+        "id": "2b7dbf2c-4006-460e-b47f-c136567e66f0",
+        "playerId": "pl_0215",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 7,
-        "playerUuid": "pl_0215"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_29",
+        "id": "4767fd65-da32-407c-a8cf-20801c0ee87c",
+        "playerId": "pl_0210",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 10,
-        "playerUuid": "pl_0210"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_3",
+        "id": "ff28c875-263f-45ce-ab54-6ccf6a81d418",
+        "playerId": "pl_0211",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 7,
-        "playerUuid": "pl_0211"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_15",
+        "id": "1eb2fa6e-cda3-4beb-80ef-73fb12bcb78b",
+        "playerId": "pl_0205",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 18,
-        "playerUuid": "pl_0205"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_14",
+        "id": "e87bcae4-970a-45c4-bc8c-51f02c7c8fff",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 18,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2836,60 +2945,68 @@
     },
     "goals": [
       {
-        "playerId": "p_nowon_12",
+        "id": "527da901-a27c-42e0-8f05-762958cc0893",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 3,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_12",
+        "id": "915fbd43-cf20-4e72-b5f8-d04543471bba",
+        "playerId": "pl_0340",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 12,
-        "playerUuid": "pl_0340"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_13",
+        "id": "3370ba2a-535b-4290-a1d4-5760fa5e0292",
+        "playerId": "pl_0341",
         "teamId": "t_nowon",
         "half": 1,
         "minute": 17,
-        "playerUuid": "pl_0341"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_25",
+        "id": "49691d70-e70d-4074-a832-976f2f24ea68",
+        "playerId": "pl_0351",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 2,
-        "playerUuid": "pl_0351"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
+        "id": "3035d04b-1e4a-4da6-9cc1-4687386a7046",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 4,
-        "playerUuid": "pl_0081"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_21",
+        "id": "0fd651c3-1f13-4e9d-985a-fbdc902c6405",
+        "playerId": "pl_0348",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 8,
-        "playerUuid": "pl_0348"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_9",
+        "id": "68ef8032-5fd6-4474-941a-9994344725a1",
+        "playerId": "pl_0357",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 15,
-        "playerUuid": "pl_0357"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_nowon_10",
+        "id": "a55f72cb-6fe3-4aaa-8e7a-13249597f5ba",
+        "playerId": "pl_0338",
         "teamId": "t_nowon",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0338"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2909,46 +3026,52 @@
     },
     "goals": [
       {
-        "playerId": "p_gangwon_14",
+        "id": "2df5eab4-8ec8-46a8-b4d3-4a6c8b1dc05e",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 6,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_17",
+        "id": "c6bebab6-fea3-4bf1-993f-71cc701c9dc2",
+        "playerId": "pl_0280",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 7,
-        "playerUuid": "pl_0280"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_12",
+        "id": "ea803ae8-0748-4060-a3f0-ebeeaf95a77e",
+        "playerId": "pl_0277",
         "teamId": "t_jeonju",
         "half": 1,
         "minute": 15,
-        "playerUuid": "pl_0277"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_6",
+        "id": "2479b72a-8890-4b76-9e67-43e879895dd3",
+        "playerId": "pl_0098",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 19,
-        "playerUuid": "pl_0098"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_2",
+        "id": "aa069016-7853-4fd4-8a4c-a4f62b7af0ae",
+        "playerId": "pl_0092",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 16,
-        "playerUuid": "pl_0092"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_jeonju_88",
+        "id": "8a7df891-23aa-46cc-81f4-c1dd4a6daff9",
+        "playerId": "pl_0292",
         "teamId": "t_jeonju",
         "half": 2,
         "minute": 18,
-        "playerUuid": "pl_0292"
+        "isOwnGoal": false
       }
     ]
   },
@@ -2968,46 +3091,52 @@
     },
     "goals": [
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "549a7f93-92e4-44be-b578-f2b5f6a2bd5d",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 9,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "21fcc21e-250c-4dde-a418-4efd865ac323",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 17,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_21",
+        "id": "77ee2420-9ae7-4d39-bdb7-b3ef70bdb27c",
+        "playerId": "pl_0114",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 9,
-        "playerUuid": "pl_0114"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "8ef0f56c-4208-4c7f-8ff5-1fc93785c417",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 10,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "965c1a46-5b33-4615-8663-f0f15e6d6929",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 16,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_goyang_7",
+        "id": "524659eb-fb09-4c47-b352-c849ae008234",
+        "playerId": "pl_0124",
         "teamId": "t_goyang",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0124"
+        "isOwnGoal": false
       }
     ]
   },
@@ -3027,53 +3156,60 @@
     },
     "goals": [
       {
-        "playerId": "p_gangwon_10",
+        "id": "1822ddac-af57-4a9f-a6e6-11416ba035f3",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 2,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_14",
+        "id": "87c19585-df11-4f89-b569-213bee50f1ae",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 3,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_11",
+        "id": "d4bbc9b6-c770-49a2-851d-5b42b290a33a",
+        "playerId": "pl_0058",
         "teamId": "t_eunpyeong",
         "half": 1,
         "minute": 7,
-        "playerUuid": "pl_0058"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_10",
+        "id": "8c3049ec-91bc-4695-9f79-ccb9d164e1cd",
+        "playerId": "pl_0086",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 9,
-        "playerUuid": "pl_0086"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_6",
+        "id": "fdd908d7-eb15-4bc6-84ea-bece6c79db57",
+        "playerId": "pl_0098",
         "teamId": "t_gangwon",
         "half": 1,
         "minute": 15,
-        "playerUuid": "pl_0098"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gangwon_14",
+        "id": "1d204b8f-9c2f-4911-8379-acadefc33b26",
+        "playerId": "pl_0089",
         "teamId": "t_gangwon",
         "half": 2,
         "minute": 9,
-        "playerUuid": "pl_0089"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_eunpyeong_77",
+        "id": "a158e6d1-c02f-4658-bc6f-6c1d96c25d51",
+        "playerId": "pl_0081",
         "teamId": "t_eunpyeong",
         "half": 2,
         "minute": 16,
-        "playerUuid": "pl_0081"
+        "isOwnGoal": false
       }
     ]
   },
@@ -3093,81 +3229,92 @@
     },
     "goals": [
       {
-        "playerId": "p_gyeonggi_15",
+        "id": "41e4e8f8-26ad-4565-b71e-d415afdd5ded",
+        "playerId": "pl_0205",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 2,
-        "playerUuid": "pl_0205"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_9",
+        "id": "b09fe3a2-fa3b-441a-ad8b-9040fc35aef3",
+        "playerId": "pl_0217",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 8,
-        "playerUuid": "pl_0217"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_29",
+        "id": "0e8183a5-1101-4c42-8bd8-2b2d9f36b9c8",
+        "playerId": "pl_0210",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 9,
-        "playerUuid": "pl_0210"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "bad343a3-483e-4131-b5d1-5fedd303dd77",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 1,
         "minute": 16,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_15",
+        "id": "ca97d0db-a254-4d73-a74a-452483039bee",
+        "playerId": "pl_0205",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 2,
-        "playerUuid": "pl_0205"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_13",
+        "id": "032ed79c-e0a4-498d-b04f-f9cf49e63d52",
+        "playerId": "pl_0203",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 7,
-        "playerUuid": "pl_0203"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "c7b8ba5a-41f2-4e10-b351-10f40b79854a",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 10,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_18",
+        "id": "9c241118-6f61-4780-825a-25f1f91c5aae",
+        "playerId": "pl_0207",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 12,
-        "playerUuid": "pl_0207"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_5",
+        "id": "f57dbfed-8e4f-4739-ba22-bfbb1543082f",
+        "playerId": "pl_0212",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 14,
-        "playerUuid": "pl_0212"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_7",
+        "id": "2db8bd21-e8da-4d11-b438-768b80d5d525",
+        "playerId": "pl_0214",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 18,
-        "playerUuid": "pl_0214"
+        "isOwnGoal": false
       },
       {
-        "playerId": "p_gyeonggi_29",
+        "id": "258130c5-4b48-47b1-80b0-fbc311cd5e4e",
+        "playerId": "pl_0210",
         "teamId": "t_gyeonggi",
         "half": 2,
         "minute": 19,
-        "playerUuid": "pl_0210"
+        "isOwnGoal": false
       }
     ]
   }
