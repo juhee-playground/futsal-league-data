@@ -745,5 +745,752 @@
     "shirtNumber": 41,
     "startDate": "2026-11-15",
     "endDate": null
+  },
+  {
+    "id": "pr_pl_0023_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0023",
+    "teamId": "t_jecheon",
+    "shirtNumber": 1,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0260_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0260",
+    "teamId": "t_jecheon",
+    "shirtNumber": 13,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0264_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0264",
+    "teamId": "t_jecheon",
+    "shirtNumber": 21,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0417_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0417",
+    "teamId": "t_jecheon",
+    "shirtNumber": 30,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0418_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0418",
+    "teamId": "t_jecheon",
+    "shirtNumber": 99,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0270_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0270",
+    "teamId": "t_jecheon",
+    "shirtNumber": 4,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0259_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0259",
+    "teamId": "t_jecheon",
+    "shirtNumber": 11,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0265_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0265",
+    "teamId": "t_jecheon",
+    "shirtNumber": 23,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0419_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0419",
+    "teamId": "t_jecheon",
+    "shirtNumber": 27,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0268_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0268",
+    "teamId": "t_jecheon",
+    "shirtNumber": 29,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0274_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0274",
+    "teamId": "t_jecheon",
+    "shirtNumber": 66,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0420_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0420",
+    "teamId": "t_jecheon",
+    "shirtNumber": 68,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0421_2026-2027_jecheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0421",
+    "teamId": "t_jecheon",
+    "shirtNumber": 77,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0422_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0422",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 7,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0215_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0215",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 8,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0207_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0207",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 10,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0423_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0423",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 19,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0209_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0209",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 24,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0298_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0298",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 1,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0312_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0312",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 6,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0203_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0203",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 13,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0424_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0424",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 15,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0314_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0314",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 17,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0425_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0425",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 33,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0079_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0079",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 38,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0313_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0313",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 42,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0125_2026-2027_incheon_zd",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0125",
+    "teamId": "t_incheon_zd",
+    "shirtNumber": 77,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0128_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0128",
+    "teamId": "t_incheon",
+    "shirtNumber": 7,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0318_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0318",
+    "teamId": "t_incheon",
+    "shirtNumber": 9,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0426_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0426",
+    "teamId": "t_incheon",
+    "shirtNumber": 19,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0427_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0427",
+    "teamId": "t_incheon",
+    "shirtNumber": 22,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0315_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0315",
+    "teamId": "t_incheon",
+    "shirtNumber": 88,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0311_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0311",
+    "teamId": "t_incheon",
+    "shirtNumber": 13,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0078_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0078",
+    "teamId": "t_incheon",
+    "shirtNumber": 14,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0428_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0428",
+    "teamId": "t_incheon",
+    "shirtNumber": 16,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0429_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0429",
+    "teamId": "t_incheon",
+    "shirtNumber": 29,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0430_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0430",
+    "teamId": "t_incheon",
+    "shirtNumber": 47,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0431_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0431",
+    "teamId": "t_incheon",
+    "shirtNumber": 70,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0432_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0432",
+    "teamId": "t_incheon",
+    "shirtNumber": 72,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0320_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0320",
+    "teamId": "t_incheon",
+    "shirtNumber": 96,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0319_2026-2027_incheon",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0319",
+    "teamId": "t_incheon",
+    "shirtNumber": 99,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0358_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0358",
+    "teamId": "t_cheongju",
+    "shirtNumber": 1,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0303_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0303",
+    "teamId": "t_cheongju",
+    "shirtNumber": 8,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0017_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0017",
+    "teamId": "t_cheongju",
+    "shirtNumber": 10,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0433_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0433",
+    "teamId": "t_cheongju",
+    "shirtNumber": 15,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0108_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0108",
+    "teamId": "t_cheongju",
+    "shirtNumber": 41,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0028_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0028",
+    "teamId": "t_cheongju",
+    "shirtNumber": 3,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0434_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0434",
+    "teamId": "t_cheongju",
+    "shirtNumber": 4,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0435_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0435",
+    "teamId": "t_cheongju",
+    "shirtNumber": 6,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0037_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0037",
+    "teamId": "t_cheongju",
+    "shirtNumber": 9,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0436_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0436",
+    "teamId": "t_cheongju",
+    "shirtNumber": 13,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0437_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0437",
+    "teamId": "t_cheongju",
+    "shirtNumber": 14,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0438_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0438",
+    "teamId": "t_cheongju",
+    "shirtNumber": 18,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0439_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0439",
+    "teamId": "t_cheongju",
+    "shirtNumber": 21,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0030_2026-2027_cheongju",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0030",
+    "teamId": "t_cheongju",
+    "shirtNumber": 38,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0167_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0167",
+    "teamId": "t_gumi",
+    "shirtNumber": 3,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0151_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0151",
+    "teamId": "t_gumi",
+    "shirtNumber": 10,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0152_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0152",
+    "teamId": "t_gumi",
+    "shirtNumber": 11,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0161_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0161",
+    "teamId": "t_gumi",
+    "shirtNumber": 20,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0174_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0174",
+    "teamId": "t_gumi",
+    "shirtNumber": 77,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0150_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0150",
+    "teamId": "t_gumi",
+    "shirtNumber": 1,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0172_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0172",
+    "teamId": "t_gumi",
+    "shirtNumber": 7,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0219_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0219",
+    "teamId": "t_gumi",
+    "shirtNumber": 9,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0153_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0153",
+    "teamId": "t_gumi",
+    "shirtNumber": 12,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0155_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0155",
+    "teamId": "t_gumi",
+    "shirtNumber": 14,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0381_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0381",
+    "teamId": "t_gumi",
+    "shirtNumber": 21,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0440_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0440",
+    "teamId": "t_gumi",
+    "shirtNumber": 25,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0173_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0173",
+    "teamId": "t_gumi",
+    "shirtNumber": 76,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0176_2026-2027_gumi",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0176",
+    "teamId": "t_gumi",
+    "shirtNumber": 88,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0441_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0441",
+    "teamId": "t_daegu",
+    "shirtNumber": 2,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0040_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0040",
+    "teamId": "t_daegu",
+    "shirtNumber": 10,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0093_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0093",
+    "teamId": "t_daegu",
+    "shirtNumber": 20,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0092_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0092",
+    "teamId": "t_daegu",
+    "shirtNumber": 40,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0100_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0100",
+    "teamId": "t_daegu",
+    "shirtNumber": 77,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0047_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0047",
+    "teamId": "t_daegu",
+    "shirtNumber": 7,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0054_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0054",
+    "teamId": "t_daegu",
+    "shirtNumber": 8,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0442_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0442",
+    "teamId": "t_daegu",
+    "shirtNumber": 9,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0041_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0041",
+    "teamId": "t_daegu",
+    "shirtNumber": 11,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0044_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0044",
+    "teamId": "t_daegu",
+    "shirtNumber": 17,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0046_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0046",
+    "teamId": "t_daegu",
+    "shirtNumber": 19,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0443_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0443",
+    "teamId": "t_daegu",
+    "shirtNumber": 31,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0171_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0171",
+    "teamId": "t_daegu",
+    "shirtNumber": 44,
+    "startDate": "2026-11-14",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0087_2026-2027_daegu",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0087",
+    "teamId": "t_daegu",
+    "shirtNumber": 58,
+    "startDate": "2026-11-14",
+    "endDate": null
   }
 ]

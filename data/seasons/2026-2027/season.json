@@ -18,12 +18,13 @@
       "divisionId": "fk2",
       "name": "2026-2027 FK 2부 리그",
       "startDate": "2026-11-15",
-      "endDate": null,
+      "endDate": "2027-03-21",
       "pointRule": {
         "win": 3,
         "draw": 1,
         "loss": 0
-      }
+      },
+      "rounds": 14
     }
   ]
 }
