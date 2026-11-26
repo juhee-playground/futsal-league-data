@@ -34,7 +34,13 @@ data/
 node scripts/migration/migrate-all.mjs --dry-run
 node scripts/migration/migrate-all.mjs
 node scripts/validation/validate-all.mjs
+
+# 경기 기록 크롤 (로컬)
+cd scripts/sync-matches && pnpm install
+node sync-matches.js fk1 --write
 ```
+
+주간 자동 동기화: GitHub Actions `Sync Match Records` (매주 월요일 18:00 KST → `develop`)
 
 ## 승격·강등 / 이적
 
