@@ -202,11 +202,28 @@
     "place": "홍천종합체육관",
     "homeTeamId": "t_gangwon",
     "awayTeamId": "t_goyang",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "id": "2ef6d4e8-d7e8-4054-968b-4dc4d360a9c3",
+        "playerId": "pl_0206",
+        "teamId": "t_gangwon",
+        "half": 1,
+        "minute": 19,
+        "isOwnGoal": false
+      },
+      {
+        "id": "242fe948-9685-41c2-b6c8-723c6d0e1e43",
+        "playerId": "pl_0124",
+        "teamId": "t_gangwon",
+        "half": 2,
+        "minute": 19,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     }
   },
@@ -218,12 +235,69 @@
     "place": "파주NFC",
     "homeTeamId": "t_eunpyeong",
     "awayTeamId": "t_yongin",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "id": "a3b9cf8e-0b82-4c29-a2ac-1e3dc61fe38a",
+        "playerId": "pl_0444",
+        "teamId": "t_eunpyeong",
+        "half": 1,
+        "minute": 2,
+        "isOwnGoal": false
+      },
+      {
+        "id": "95c269c5-a0de-46b3-b627-74001c108ef1",
+        "playerId": "pl_0074",
+        "teamId": "t_eunpyeong",
+        "half": 1,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "id": "455be702-3e04-45aa-9165-957efed6911f",
+        "playerId": "pl_0114",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 20,
+        "isOwnGoal": false
+      },
+      {
+        "id": "d230057f-69fc-41c1-981b-d26c7f4fca9f",
+        "playerId": "pl_0373",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 13,
+        "isOwnGoal": false
+      },
+      {
+        "id": "bee033a0-b6f2-48bc-938c-523d9dd2572f",
+        "playerId": "pl_0373",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "id": "84b25bc4-8aca-4cd0-b897-b0e02b77e37e",
+        "playerId": "pl_0359",
+        "teamId": "t_yongin",
+        "half": 1,
+        "minute": 20,
+        "isOwnGoal": false
+      },
+      {
+        "id": "784b100b-8aac-4ab9-8fae-945cc369bdfb",
+        "playerId": "pl_0370",
+        "teamId": "t_yongin",
+        "half": 2,
+        "minute": 2,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 5
     }
   },
   {
@@ -234,12 +308,69 @@
     "place": "파주NFC",
     "homeTeamId": "t_hwaseong",
     "awayTeamId": "t_nowon",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "youtube_url": "",
-    "goals": [],
+    "goals": [
+      {
+        "id": "a0554865-5033-4cf8-8b27-1987ab20b6a4",
+        "playerId": "pl_0235",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 9,
+        "isOwnGoal": false
+      },
+      {
+        "id": "85e40e31-6048-4a05-b4cb-2543f91eb555",
+        "playerId": "pl_0445",
+        "teamId": "t_hwaseong",
+        "half": 2,
+        "minute": 18,
+        "isOwnGoal": false
+      },
+      {
+        "id": "a4535f45-ff6f-4134-8803-b49e5f2f9fb5",
+        "playerId": "pl_0304",
+        "teamId": "t_hwaseong",
+        "half": 1,
+        "minute": 14,
+        "isOwnGoal": false
+      },
+      {
+        "id": "8958d661-817c-4df1-81ce-b952c9a6520d",
+        "playerId": "pl_0402",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 2,
+        "isOwnGoal": false
+      },
+      {
+        "id": "3ff62784-e6e7-45e4-9f99-40835546eb2e",
+        "playerId": "pl_0098",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 6,
+        "isOwnGoal": false
+      },
+      {
+        "id": "b6a88407-5b9c-4736-84b3-cc9f7fd61aa8",
+        "playerId": "pl_0403",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 8,
+        "isOwnGoal": false
+      },
+      {
+        "id": "532471bc-be17-4351-b88a-7dd38bebff47",
+        "playerId": "pl_0341",
+        "teamId": "t_nowon",
+        "half": 1,
+        "minute": 16,
+        "isOwnGoal": false
+      }
+    ],
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 4
     }
   },
   {

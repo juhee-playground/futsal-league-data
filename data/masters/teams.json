@@ -127,20 +127,22 @@
   {
     "id": "t_incheon",
     "name": "인천풋살클럽",
+    "shortName": "인천FC",
     "status": "ACTIVE",
     "color": "#0033a0",
     "darkColor": "#4c8dff",
-    "logo": "",
+    "logo": "team_incheon.jpg",
     "address": "",
     "location": "인천동남스포피아"
   },
   {
     "id": "t_incheon_zd",
     "name": "인천ZD스포츠",
+    "shortName": "인천ZD",
     "status": "ACTIVE",
     "color": "#111111",
     "darkColor": "#333333",
-    "logo": "",
+    "logo": "team_incheon_zd.jpg",
     "address": "",
     "location": "인천동남스포피아"
   },

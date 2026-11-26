@@ -1492,5 +1492,41 @@
     "shirtNumber": 58,
     "startDate": "2026-11-14",
     "endDate": null
+  },
+  {
+    "id": "pr_pl_0444_2026-2027_eunpyeong",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0444",
+    "teamId": "t_eunpyeong",
+    "shirtNumber": 9,
+    "startDate": "2026-11-21",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0445_2026-2027_hwaseong",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0445",
+    "teamId": "t_hwaseong",
+    "shirtNumber": 77,
+    "startDate": "2026-11-21",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0277_2026-2027_gunsan",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0277",
+    "teamId": "t_gunsan",
+    "shirtNumber": 12,
+    "startDate": "2026-11-22",
+    "endDate": null
+  },
+  {
+    "id": "pr_pl_0278_2026-2027_gunsan",
+    "seasonId": "2026-2027",
+    "playerId": "pl_0278",
+    "teamId": "t_gunsan",
+    "shirtNumber": 13,
+    "startDate": "2026-11-22",
+    "endDate": null
   }
 ]

@@ -47,6 +47,7 @@ data/
 - `divisionId` 없음
 - `name`: 현재 구단명. 과거 시즌명은 `team_seasons.name`
 - public 파서 필수: `location`, `address`, `logo`, `color`, `darkColor` (빈 문자열 `""` 허용)
+- `shortName` (선택): 달력 칸용 약칭 (4자 내외, 예: `"인천FC"`). 없으면 public이 이름에서 지역명을 뽑는다
 
 ### `masters/players.json`
 
